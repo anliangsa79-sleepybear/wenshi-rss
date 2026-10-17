@@ -1,0 +1,90 @@
+{
+  "generatedAt": "2026-10-17T19:09:13.441Z",
+  "vertical": "新影新书",
+  "itemCount": 6,
+  "errorCount": 0,
+  "warningCount": 0,
+  "p1ErrorCount": 0,
+  "p1WarningCount": 0,
+  "p2ErrorCount": 0,
+  "p2WarningCount": 0,
+  "deduplicatedTitleCount": 0,
+  "errors": [],
+  "warnings": [],
+  "p2Errors": [],
+  "p2Warnings": [],
+  "autoFixes": [],
+  "sharedParagraphs": [],
+  "droppedSharedParagraphs": [],
+  "duplicateParagraphItems": [],
+  "duplicateMainImages": [],
+  "noImageItems": [],
+  "items": [
+    {
+      "title": "《大濛》：一段旧时代的相遇，为什么会让人重新理解“记得”",
+      "guid": "新影新书:48fcb48d7a",
+      "source": "新影新书/2026-10-17-17-02-大濛.md",
+      "bodyChars": 1855,
+      "paragraphCount": 11,
+      "headingCount": 4,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《后室》：最像“后室”的，不是黄色走廊，而是被生活掏空之后的自己",
+      "guid": "新影新书:2f7c06eb83",
+      "source": "新影新书/2026-10-17-17-05-后室.md",
+      "bodyChars": 1999,
+      "paragraphCount": 12,
+      "headingCount": 4,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《魔方小姐》：她不是在复原魔方，而是在把人生重新拧回自己手里",
+      "guid": "新影新书:7d04cbe6a5",
+      "source": "新影新书/2026-10-17-17-04-魔方小姐.md",
+      "bodyChars": 1833,
+      "paragraphCount": 11,
+      "headingCount": 4,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《希望》：外星人真正可怕的地方，是我们永远只站在自己的那一边",
+      "guid": "新影新书:d531f19e50",
+      "source": "新影新书/2026-10-17-17-01-希望.md",
+      "bodyChars": 1916,
+      "paragraphCount": 11,
+      "headingCount": 4,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《峡湾》：当一个家庭被交给制度审判，谁能定义“正确的爱”",
+      "guid": "新影新书:5466eeec49",
+      "source": "新影新书/2026-10-17-17-03-峡湾.md",
+      "bodyChars": 1856,
+      "paragraphCount": 11,
+      "headingCount": 4,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《失语的皇后》：当历史只留下一个沉默的名字",
+      "guid": "新影新书:3dacc0234b",
+      "source": "新影新书/2026-10-16-测试-失语的皇后/2026-10-16-测试-失语的皇后.md",
+      "bodyChars": 1277,
+      "paragraphCount": 11,
+      "headingCount": 3,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    }
+  ]
+}
