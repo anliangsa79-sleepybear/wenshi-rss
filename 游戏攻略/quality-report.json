@@ -1,0 +1,834 @@
+{
+  "generatedAt": "2026-10-24T14:14:52.093Z",
+  "vertical": "游戏攻略",
+  "itemCount": 60,
+  "errorCount": 0,
+  "warningCount": 0,
+  "p1ErrorCount": 0,
+  "p1WarningCount": 0,
+  "p2ErrorCount": 0,
+  "p2WarningCount": 0,
+  "deduplicatedTitleCount": 0,
+  "errors": [],
+  "warnings": [],
+  "p2Errors": [],
+  "p2Warnings": [],
+  "autoFixes": [
+    "已清理 15 篇文章内的重复段落",
+    "已删除 2 个跨文章高频模板段落"
+  ],
+  "sharedParagraphs": [
+    {
+      "text": "把每次出发前的问题说清楚，把资源留给真正会改变路线的节点。这样玩下去，你会比照着一张“最强答案”抄得更久，也更容易知道下一次该改哪一步。",
+      "count": 15,
+      "titles": [
+        "矮人要塞（Dwarf Fortress）：第一座要塞别追宏伟：先让矮人有饭吃、有水喝、能睡觉",
+        "艾尔登法环（Elden Ring）：第一次进交界地别急着找大卢恩：先把地图、马和升级材料接起来",
+        "风暴之城（Against the Storm）：别把每个村落都建设成天堂：胜利条件才是你的方向盘",
+        "怪物猎人：崛起（Monster Hunter Rise）：第一次狩猎别把采集当成浪费时间",
+        "极乐迪斯科（Disco Elysium）：别把失败当成坏结局：极乐迪斯科要你听见脑子里的争吵",
+        "漫漫长夜（The Long Dark）：狼不是最先要解决的问题：漫漫长夜的第一天先管理温度和路线",
+        "缺氧（Oxygen Not Included）：殖民地总在第十天窒息？问题通常早在第一天就埋下了",
+        "赛博朋克2077（Cyberpunk 2077）：别急着堆伤害：夜之城前期先决定你愿意怎样接近目标",
+        "杀戮尖塔（Slay the Spire）：不是拿到强牌就赢：小牌组更需要你会拒绝",
+        "神界：原罪2（Divinity: Original Sin 2）：新手别先问选什么职业：先弄明白护甲怎么被打穿",
+        "死亡价值（Valor Mortis）：别把第一只怪当成练刀的木桩",
+        "无人深空（No Man’s Sky）：回归无人深空先别急着造大基地：先把生存循环接上",
+        "幽浮2（XCOM 2）：别把每次任务都打成清场：幽浮2最值钱的是行动权",
+        "战锤40K：星际战士2（Warhammer 40,000: Space Marine 2）：重装甲也会死：先找适合你的职业节奏",
+        "只狼：影逝二度（Sekiro: Shadows Die Twice）：别把只狼玩成翻滚游戏：你的第一条进步曲线其实是架势"
+      ]
+    },
+    {
+      "text": "等这套节奏稳定下来，再去追更远的地图、更难的敌人或更完整的收集，才不会把探索变成重复劳动。你会发现，熟练并不等于每一局都漂亮，而是局面变坏时，仍然知道该舍弃什么。",
+      "count": 15,
+      "titles": [
+        "《冰汽时代》（Frostpunk）煤堆见底时别只加采集站：先查热区、工人和法律是不是同一条链",
+        "《耻辱2》（Dishonored 2）潜入总在最后一间房暴露？先按“看路线—拆守卫—留退路”处理，不要只靠读档",
+        "《辐射4》（Fallout 4）离开避难所后别急着接所有任务：先把钻石城、工坊和补给线接成一条路",
+        "《怪物猎人：世界》（Monster Hunter: World）第一次进古代树别追着怪跑：先做调查、磨刀和回营地的准备",
+        "《黑暗之魂3》（Dark Souls III）第一次打不过不是因为伤害低：先看翻滚距离、绿条和Boss门口的地形",
+        "《荒野大镖客2》（Red Dead Redemption 2）骑马总在半路出事？先把营地、马匹和枪套当成一套系统",
+        "《仁王2》（Nioh 2）常死在妖怪技和残心之间？别只盯着武器面板，先把精力条的回合接起来",
+        "《森林之子》（Sons of the Forest）第一座基地别盖成堡垒：先把水、睡眠、视野和撤退方向排好",
+        "《上古卷轴5：天际》（Skyrim）重开角色先别纠结种族：把龙石、马和负重问题解决，冒险会顺很多",
+        "《深岩银河》（Deep Rock Galactic）第一次下矿别只顾着打虫：矿脉、照明和撤离按钮要按同一套节奏",
+        "《双人成行》（It Takes Two）总在机关前互相等？把两个人的能力当成一条对话，不要各自闷头试",
+        "《死亡细胞》（Dead Cells）一局总在第二张图断掉？别急着追诅咒宝箱，先把路线、卷轴和变异配成一条活法",
+        "《文明6》（Sid Meier’s Civilization VI）开局总落后？问题多半不在科技树，而在你没有先决定城市要靠什么赢",
+        "《星际拓荒》（Outer Wilds）别把量子月当成普通星球：先学会观察线索变化，再决定下一次循环去哪里",
+        "《星空》（Starfield）飞船越改越乱？先把货舱、跃迁和船员岗位拆开，别让一艘船承担所有任务"
+      ]
+    }
+  ],
+  "droppedSharedParagraphs": [
+    {
+      "text": "把每次出发前的问题说清楚，把资源留给真正会改变路线的节点。这样玩下去，你会比照着一张“最强答案”抄得更久，也更容易知道下一次该改哪一步。",
+      "count": 15,
+      "titles": [
+        "矮人要塞（Dwarf Fortress）：第一座要塞别追宏伟：先让矮人有饭吃、有水喝、能睡觉",
+        "艾尔登法环（Elden Ring）：第一次进交界地别急着找大卢恩：先把地图、马和升级材料接起来",
+        "风暴之城（Against the Storm）：别把每个村落都建设成天堂：胜利条件才是你的方向盘",
+        "怪物猎人：崛起（Monster Hunter Rise）：第一次狩猎别把采集当成浪费时间",
+        "极乐迪斯科（Disco Elysium）：别把失败当成坏结局：极乐迪斯科要你听见脑子里的争吵",
+        "漫漫长夜（The Long Dark）：狼不是最先要解决的问题：漫漫长夜的第一天先管理温度和路线",
+        "缺氧（Oxygen Not Included）：殖民地总在第十天窒息？问题通常早在第一天就埋下了",
+        "赛博朋克2077（Cyberpunk 2077）：别急着堆伤害：夜之城前期先决定你愿意怎样接近目标",
+        "杀戮尖塔（Slay the Spire）：不是拿到强牌就赢：小牌组更需要你会拒绝",
+        "神界：原罪2（Divinity: Original Sin 2）：新手别先问选什么职业：先弄明白护甲怎么被打穿",
+        "死亡价值（Valor Mortis）：别把第一只怪当成练刀的木桩",
+        "无人深空（No Man’s Sky）：回归无人深空先别急着造大基地：先把生存循环接上",
+        "幽浮2（XCOM 2）：别把每次任务都打成清场：幽浮2最值钱的是行动权",
+        "战锤40K：星际战士2（Warhammer 40,000: Space Marine 2）：重装甲也会死：先找适合你的职业节奏",
+        "只狼：影逝二度（Sekiro: Shadows Die Twice）：别把只狼玩成翻滚游戏：你的第一条进步曲线其实是架势"
+      ]
+    },
+    {
+      "text": "等这套节奏稳定下来，再去追更远的地图、更难的敌人或更完整的收集，才不会把探索变成重复劳动。你会发现，熟练并不等于每一局都漂亮，而是局面变坏时，仍然知道该舍弃什么。",
+      "count": 15,
+      "titles": [
+        "《冰汽时代》（Frostpunk）煤堆见底时别只加采集站：先查热区、工人和法律是不是同一条链",
+        "《耻辱2》（Dishonored 2）潜入总在最后一间房暴露？先按“看路线—拆守卫—留退路”处理，不要只靠读档",
+        "《辐射4》（Fallout 4）离开避难所后别急着接所有任务：先把钻石城、工坊和补给线接成一条路",
+        "《怪物猎人：世界》（Monster Hunter: World）第一次进古代树别追着怪跑：先做调查、磨刀和回营地的准备",
+        "《黑暗之魂3》（Dark Souls III）第一次打不过不是因为伤害低：先看翻滚距离、绿条和Boss门口的地形",
+        "《荒野大镖客2》（Red Dead Redemption 2）骑马总在半路出事？先把营地、马匹和枪套当成一套系统",
+        "《仁王2》（Nioh 2）常死在妖怪技和残心之间？别只盯着武器面板，先把精力条的回合接起来",
+        "《森林之子》（Sons of the Forest）第一座基地别盖成堡垒：先把水、睡眠、视野和撤退方向排好",
+        "《上古卷轴5：天际》（Skyrim）重开角色先别纠结种族：把龙石、马和负重问题解决，冒险会顺很多",
+        "《深岩银河》（Deep Rock Galactic）第一次下矿别只顾着打虫：矿脉、照明和撤离按钮要按同一套节奏",
+        "《双人成行》（It Takes Two）总在机关前互相等？把两个人的能力当成一条对话，不要各自闷头试",
+        "《死亡细胞》（Dead Cells）一局总在第二张图断掉？别急着追诅咒宝箱，先把路线、卷轴和变异配成一条活法",
+        "《文明6》（Sid Meier’s Civilization VI）开局总落后？问题多半不在科技树，而在你没有先决定城市要靠什么赢",
+        "《星际拓荒》（Outer Wilds）别把量子月当成普通星球：先学会观察线索变化，再决定下一次循环去哪里",
+        "《星空》（Starfield）飞船越改越乱？先把货舱、跃迁和船员岗位拆开，别让一艘船承担所有任务"
+      ]
+    }
+  ],
+  "duplicateParagraphItems": [
+    {
+      "title": "矮人要塞（Dwarf Fortress）：第一座要塞别追宏伟：先让矮人有饭吃、有水喝、能睡觉",
+      "count": 12
+    },
+    {
+      "title": "艾尔登法环（Elden Ring）：第一次进交界地别急着找大卢恩：先把地图、马和升级材料接起来",
+      "count": 11
+    },
+    {
+      "title": "风暴之城（Against the Storm）：别把每个村落都建设成天堂：胜利条件才是你的方向盘",
+      "count": 11
+    },
+    {
+      "title": "怪物猎人：崛起（Monster Hunter Rise）：第一次狩猎别把采集当成浪费时间",
+      "count": 9
+    },
+    {
+      "title": "极乐迪斯科（Disco Elysium）：别把失败当成坏结局：极乐迪斯科要你听见脑子里的争吵",
+      "count": 12
+    },
+    {
+      "title": "漫漫长夜（The Long Dark）：狼不是最先要解决的问题：漫漫长夜的第一天先管理温度和路线",
+      "count": 12
+    },
+    {
+      "title": "缺氧（Oxygen Not Included）：殖民地总在第十天窒息？问题通常早在第一天就埋下了",
+      "count": 12
+    },
+    {
+      "title": "赛博朋克2077（Cyberpunk 2077）：别急着堆伤害：夜之城前期先决定你愿意怎样接近目标",
+      "count": 11
+    },
+    {
+      "title": "杀戮尖塔（Slay the Spire）：不是拿到强牌就赢：小牌组更需要你会拒绝",
+      "count": 10
+    },
+    {
+      "title": "神界：原罪2（Divinity: Original Sin 2）：新手别先问选什么职业：先弄明白护甲怎么被打穿",
+      "count": 9
+    },
+    {
+      "title": "死亡价值（Valor Mortis）：别把第一只怪当成练刀的木桩",
+      "count": 8
+    },
+    {
+      "title": "无人深空（No Man’s Sky）：回归无人深空先别急着造大基地：先把生存循环接上",
+      "count": 10
+    },
+    {
+      "title": "幽浮2（XCOM 2）：别把每次任务都打成清场：幽浮2最值钱的是行动权",
+      "count": 12
+    },
+    {
+      "title": "战锤40K：星际战士2（Warhammer 40,000: Space Marine 2）：重装甲也会死：先找适合你的职业节奏",
+      "count": 10
+    },
+    {
+      "title": "只狼：影逝二度（Sekiro: Shadows Die Twice）：别把只狼玩成翻滚游戏：你的第一条进步曲线其实是架势",
+      "count": 11
+    }
+  ],
+  "duplicateMainImages": [],
+  "noImageItems": [],
+  "items": [
+    {
+      "title": "《冰汽时代》（Frostpunk）煤堆见底时别只加采集站：先查热区、工人和法律是不是同一条链",
+      "guid": "游戏攻略:7a9a965794",
+      "source": "游戏攻略/2026-10-24-冰汽时代-煤堆见底时别只加采集站-先查热区-工人和法律是不是同一条.md",
+      "bodyChars": 3253,
+      "paragraphCount": 38,
+      "headingCount": 7,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《耻辱2》（Dishonored 2）潜入总在最后一间房暴露？先按“看路线—拆守卫—留退路”处理，不要只靠读档",
+      "guid": "游戏攻略:232e647df2",
+      "source": "游戏攻略/2026-10-24-耻辱2-潜入总在最后一间房暴露-先按-看路线-拆守卫-留退路-处.md",
+      "bodyChars": 3251,
+      "paragraphCount": 38,
+      "headingCount": 7,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《辐射4》（Fallout 4）离开避难所后别急着接所有任务：先把钻石城、工坊和补给线接成一条路",
+      "guid": "游戏攻略:558d8c6749",
+      "source": "游戏攻略/2026-10-24-辐射4-离开避难所后别急着接所有任务-先把钻石城-工坊和补给线接.md",
+      "bodyChars": 3364,
+      "paragraphCount": 38,
+      "headingCount": 7,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《怪物猎人：世界》（Monster Hunter: World）第一次进古代树别追着怪跑：先做调查、磨刀和回营地的准备",
+      "guid": "游戏攻略:fcef0e8708",
+      "source": "游戏攻略/2026-10-24-怪物猎人：世界-第一次进古代树别追着怪跑-先做调查-磨刀和回营地的准备.md",
+      "bodyChars": 3196,
+      "paragraphCount": 38,
+      "headingCount": 7,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《黑暗之魂3》（Dark Souls III）第一次打不过不是因为伤害低：先看翻滚距离、绿条和Boss门口的地形",
+      "guid": "游戏攻略:e211908527",
+      "source": "游戏攻略/2026-10-24-黑暗之魂3-第一次打不过不是因为伤害低-先看翻滚距离-绿条和Boss.md",
+      "bodyChars": 3403,
+      "paragraphCount": 38,
+      "headingCount": 7,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《荒野大镖客2》（Red Dead Redemption 2）骑马总在半路出事？先把营地、马匹和枪套当成一套系统",
+      "guid": "游戏攻略:376a5aad08",
+      "source": "游戏攻略/2026-10-24-荒野大镖客2-骑马总在半路出事-先把营地-马匹和枪套当成一套系统.md",
+      "bodyChars": 3490,
+      "paragraphCount": 38,
+      "headingCount": 7,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《仁王2》（Nioh 2）常死在妖怪技和残心之间？别只盯着武器面板，先把精力条的回合接起来",
+      "guid": "游戏攻略:e659f58567",
+      "source": "游戏攻略/2026-10-24-仁王2-常死在妖怪技和残心之间-别只盯着武器面板-先把精力条的回.md",
+      "bodyChars": 3273,
+      "paragraphCount": 38,
+      "headingCount": 7,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《森林之子》（Sons of the Forest）第一座基地别盖成堡垒：先把水、睡眠、视野和撤退方向排好",
+      "guid": "游戏攻略:c54edf687b",
+      "source": "游戏攻略/2026-10-24-森林之子-第一座基地别盖成堡垒-先把水-睡眠-视野和撤退方向排好.md",
+      "bodyChars": 3258,
+      "paragraphCount": 38,
+      "headingCount": 7,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《上古卷轴5：天际》（Skyrim）重开角色先别纠结种族：把龙石、马和负重问题解决，冒险会顺很多",
+      "guid": "游戏攻略:bd66a472e5",
+      "source": "游戏攻略/2026-10-24-上古卷轴5：天际-重开角色先别纠结种族-把龙石-马和负重问题解决-冒险会顺.md",
+      "bodyChars": 3459,
+      "paragraphCount": 38,
+      "headingCount": 7,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《深岩银河》（Deep Rock Galactic）第一次下矿别只顾着打虫：矿脉、照明和撤离按钮要按同一套节奏",
+      "guid": "游戏攻略:a575c79640",
+      "source": "游戏攻略/2026-10-24-深岩银河-第一次下矿别只顾着打虫-矿脉-照明和撤离按钮要按同一套节.md",
+      "bodyChars": 3108,
+      "paragraphCount": 38,
+      "headingCount": 7,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《双人成行》（It Takes Two）总在机关前互相等？把两个人的能力当成一条对话，不要各自闷头试",
+      "guid": "游戏攻略:c33db2272b",
+      "source": "游戏攻略/2026-10-24-双人成行-总在机关前互相等-把两个人的能力当成一条对话-不要各自闷.md",
+      "bodyChars": 3179,
+      "paragraphCount": 38,
+      "headingCount": 7,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《死亡细胞》（Dead Cells）一局总在第二张图断掉？别急着追诅咒宝箱，先把路线、卷轴和变异配成一条活法",
+      "guid": "游戏攻略:863fdd9cf1",
+      "source": "游戏攻略/2026-10-24-死亡细胞-一局总在第二张图断掉-别急着追诅咒宝箱-先把路线-卷轴和.md",
+      "bodyChars": 3241,
+      "paragraphCount": 38,
+      "headingCount": 7,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《文明6》（Sid Meier’s Civilization VI）开局总落后？问题多半不在科技树，而在你没有先决定城市要靠什么赢",
+      "guid": "游戏攻略:0efacc84d5",
+      "source": "游戏攻略/2026-10-24-文明6-开局总落后-问题多半不在科技树-而在你没有先决定城市要靠.md",
+      "bodyChars": 3238,
+      "paragraphCount": 38,
+      "headingCount": 7,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《星际拓荒》（Outer Wilds）别把量子月当成普通星球：先学会观察线索变化，再决定下一次循环去哪里",
+      "guid": "游戏攻略:e60ab50939",
+      "source": "游戏攻略/2026-10-24-星际拓荒-别把量子月当成普通星球-先学会观察线索变化-再决定下一次.md",
+      "bodyChars": 3240,
+      "paragraphCount": 38,
+      "headingCount": 7,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《星空》（Starfield）飞船越改越乱？先把货舱、跃迁和船员岗位拆开，别让一艘船承担所有任务",
+      "guid": "游戏攻略:591288cc2e",
+      "source": "游戏攻略/2026-10-24-星空-飞船越改越乱-先把货舱-跃迁和船员岗位拆开-别让一艘船承.md",
+      "bodyChars": 3500,
+      "paragraphCount": 38,
+      "headingCount": 7,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《冰汽时代2》（Frostpunk 2）城市总在崩盘，不一定是煤不够：先查热区、物流和信任的顺序",
+      "guid": "游戏攻略:8d053a49ec",
+      "source": "游戏攻略/2026-10-23-冰汽时代2-Frostpunk 2城市总在崩盘，不一定是煤不够：先查热区、物流和信任的顺序.md",
+      "bodyChars": 3155,
+      "paragraphCount": 44,
+      "headingCount": 6,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《刺客信条：影》（Assassin’s Creed Shadows）别急着把地图问号清完：奈绪江和弥助要走两套路",
+      "guid": "游戏攻略:03034cb6f4",
+      "source": "游戏攻略/2026-10-23-刺客信条：影-Assassin’s Creed Shadows别急着把地图问号清完：奈绪江和弥助要走两套路.md",
+      "bodyChars": 3028,
+      "paragraphCount": 44,
+      "headingCount": 6,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《对马岛之魂》（Ghost of Tsushima DIRECTOR’S CUT）前期别追所有据点：先让风、架势和决意互相配上",
+      "guid": "游戏攻略:43674f57c2",
+      "source": "游戏攻略/2026-10-23-对马岛之魂-Ghost of Tsushima DIRECTOR’S CUT前期别追所有据点：先让风、架势和决意互相配上.md",
+      "bodyChars": 2973,
+      "paragraphCount": 44,
+      "headingCount": 6,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《黑神话：悟空》（Black Myth: Wukong）第一章别急着追伤害：先把定身和棍势放在同一条线上",
+      "guid": "游戏攻略:ccd3b497cf",
+      "source": "游戏攻略/2026-10-23-黑神话：悟空-Black Myth: Wukong第一章别急着追伤害：先把定身和棍势放在同一条线上.md",
+      "bodyChars": 2987,
+      "paragraphCount": 44,
+      "headingCount": 6,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《霍格沃茨之遗》（Hogwarts Legacy）收集别一上来清空：先让咒语、天赋和有求必应屋形成循环",
+      "guid": "游戏攻略:c81a503aa1",
+      "source": "游戏攻略/2026-10-23-霍格沃茨之遗-Hogwarts Legacy收集别一上来清空：先让咒语、天赋和有求必应屋形成循环.md",
+      "bodyChars": 2989,
+      "paragraphCount": 44,
+      "headingCount": 6,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《寂静岭2》（SILENT HILL 2）医院里总绕圈？别急着找答案，先把地图上的“变化”记下来",
+      "guid": "游戏攻略:e5078a7500",
+      "source": "游戏攻略/2026-10-23-寂静岭2-SILENT HILL 2医院里总绕圈？别急着找答案，先把地图上的“变化”记下来.md",
+      "bodyChars": 2987,
+      "paragraphCount": 44,
+      "headingCount": 6,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《龙腾世纪：面纱卫士》（Dragon Age: The Veilguard）队伍总在打不出连携？先看引爆和站位，不要只换装备",
+      "guid": "游戏攻略:4f0b49b3de",
+      "source": "游戏攻略/2026-10-23-龙腾世纪：面纱卫士-Dragon Age: The Veilguard队伍总在打不出连携？先看引爆和站位，不要只换装备.md",
+      "bodyChars": 3159,
+      "paragraphCount": 44,
+      "headingCount": 6,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《匹诺曹的谎言》（Lies of P）第一章别把完美防御当考试：先学会让敌人的下一招变短",
+      "guid": "游戏攻略:ad2322a910",
+      "source": "游戏攻略/2026-10-23-匹诺曹的谎言-Lies of P第一章别把完美防御当考试：先学会让敌人的下一招变短.md",
+      "bodyChars": 3038,
+      "paragraphCount": 44,
+      "headingCount": 6,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《沙丘：觉醒》（Dune: Awakening）前几次出门别追远：先把水、方向和退路接起来",
+      "guid": "游戏攻略:49c9b33296",
+      "source": "游戏攻略/2026-10-23-沙丘：觉醒-Dune: Awakening前几次出门别追远：先把水、方向和退路接起来.md",
+      "bodyChars": 3373,
+      "paragraphCount": 44,
+      "headingCount": 6,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《死亡搁浅》（DEATH STRANDING）送货总翻车，不是你不会走：先把负重、地形和回程拆开看",
+      "guid": "游戏攻略:66af603137",
+      "source": "游戏攻略/2026-10-23-死亡搁浅-DEATH STRANDING送货总翻车，不是你不会走：先把负重、地形和回程拆开看.md",
+      "bodyChars": 3040,
+      "paragraphCount": 44,
+      "headingCount": 6,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《天国：拯救2》（Kingdom Come: Deliverance II）开局别急着当骑士：先让亨利学会活得像个普通人",
+      "guid": "游戏攻略:c64920dc70",
+      "source": "游戏攻略/2026-10-23-天国：拯救2-Kingdom Come: Deliverance II开局别急着当骑士：先让亨利学会活得像个普通人.md",
+      "bodyChars": 3300,
+      "paragraphCount": 44,
+      "headingCount": 6,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《文明7》（Sid Meier’s Civilization VII）别把每个时代都当成开荒：城市、遗产和危机要先排一条主线",
+      "guid": "游戏攻略:70b7ece380",
+      "source": "游戏攻略/2026-10-23-文明7-Sid Meier’s Civilization VII别把每个时代都当成开荒：城市、遗产和危机要先排一条主线.md",
+      "bodyChars": 3133,
+      "paragraphCount": 44,
+      "headingCount": 6,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《星球大战：亡命之徒》（Star Wars Outlaws）声望和潜入怎么取舍？先让尼克斯帮你开第一道口",
+      "guid": "游戏攻略:a221ee3d2b",
+      "source": "游戏攻略/2026-10-23-星球大战：亡命之徒-Star Wars Outlaws声望和潜入怎么取舍？先让尼克斯帮你开第一道口.md",
+      "bodyChars": 3004,
+      "paragraphCount": 44,
+      "headingCount": 6,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《宣誓》（Avowed）适合哪种探索者？能接受绕路的人，反而更容易把活界之地玩明白",
+      "guid": "游戏攻略:a1cfc69fa3",
+      "source": "游戏攻略/2026-10-23-宣誓-Avowed适合哪种探索者？能接受绕路的人，反而更容易把活界之地玩明白.md",
+      "bodyChars": 3107,
+      "paragraphCount": 44,
+      "headingCount": 6,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《最后生还者2》（The Last of Us Part II Remastered）总被发现？别先怪瞄准，先检查你有没有把空间拆开",
+      "guid": "游戏攻略:6f1fb25ec5",
+      "source": "游戏攻略/2026-10-23-最后生还者2-The Last of Us Part II Remastered总被发现？别先怪瞄准，先检查你有没有把空间拆开.md",
+      "bodyChars": 2972,
+      "paragraphCount": 44,
+      "headingCount": 6,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "矮人要塞（Dwarf Fortress）：第一座要塞别追宏伟：先让矮人有饭吃、有水喝、能睡觉",
+      "guid": "游戏攻略:d6d088c8f2",
+      "source": "游戏攻略/2026-10-22-矮人要塞-第一座要塞别追宏伟：先让矮人有饭吃、有水喝、能睡觉.md",
+      "bodyChars": 1467,
+      "paragraphCount": 18,
+      "headingCount": 21,
+      "imageCount": 3,
+      "duplicateParagraphs": 12,
+      "hasMainImage": true
+    },
+    {
+      "title": "艾尔登法环（Elden Ring）：第一次进交界地别急着找大卢恩：先把地图、马和升级材料接起来",
+      "guid": "游戏攻略:2f5b6049e4",
+      "source": "游戏攻略/2026-10-22-艾尔登法环-第一次进交界地别急着找大卢恩：先把地图、马和升级材料接起来.md",
+      "bodyChars": 1521,
+      "paragraphCount": 18,
+      "headingCount": 20,
+      "imageCount": 3,
+      "duplicateParagraphs": 11,
+      "hasMainImage": true
+    },
+    {
+      "title": "风暴之城（Against the Storm）：别把每个村落都建设成天堂：胜利条件才是你的方向盘",
+      "guid": "游戏攻略:a41a3ad14f",
+      "source": "游戏攻略/2026-10-22-风暴之城-别把每个村落都建设成天堂：胜利条件才是你的方向盘.md",
+      "bodyChars": 1590,
+      "paragraphCount": 18,
+      "headingCount": 20,
+      "imageCount": 3,
+      "duplicateParagraphs": 11,
+      "hasMainImage": true
+    },
+    {
+      "title": "怪物猎人：崛起（Monster Hunter Rise）：第一次狩猎别把采集当成浪费时间",
+      "guid": "游戏攻略:4ae159fe54",
+      "source": "游戏攻略/2026-10-22-怪物猎人：崛起-第一次狩猎别把采集当成浪费时间.md",
+      "bodyChars": 1849,
+      "paragraphCount": 18,
+      "headingCount": 18,
+      "imageCount": 3,
+      "duplicateParagraphs": 9,
+      "hasMainImage": true
+    },
+    {
+      "title": "极乐迪斯科（Disco Elysium）：别把失败当成坏结局：极乐迪斯科要你听见脑子里的争吵",
+      "guid": "游戏攻略:494a428c40",
+      "source": "游戏攻略/2026-10-22-极乐迪斯科-别把失败当成坏结局：极乐迪斯科要你听见脑子里的争吵.md",
+      "bodyChars": 1512,
+      "paragraphCount": 18,
+      "headingCount": 21,
+      "imageCount": 3,
+      "duplicateParagraphs": 12,
+      "hasMainImage": true
+    },
+    {
+      "title": "漫漫长夜（The Long Dark）：狼不是最先要解决的问题：漫漫长夜的第一天先管理温度和路线",
+      "guid": "游戏攻略:6d869a544c",
+      "source": "游戏攻略/2026-10-22-漫漫长夜-狼不是最先要解决的问题：漫漫长夜的第一天先管理温度和路线.md",
+      "bodyChars": 1438,
+      "paragraphCount": 18,
+      "headingCount": 21,
+      "imageCount": 3,
+      "duplicateParagraphs": 12,
+      "hasMainImage": true
+    },
+    {
+      "title": "缺氧（Oxygen Not Included）：殖民地总在第十天窒息？问题通常早在第一天就埋下了",
+      "guid": "游戏攻略:ecfdbd381d",
+      "source": "游戏攻略/2026-10-22-缺氧-殖民地总在第十天窒息？问题通常早在第一天就埋下了.md",
+      "bodyChars": 1529,
+      "paragraphCount": 18,
+      "headingCount": 21,
+      "imageCount": 3,
+      "duplicateParagraphs": 12,
+      "hasMainImage": true
+    },
+    {
+      "title": "赛博朋克2077（Cyberpunk 2077）：别急着堆伤害：夜之城前期先决定你愿意怎样接近目标",
+      "guid": "游戏攻略:87bd991b31",
+      "source": "游戏攻略/2026-10-22-赛博朋克2077-别急着堆伤害：夜之城前期先决定你愿意怎样接近目标.md",
+      "bodyChars": 1555,
+      "paragraphCount": 18,
+      "headingCount": 20,
+      "imageCount": 3,
+      "duplicateParagraphs": 11,
+      "hasMainImage": true
+    },
+    {
+      "title": "杀戮尖塔（Slay the Spire）：不是拿到强牌就赢：小牌组更需要你会拒绝",
+      "guid": "游戏攻略:849605f8fc",
+      "source": "游戏攻略/2026-10-22-杀戮尖塔-不是拿到强牌就赢：小牌组更需要你会拒绝.md",
+      "bodyChars": 1775,
+      "paragraphCount": 18,
+      "headingCount": 19,
+      "imageCount": 3,
+      "duplicateParagraphs": 10,
+      "hasMainImage": true
+    },
+    {
+      "title": "神界：原罪2（Divinity: Original Sin 2）：新手别先问选什么职业：先弄明白护甲怎么被打穿",
+      "guid": "游戏攻略:c43ce63458",
+      "source": "游戏攻略/2026-10-22-神界：原罪2-新手别先问选什么职业：先弄明白护甲怎么被打穿.md",
+      "bodyChars": 1679,
+      "paragraphCount": 18,
+      "headingCount": 18,
+      "imageCount": 3,
+      "duplicateParagraphs": 9,
+      "hasMainImage": true
+    },
+    {
+      "title": "死亡价值（Valor Mortis）：别把第一只怪当成练刀的木桩",
+      "guid": "游戏攻略:c0d4a597a9",
+      "source": "游戏攻略/2026-10-22-死亡价值-别把第一只怪当成练刀的木桩.md",
+      "bodyChars": 1964,
+      "paragraphCount": 18,
+      "headingCount": 17,
+      "imageCount": 3,
+      "duplicateParagraphs": 8,
+      "hasMainImage": true
+    },
+    {
+      "title": "无人深空（No Man’s Sky）：回归无人深空先别急着造大基地：先把生存循环接上",
+      "guid": "游戏攻略:f60d75e2e5",
+      "source": "游戏攻略/2026-10-22-无人深空-回归无人深空先别急着造大基地：先把生存循环接上.md",
+      "bodyChars": 1658,
+      "paragraphCount": 18,
+      "headingCount": 19,
+      "imageCount": 3,
+      "duplicateParagraphs": 10,
+      "hasMainImage": true
+    },
+    {
+      "title": "幽浮2（XCOM 2）：别把每次任务都打成清场：幽浮2最值钱的是行动权",
+      "guid": "游戏攻略:aace913f83",
+      "source": "游戏攻略/2026-10-22-幽浮2-别把每次任务都打成清场：幽浮2最值钱的是行动权.md",
+      "bodyChars": 1463,
+      "paragraphCount": 18,
+      "headingCount": 21,
+      "imageCount": 3,
+      "duplicateParagraphs": 12,
+      "hasMainImage": true
+    },
+    {
+      "title": "战锤40K：星际战士2（Warhammer 40,000: Space Marine 2）：重装甲也会死：先找适合你的职业节奏",
+      "guid": "游戏攻略:6e3fda4b0c",
+      "source": "游戏攻略/2026-10-22-战锤40K：星际战士2-重装甲也会死：先找适合你的职业节奏.md",
+      "bodyChars": 1627,
+      "paragraphCount": 18,
+      "headingCount": 19,
+      "imageCount": 3,
+      "duplicateParagraphs": 10,
+      "hasMainImage": true
+    },
+    {
+      "title": "只狼：影逝二度（Sekiro: Shadows Die Twice）：别把只狼玩成翻滚游戏：你的第一条进步曲线其实是架势",
+      "guid": "游戏攻略:98d1ae1a1b",
+      "source": "游戏攻略/2026-10-22-只狼：影逝二度-别把只狼玩成翻滚游戏：你的第一条进步曲线其实是架势.md",
+      "bodyChars": 1622,
+      "paragraphCount": 18,
+      "headingCount": 20,
+      "imageCount": 3,
+      "duplicateParagraphs": 11,
+      "hasMainImage": true
+    },
+    {
+      "title": "边缘世界（RimWorld）第一场灾难别靠英雄单挑：把殖民地拆成能反复使用的防线",
+      "guid": "游戏攻略:a52fdcd55d",
+      "source": "游戏攻略/2026-10-21-边缘世界-RimWorld-殖民地第一场灾难.md",
+      "bodyChars": 2953,
+      "paragraphCount": 43,
+      "headingCount": 5,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "查无此地（No Place）枪匠系统别一次改满：撤离游戏里，能带回家的才算升级",
+      "guid": "游戏攻略:6f1950d422",
+      "source": "游戏攻略/2026-10-21-查无此地-枪匠与撤离取舍.md",
+      "bodyChars": 3360,
+      "paragraphCount": 43,
+      "headingCount": 5,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "公路营地（Outbound）别把房车当交通工具：先让它成为你的移动工作台",
+      "guid": "游戏攻略:def1bfe44f",
+      "source": "游戏攻略/2026-10-21-公路营地Outbound-房车与建造循环.md",
+      "bodyChars": 3229,
+      "paragraphCount": 43,
+      "headingCount": 5,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "链兽角斗（Chained Beasts）两个人拴在一起怎么打：锁链不是限制，是一件武器",
+      "guid": "游戏攻略:8e33caf495",
+      "source": "游戏攻略/2026-10-21-链兽角斗-锁链协作战斗.md",
+      "bodyChars": 3344,
+      "paragraphCount": 43,
+      "headingCount": 5,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "龙之信条2（Dragon’s Dogma 2）黑暗觉者怎么配：先把血量、耐力与魔法风险摆上桌",
+      "guid": "游戏攻略:9d633fece6",
+      "source": "游戏攻略/2026-10-21-龙之信条2-黑暗觉者配装取舍.md",
+      "bodyChars": 3797,
+      "paragraphCount": 45,
+      "headingCount": 6,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "魔女面包房（The Witch’s Bakery）别让第一批顾客把你做成流水线：订单、库存与巴黎散步要错开",
+      "guid": "游戏攻略:be4028fc95",
+      "source": "游戏攻略/2026-10-21-魔女面包房-订单与烘焙节奏.md",
+      "bodyChars": 3191,
+      "paragraphCount": 43,
+      "headingCount": 5,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "墓地守卫2（Graveyard Keeper 2）别先追漂亮墓园：先把木材、铁和信仰接成一条线",
+      "guid": "游戏攻略:0e2701a0b1",
+      "source": "游戏攻略/2026-10-21-墓地守卫2-墓园与村镇供应链.md",
+      "bodyChars": 3114,
+      "paragraphCount": 43,
+      "headingCount": 5,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "潜水艇2（Subnautica 2）别一头扎进深海：先沿蓝色灯标找 Biobed，再谈生物模组",
+      "guid": "游戏攻略:aa469ce0d0",
+      "source": "游戏攻略/2026-10-21-潜水艇2-Biobed与生物模组路线.md",
+      "bodyChars": 3589,
+      "paragraphCount": 43,
+      "headingCount": 5,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "群星异变（The Alters）别让基地转得比你想得快：分身、资源和路线要一起排班",
+      "guid": "游戏攻略:35adbfac43",
+      "source": "游戏攻略/2026-10-21-群星异变The-Alters-基地旋转与分工.md",
+      "bodyChars": 2934,
+      "paragraphCount": 43,
+      "headingCount": 5,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "生存日志（Survival Log）第一轮别把家当仓库：24小时循环里，物资要按“下一场灾难”排队",
+      "guid": "游戏攻略:44d65e7257",
+      "source": "游戏攻略/2026-10-21-生存日志-24小时物资循环.md",
+      "bodyChars": 4085,
+      "paragraphCount": 45,
+      "headingCount": 6,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "瓦尔海姆（Valheim）第一座营地别盖在海边风景位：先找能让你活着回家的地形",
+      "guid": "游戏攻略:ed1cdddbfc",
+      "source": "游戏攻略/2026-10-21-瓦尔海姆-Valheim-首座营地.md",
+      "bodyChars": 3068,
+      "paragraphCount": 43,
+      "headingCount": 5,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "小小梦魇3（Little Nightmares III）双人解谜别抢着跑：先把“谁负责观察”说清楚",
+      "guid": "游戏攻略:96ae748120",
+      "source": "游戏攻略/2026-10-21-小小梦魇3-Little-Nightmares-III-双人解谜.md",
+      "bodyChars": 2879,
+      "paragraphCount": 43,
+      "headingCount": 5,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "星露谷物语（Stardew Valley）第一年别追全收集：春天先把现金流和体力上限做出来",
+      "guid": "游戏攻略:200a07b21f",
+      "source": "游戏攻略/2026-10-21-星露谷物语-Stardew-Valley-第一年取舍.md",
+      "bodyChars": 3059,
+      "paragraphCount": 43,
+      "headingCount": 5,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "异星工厂（Factorio）开局别急着铺满传送带：第一条自动化产线要先解决“不会停”",
+      "guid": "游戏攻略:cc331e5ba5",
+      "source": "游戏攻略/2026-10-21-异星工厂-Factorio-第一条自动化产线.md",
+      "bodyChars": 2868,
+      "paragraphCount": 43,
+      "headingCount": 5,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "异星探险家（Satisfactory）第一座工厂别急着做成城市：先把矿点、道路和电网分开",
+      "guid": "游戏攻略:442a3ff732",
+      "source": "游戏攻略/2026-10-21-异星探险家Satisfactory-前期工厂扩建.md",
+      "bodyChars": 2814,
+      "paragraphCount": 43,
+      "headingCount": 5,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    }
+  ]
+}

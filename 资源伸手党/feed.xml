@@ -1,0 +1,1030 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>资源伸手党</title>
+    <link>https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A</link>
+    <atom:link href="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/feed.xml" rel="self" type="application/rss+xml" />
+    <description>资源伸手党 RSS：免费小工具与资源网站推荐，包含完整正文与配图。</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 24 Oct 2026 14:00:00 GMT</lastBuildDate>
+    <generator>垂类 RSS Builder</generator>
+    <item>
+      <title>第一次做网页，不必先装软件：5 个入口把练习写到能打开</title>
+      <link>https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/articles/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A_%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%81%9A%E7%BD%91%E9%A1%B5_%E4%B8%8D%E5%BF%85%E5%85%88%E8%A3%85%E8%BD%AF%E4%BB%B6_5_%E4%B8%AA%E5%85%A5%E5%8F%A3%E6%8A%8A%E7%BB%83%E4%B9%A0%E5%86%99%E5%88%B0%E8%83%BD%E6%89%93%E5%BC%80_0232d3083a.md</link>
+      <guid isPermaLink="false">资源伸手党:0232d3083a</guid>
+      <pubDate>Sat, 24 Oct 2026 14:00:00 GMT</pubDate>
+      <dc:creator>资源伸手党</dc:creator>
+      <dc:subject>资源伸手党</dc:subject>
+      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/ab8b2853d7.jpg]]></poster>
+      <description><![CDATA[<p><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/ab8b2853d7.jpg" alt="" /></p><p>第一次学网页，最容易发生的事是收藏了一堆教程，却迟迟没有看到自己的页面。更有效的路线是先写出一小段 HTML，再补课程、练习和项目。下面 5 个入口不是并列工具，而是一条从“看懂标签”到“有人帮你挑错”的路线。 1. W3Schools （https://www.w3schools.com/html/） 先用 W3Schools 看 HTML 教程。打开后选一个最小例子，先改标题或文字，再运行页面，看浏览器到底变了什么。它的优势是示例短、反馈快，适合第一次接触标签的人；与 freeCodeCamp 相比，它更像随手查的参考书，不会强迫你一次学完整套课程。</p>]]></description>
+      <content:encoded><![CDATA[<p>第一次学网页，最容易发生的事是收藏了一堆教程，却迟迟没有看到自己的页面。更有效的路线是先写出一小段 HTML，再补课程、练习和项目。下面 5 个入口不是并列工具，而是一条从“看懂标签”到“有人帮你挑错”的路线。</p>
+<p><strong>1. W3Schools</strong>（https://www.w3schools.com/html/）</p>
+<p>先用 W3Schools 看 HTML 教程。打开后选一个最小例子，先改标题或文字，再运行页面，看浏览器到底变了什么。它的优势是示例短、反馈快，适合第一次接触标签的人；与 freeCodeCamp 相比，它更像随手查的参考书，不会强迫你一次学完整套课程。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/ab8b2853d7.jpg" alt="" /></figure>
+<p><strong>2. freeCodeCamp</strong>（https://www.freecodecamp.org/learn/）</p>
+<p>页面能改动之后，进入 freeCodeCamp 的互动课程。第一步是选一个入门模块，按题目要求修改代码，完成后看测试是否通过。它把知识点切成连续任务，适合需要明确进度的人；部分学习记录可能需要账号保存，但基础课程本身可以直接浏览和练习。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/7e1abe4f50.jpg" alt="" /></figure>
+<p><strong>3. The Odin Project</strong>（https://www.theodinproject.com/paths）</p>
+<p>想知道“下一步该学什么”，就看 The Odin Project 的 Paths。它不是一个点开就能完成的小练习，而是把工具、基础和项目排成路线。打开后先看路径目录，挑出当前能完成的一小段，不要一口气把全栈路线收藏完。它比前两个站更重项目和本地实践，适合愿意持续投入的人。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/c4ac681336.jpg" alt="" /></figure>
+<p><strong>4. CodePen</strong>（https://codepen.io/pen/）</p>
+<p>等你想把一个小想法立刻放到页面里，CodePen 是很好的试验台。打开新 Pen 后，分别在 HTML、CSS、JS 区域写一点内容，预览会随着修改变化。它的价值不是替代系统课程，而是让你看到代码和画面之间的距离；适合做按钮、卡片和小动画这类短实验。公开保存作品前，要注意代码和素材的授权。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/8a1365b18a.jpg" alt="" /></figure>
+<p><strong>5. Exercism</strong>（https://exercism.org/tracks）</p>
+<p>最后用 Exercism 练一门具体语言的基础。打开 tracks 页面先选语言，再看练习目录和安装要求；它更强调一道题一道题地写，部分语言还可以获得导师反馈。它和 CodePen 的区别是没有即时视觉效果，却更适合练逻辑、命名和函数。不同语言的运行方式、账号和练习规则可能不同，先看当前轨道说明。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/680d0078d6.jpg" alt="" /></figure>
+<p>最小可行路线是：W3Schools 改一个标题，freeCodeCamp 过一关，CodePen 做一个小按钮。只要今天能打开一个自己改过的页面，学习就已经从收藏夹里出来了。</p>]]></content:encoded>
+      
+    </item>
+
+    <item>
+      <title>给孩子做一节海洋课：5 个免费入口，从潮汐到珊瑚一起看</title>
+      <link>https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/articles/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A_%E7%BB%99%E5%AD%A9%E5%AD%90%E5%81%9A%E4%B8%80%E8%8A%82%E6%B5%B7%E6%B4%8B%E8%AF%BE_5_%E4%B8%AA%E5%85%8D%E8%B4%B9%E5%85%A5%E5%8F%A3_%E4%BB%8E%E6%BD%AE%E6%B1%90%E5%88%B0%E7%8F%8A%E7%91%9A%E4%B8%80%E8%B5%B7%E7%9C%8B_6278f4bc1a.md</link>
+      <guid isPermaLink="false">资源伸手党:6278f4bc1a</guid>
+      <pubDate>Sat, 24 Oct 2026 14:00:00 GMT</pubDate>
+      <dc:creator>资源伸手党</dc:creator>
+      <dc:subject>资源伸手党</dc:subject>
+      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/a13a8ad001.jpg]]></poster>
+      <description><![CDATA[<p><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/a13a8ad001.jpg" alt="" /></p><p>周末下午，孩子问“海水为什么会动”“珊瑚是不是石头”，家长很容易一边找视频，一边被各种广告和付费课程打断。其实不必先准备一套课。下面这 5 个入口，可以按“先看问题、再动手、最后复盘”的顺序，拼出一节半小时的海洋小课。 1. NOAA Ocean Service Kids （https://oceanservice.noaa.gov/kids/） 先从海洋服务部门的儿童页面看起，适合把潮汐、海岸、珊瑚和海洋动物这些大词拆成短内容。打开后先挑一个孩子刚刚问过的词，再让他指出页面上哪个图或解释最接近答案。它的好处是资料口吻比较稳，适合家长先搭骨架，不会像游戏</p>]]></description>
+      <content:encoded><![CDATA[<p>周末下午，孩子问“海水为什么会动”“珊瑚是不是石头”，家长很容易一边找视频，一边被各种广告和付费课程打断。其实不必先准备一套课。下面这 5 个入口，可以按“先看问题、再动手、最后复盘”的顺序，拼出一节半小时的海洋小课。</p>
+<p><strong>1. NOAA Ocean Service Kids</strong>（https://oceanservice.noaa.gov/kids/）</p>
+<p>先从海洋服务部门的儿童页面看起，适合把潮汐、海岸、珊瑚和海洋动物这些大词拆成短内容。打开后先挑一个孩子刚刚问过的词，再让他指出页面上哪个图或解释最接近答案。它的好处是资料口吻比较稳，适合家长先搭骨架，不会像游戏页一样只剩下闯关。它更适合亲子共读和课堂热身。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/a13a8ad001.jpg" alt="" /></figure>
+<p><strong>2. Exploratorium Science Snacks</strong>（https://www.exploratorium.edu/snacks）</p>
+<p>如果孩子已经不满足于“看懂”，就进入 Exploratorium 的 Science Snacks。这里的思路是用家里找得到的材料做小实验，先看标题和材料清单，再决定今天只做一个。它和 NOAA 的区别在于，前者负责解释海洋问题，这里负责把“为什么”变成一次动作。做完记得让孩子说出哪一步改变了结果；材料和页面上的安全提示要一起看，不能把免费教程理解成随便操作。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/a9f0c2b8f9.jpg" alt="" /></figure>
+<p><strong>3. PhET 互动仿真</strong>（https://phet.colorado.edu/en/simulations/filter?subjects=physics&amp;type=html）</p>
+<p>打开物理仿真列表，不必一上来找“海洋”两个字，可以先挑一个和波、压力、流体有关的模拟。第一步是让孩子拖动一个参数，观察画面发生什么；第二步才问“如果把它调大，会不会一直这样”。PhET 的优势是反馈快、变量清楚，适合把刚才的海水和潮汐问题变成可重复的试验。它更适合已经会观察因果关系的孩子。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/bc226b454a.jpg" alt="" /></figure>
+<p><strong>4. NASA Climate Kids</strong>（https://climatekids.nasa.gov/）</p>
+<p>这个地址目前会进入 NASA Science 的 Earth 儿童主题页，打开后先看页面实际提供的地球、气候或卫星内容，不要把旧网址里的栏目名称当成今天仍然存在的按钮。它适合把“海洋”放回更大的地球系统里：海水、云、冰和陆地不是各讲各的。和 PhET 相比，它的画面更像一篇短科普，适合在实验之后补一句“这个现象在地球上意味着什么”。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/cbc75e45ac.jpg" alt="" /></figure>
+<p><strong>5. National Geographic Kids Games</strong>（https://kids.nationalgeographic.com/games）</p>
+<p>最后用一个小游戏收尾。打开后先按主题找动物、地理或科学类内容，让孩子独立玩一轮，再问他刚才记住了哪一个事实。它不像前面几个站点那样适合连续讲解，却很适合把注意力重新拉回来。游戏页面会随站点调整，部分内容也可能有地区或设备差异；要下载图片或素材，仍需单独查看具体授权。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/1f69c9fc48.jpg" alt="" /></figure>
+<p>这一套不用一次做完。今天先让孩子选一个问题，打开 NOAA；如果他还想继续，再把同一个问题带到一个仿真或小游戏里。海洋课最有意思的地方，不是记住五个网站，而是让一个“为什么”多走两步。</p>]]></content:encoded>
+      
+    </item>
+
+    <item>
+      <title>想学一门新语言，先把免费听读材料排好：5 个入口从短到长</title>
+      <link>https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/articles/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A_%E6%83%B3%E5%AD%A6%E4%B8%80%E9%97%A8%E6%96%B0%E8%AF%AD%E8%A8%80_%E5%85%88%E6%8A%8A%E5%85%8D%E8%B4%B9%E5%90%AC%E8%AF%BB%E6%9D%90%E6%96%99%E6%8E%92%E5%A5%BD_5_%E4%B8%AA%E5%85%A5%E5%8F%A3%E4%BB%8E%E7%9F%AD%E5%88%B0%E9%95%BF_0dab69558f.md</link>
+      <guid isPermaLink="false">资源伸手党:0dab69558f</guid>
+      <pubDate>Sat, 24 Oct 2026 14:00:00 GMT</pubDate>
+      <dc:creator>资源伸手党</dc:creator>
+      <dc:subject>资源伸手党</dc:subject>
+      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/9b1c534211.jpg]]></poster>
+      <description><![CDATA[<p><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/9b1c534211.jpg" alt="" /></p><p>学语言最容易卡在“收藏了很多，今天不知道打开什么”。与其再找一个万能课程，不如把材料按难度排好：先读短文本，再听慢速内容，最后进入完整的公版书和有声书。下面这 5 个网站不负责替你制定目标，但能把第一步变得很具体。 1. Project Gutenberg （https://www.gutenberg.org/） 先用 Project Gutenberg 找一篇短的公版文本。打开后按语言、主题或书名搜索，第一步不要立刻下载厚书，先打开 HTML 在线阅读，看自己能否读完一页。它的优势是书多、格式直接，适合建立词汇和阅读耐力；与后面的 Standard E</p>]]></description>
+      <content:encoded><![CDATA[<p>学语言最容易卡在“收藏了很多，今天不知道打开什么”。与其再找一个万能课程，不如把材料按难度排好：先读短文本，再听慢速内容，最后进入完整的公版书和有声书。下面这 5 个网站不负责替你制定目标，但能把第一步变得很具体。</p>
+<p><strong>1. Project Gutenberg</strong>（https://www.gutenberg.org/）</p>
+<p>先用 Project Gutenberg 找一篇短的公版文本。打开后按语言、主题或书名搜索，第一步不要立刻下载厚书，先打开 HTML 在线阅读，看自己能否读完一页。它的优势是书多、格式直接，适合建立词汇和阅读耐力；与后面的 Standard Ebooks 相比，排版没有那么统一，选书时要自己判断难度。公版状态因地区而异，转载或商用前要再看具体说明。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/9b1c534211.jpg" alt="" /></figure>
+<p><strong>2. Standard Ebooks</strong>（https://standardebooks.org/）</p>
+<p>想把阅读体验弄得舒服一点，就换到 Standard Ebooks。它专门整理公版书，排版、目录和电子书格式都更讲究。打开后先按语言或主题挑一本，读目录和开头几页，不要被“经典”两个字吓住。它适合已经能连续读一段文字、在意排版和长期阅读的人。它提供的是制作得更好的公版书，不代表所有地区都用同一套版权规则。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/428edb8233.jpg" alt="" /></figure>
+<p><strong>3. BBC Learning English</strong>（https://www.bbc.co.uk/learningenglish）</p>
+<p>需要短听力时，BBC Learning English 比整本书更容易开始。打开后先按栏目找一个短课，听一遍不看文字，再回头看词汇或脚本。它和前两个站的区别是有课程节奏和音频，适合每天只挤出十分钟的人；内容和页面会更新，具体栏目名称以当前页面为准。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/5aa8f1f3a2.jpg" alt="" /></figure>
+<p><strong>4. ELLLO</strong>（https://elllo.org/）</p>
+<p>如果你已经不想只听教材腔，可以试 ELLLO。页面按主题、说话者和难度提供大量听力材料，第一步是挑一段不超过几分钟的音频，先听大意，再看文字或练习。它和 BBC 的不同在于说话者和口音更杂，适合从“能听懂课文”过渡到“能听懂真实对话”的阶段。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/e7b22abf57.jpg" alt="" /></figure>
+<p><strong>5. LibriVox</strong>（https://librivox.org/）</p>
+<p>最后用 LibriVox 把短练习接到长时间听读。它收录志愿者朗读的公版有声书，打开后先按语言和书名找一章，不必从第一章开始硬撑。它适合已经能抓住大意、想训练持续注意力的人；朗读者、音质和语速各不相同，正好可以当成真实听力的过渡。音频使用仍要看具体作品和地区的版权状态。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/5a21630216.jpg" alt="" /></figure>
+<p>今天只做一件事：选 BBC 或 ELLLO 的一段短音频，听完再读一页 Gutenberg。材料不是越多越好，能让你明天知道从哪里继续，才算真正排好了。</p>]]></content:encoded>
+      
+    </item>
+
+    <item>
+      <title>一个人也能做安静的写作夜：5 个免费声音入口，按心情接上</title>
+      <link>https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/articles/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A_%E4%B8%80%E4%B8%AA%E4%BA%BA%E4%B9%9F%E8%83%BD%E5%81%9A%E5%AE%89%E9%9D%99%E7%9A%84%E5%86%99%E4%BD%9C%E5%A4%9C_5_%E4%B8%AA%E5%85%8D%E8%B4%B9%E5%A3%B0%E9%9F%B3%E5%85%A5%E5%8F%A3_%E6%8C%89%E5%BF%83%E6%83%85%E6%8E%A5%E4%B8%8A_4096281d06.md</link>
+      <guid isPermaLink="false">资源伸手党:4096281d06</guid>
+      <pubDate>Sat, 24 Oct 2026 14:00:00 GMT</pubDate>
+      <dc:creator>资源伸手党</dc:creator>
+      <dc:subject>资源伸手党</dc:subject>
+      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/e0d5b97420.jpg]]></poster>
+      <description><![CDATA[<p><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/e0d5b97420.jpg" alt="" /></p><p>晚上想写点东西，最难的有时不是没有灵感，而是房间太安静，或者楼下的声音一直把注意力拽走。与其随手点一首歌，不如先判断自己需要的是“去一个地方”“有自然背景”还是“持续但不抢戏的噪音”。这 5 个入口，可以按这个顺序试。 1. Radio Garden （https://radio.garden/） 如果你需要一个明确的“出门感”，先打开 Radio Garden，拖动地球或点一个城市的电台。第一步不要急着搜索节目，先听三十秒，判断语言、人声和广告是否会打断你。它和其他声音站的区别是有地点感，适合写旅行、城市或人物稿时找一点环境气息；但它是实时电台，节目内</p>]]></description>
+      <content:encoded><![CDATA[<p>晚上想写点东西，最难的有时不是没有灵感，而是房间太安静，或者楼下的声音一直把注意力拽走。与其随手点一首歌，不如先判断自己需要的是“去一个地方”“有自然背景”还是“持续但不抢戏的噪音”。这 5 个入口，可以按这个顺序试。</p>
+<p><strong>1. Radio Garden</strong>（https://radio.garden/）</p>
+<p>如果你需要一个明确的“出门感”，先打开 Radio Garden，拖动地球或点一个城市的电台。第一步不要急着搜索节目，先听三十秒，判断语言、人声和广告是否会打断你。它和其他声音站的区别是有地点感，适合写旅行、城市或人物稿时找一点环境气息；但它是实时电台，节目内容和版权由各地电台负责，不适合把直播当成可直接下载的素材。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/e0d5b97420.jpg" alt="" /></figure>
+<p><strong>2. Earth.fm</strong>（https://earth.fm/）</p>
+<p>想让房间退到背景里，就换成 Earth.fm 的自然录音。打开后先选森林、海岸或雨林一类的声音，再把音量压低。它的特点是录音本身，而不是循环音乐，适合阅读、写作和冥想。与 Radio Garden 相比，它没有“正在发生”的新闻和主播，注意力更不容易被一句话带走；具体音频的使用权限仍应以站点页面为准。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/7d7c045cbb.jpg" alt="" /></figure>
+<p><strong>3. A Soft Murmur</strong>（https://asoftmurmur.com/）</p>
+<p>如果你只想要雨声、风声或海浪，A Soft Murmur 的好处是上手很快：点开声音，再调各个音轨的比例。第一次别叠太多，先用一种主声加一种很轻的陪衬。它和 Earth.fm 的区别在于可控，适合需要稳定背景的人；网页端可以直接使用，但不要把页面里的声音当作任意用途的素材库。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/c09e0e2236.jpg" alt="" /></figure>
+<p><strong>4. myNoise</strong>（https://mynoise.net/）</p>
+<p>需要更细的调节时，再试 myNoise。它把环境声拆成频段或多个旋钮，你可以把低沉的部分压下去，只留下让自己舒服的声音。适合对声音敏感、容易被某个尖锐频率打断的人。它的免费可用范围和不同设备上的播放方式可能变化，先按页面能直接使用的部分体验，不必为了更多音色注册或付费。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/789db66096.jpg" alt="" /></figure>
+<p><strong>5. Listen to Wikipedia</strong>（https://listen.hatnote.com/）</p>
+<p>最后这个入口有点奇怪：维基百科的实时编辑会变成不同高低的声音。它不适合营造某种具体气氛，却适合在写作卡住时听几分钟，让注意力从“我这句话怎么写”移开。页面会随着实时编辑变化，不是传统音乐播放器，也不保证每次声音都一样。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/0fecf932d7.jpg" alt="" /></figure>
+<p>今晚可以只选一个：想换空间就转 Radio Garden，想把声音压平就开 A Soft Murmur。先写二十分钟，再决定要不要换站；声音是桌面上的灯，不该变成另一个需要照顾的任务。</p>]]></content:encoded>
+      
+    </item>
+
+    <item>
+      <title>终于把盲打练起来：5 个免费网站，先学手位再练速度</title>
+      <link>https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/articles/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A_%E7%BB%88%E4%BA%8E%E6%8A%8A%E7%9B%B2%E6%89%93%E7%BB%83%E8%B5%B7%E6%9D%A5_5_%E4%B8%AA%E5%85%8D%E8%B4%B9%E7%BD%91%E7%AB%99_%E5%85%88%E5%AD%A6%E6%89%8B%E4%BD%8D%E5%86%8D%E7%BB%83%E9%80%9F%E5%BA%A6_69d069dc6b.md</link>
+      <guid isPermaLink="false">资源伸手党:69d069dc6b</guid>
+      <pubDate>Sat, 24 Oct 2026 14:00:00 GMT</pubDate>
+      <dc:creator>资源伸手党</dc:creator>
+      <dc:subject>资源伸手党</dc:subject>
+      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/6d5f03851d.jpg]]></poster>
+      <description><![CDATA[<p><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/6d5f03851d.jpg" alt="" /></p><p>打字慢的人常常不是不会拼，而是每隔几个字就低头找键。真正有效的练习，不是打开一个测速页面看自己多慢，而是先把手位练稳，再逐步增加陌生字母和时间压力。下面这 5 个网站，正好可以排成一条从入门到复盘的路线。 1. TypingClub （https://www.typingclub.com/） 先从课程式练习开始。打开后看清当前课程要求，先按提示练手指位置，不要急着跳到速度测试。它把内容拆成一小关一小关，适合完全没有盲打习惯的人，也适合家长陪孩子建立固定练习时间。和后面的 Keybr 相比，它更像教练，优点是知道今天练什么，缺点是节奏不如自由练习快。 2.</p>]]></description>
+      <content:encoded><![CDATA[<p>打字慢的人常常不是不会拼，而是每隔几个字就低头找键。真正有效的练习，不是打开一个测速页面看自己多慢，而是先把手位练稳，再逐步增加陌生字母和时间压力。下面这 5 个网站，正好可以排成一条从入门到复盘的路线。</p>
+<p><strong>1. TypingClub</strong>（https://www.typingclub.com/）</p>
+<p>先从课程式练习开始。打开后看清当前课程要求，先按提示练手指位置，不要急着跳到速度测试。它把内容拆成一小关一小关，适合完全没有盲打习惯的人，也适合家长陪孩子建立固定练习时间。和后面的 Keybr 相比，它更像教练，优点是知道今天练什么，缺点是节奏不如自由练习快。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/6d5f03851d.jpg" alt="" /></figure>
+<p><strong>2. Keybr</strong>（https://www.keybr.com/）</p>
+<p>手位大致熟了，就交给 Keybr 找短板。页面会用不断变化的字母组合，让你反复练最不稳的键。第一步不是追求每分钟多少字，而是盯着错误率，看哪根手指总在拖后腿。它和 TypingClub 的区别在于，练习更像针对个人弱点的补课，适合已经知道基本手位、但总有几个字母按不准的人。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/498dfb4d13.jpg" alt="" /></figure>
+<p><strong>3. Monkeytype</strong>（https://monkeytype.com/）</p>
+<p>当你能连续输入一小段文字，Monkeytype 就派上用场了。打开后先选一个熟悉的测试时长，完成一轮，再看速度、准确率和错误位置。它的界面很简洁，适合把练习变成每天五分钟的固定动作；但它不会像课程那样手把手纠正手位，所以不要把高分当成技术已经过关。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/5e277b7c10.jpg" alt="" /></figure>
+<p><strong>4. 10FastFingers</strong>（https://10fastfingers.com/typing-test/english）</p>
+<p>想知道自己在一段完整英文词组里的表现，可以试 10FastFingers。开始前先确认语言和测试模式，输入结束后看速度与准确率。它的价值不在于每天刷榜，而在于给你一个相对直观的前后对照：同样练五天，速度有没有涨，错误是不是集中在同一类词上。成绩页面可能包含广告或其他入口，练习时只关注测试结果。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/5121ef7da4.jpg" alt="" /></figure>
+<p><strong>5. TypeRacer</strong>（https://play.typeracer.com/）</p>
+<p>最后用 TypeRacer 把枯燥练习变成一场短比赛。页面会让你和其他输入者在同一段文字上比速度，先看清规则，再决定是否开始。它适合已经能盲打、又容易半途放弃的人；如果基础还没稳，比赛只会把错误放大。网站的对战、账号和显示内容可能随页面变化，别把比赛排名当成长期能力证明。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/891f654f81.jpg" alt="" /></figure>
+<p>最简单的安排是：前两天练手位，中间两天纠错和测速，第五天再比赛。每天只做十分钟，但把错误记下来。盲打真正的进步，往往不是某次速度突然很高，而是低头找键的次数终于少了。</p>]]></content:encoded>
+      
+    </item>
+
+    <item>
+      <title>Chrome Music Lab Song Maker：五分钟做一段自己的旋律</title>
+      <link>https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/articles/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A_Chrome_Music_Lab_Song_Maker_%E4%BA%94%E5%88%86%E9%92%9F%E5%81%9A%E4%B8%80%E6%AE%B5%E8%87%AA%E5%B7%B1%E7%9A%84%E6%97%8B%E5%BE%8B_599b8173c4.md</link>
+      <guid isPermaLink="false">资源伸手党:599b8173c4</guid>
+      <pubDate>Sat, 24 Oct 2026 14:00:00 GMT</pubDate>
+      <dc:creator>资源伸手党</dc:creator>
+      <dc:subject>资源伸手党</dc:subject>
+      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/8cd88a2c3e.jpg]]></poster>
+      <description><![CDATA[<p><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/8cd88a2c3e.jpg" alt="" /></p><p>孩子敲桌子敲出一个节奏，或者你写稿写累了，想找个不需要学乐理的小游戏。Chrome Music Lab 的 Song Maker 把旋律放进一个网格里：横向是时间，纵向是音高，点几个格子就能听见自己刚才画出的声音。 🎵 先点出一条能循环的线 打开 https://musiclab.chromeexperiments.com/Song-Maker/，先不要研究所有设置。点几格相邻的音符，再按播放，听它是否能顺利循环。觉得太散，就把音符集中在中间；觉得太平，就把第二遍的最后一个音抬高或降低。页面会立刻反馈，适合让孩子理解“重复”和“变化”是怎么同时出现的。</p>]]></description>
+      <content:encoded><![CDATA[<p>孩子敲桌子敲出一个节奏，或者你写稿写累了，想找个不需要学乐理的小游戏。Chrome Music Lab 的 Song Maker 把旋律放进一个网格里：横向是时间，纵向是音高，点几个格子就能听见自己刚才画出的声音。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/8cd88a2c3e.jpg" alt="" /></figure>
+<h2>🎵 先点出一条能循环的线</h2>
+<p>打开 https://musiclab.chromeexperiments.com/Song-Maker/，先不要研究所有设置。点几格相邻的音符，再按播放，听它是否能顺利循环。觉得太散，就把音符集中在中间；觉得太平，就把第二遍的最后一个音抬高或降低。页面会立刻反馈，适合让孩子理解“重复”和“变化”是怎么同时出现的。</p>
+<p>接着在下方节奏区点两三个格子，让鼓点和旋律不完全重合。最有意思的地方在这里：同样数量的点，换一个位置，听起来就会从轻快变成拖沓。可以先让孩子猜，再播放验证，过程不需要解释音阶名词。</p>
+<h2>🔊 做完以后再谈音乐</h2>
+<p>Song Maker 的价值是把“我不会作曲”变成一次可见的尝试。它适合亲子、音乐启蒙和碎片时间玩一局，也适合做课堂热身；功能是否完整、浏览器音频是否正常，会受设备和浏览器设置影响。网页端可以直接操作，分享或保存时按页面实际提供的入口来，不要默认每段声音都可以拿去商用。</p>
+<p>今天只做八小节：四个旋律点、两个节奏点，先听一遍再改一次。音乐不必从一首歌开始，也可以从一个会循环的小方格开始。</p>]]></content:encoded>
+      
+    </item>
+
+    <item>
+      <title>Excalidraw：把脑子里的乱线先画成一张能看的图</title>
+      <link>https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/articles/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A_Excalidraw_%E6%8A%8A%E8%84%91%E5%AD%90%E9%87%8C%E7%9A%84%E4%B9%B1%E7%BA%BF%E5%85%88%E7%94%BB%E6%88%90%E4%B8%80%E5%BC%A0%E8%83%BD%E7%9C%8B%E7%9A%84%E5%9B%BE_70fd886a84.md</link>
+      <guid isPermaLink="false">资源伸手党:70fd886a84</guid>
+      <pubDate>Sat, 24 Oct 2026 14:00:00 GMT</pubDate>
+      <dc:creator>资源伸手党</dc:creator>
+      <dc:subject>资源伸手党</dc:subject>
+      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/d596fb0315.jpg]]></poster>
+      <description><![CDATA[<p><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/d596fb0315.jpg" alt="" /></p><p>开会时大家说了十分钟，白板上仍然没有一条线；写文章时脑中有三条路线，却不知道哪条先走。Excalidraw 的好处不是替你做出漂亮设计，而是让你先把框、箭头和几个词放到同一张画布上，接受它看起来不完美。 🖊️ 先画关系，不要先选风格 打开 https://excalidraw.com/，先用矩形画出三个对象，再用连接线标出先后关系。需要补充说明时再加文字，别一开始就调整颜色和线宽。手绘感会让你不必花时间对齐每个像素，适合整理流程、会议讨论、文章提纲和临时教学。 第二步是把一条线变成一个问题：这个箭头为什么指向这里？如果答不上来，就把它删掉或改成虚线。画</p>]]></description>
+      <content:encoded><![CDATA[<p>开会时大家说了十分钟，白板上仍然没有一条线；写文章时脑中有三条路线，却不知道哪条先走。Excalidraw 的好处不是替你做出漂亮设计，而是让你先把框、箭头和几个词放到同一张画布上，接受它看起来不完美。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/d596fb0315.jpg" alt="" /></figure>
+<h2>🖊️ 先画关系，不要先选风格</h2>
+<p>打开 https://excalidraw.com/，先用矩形画出三个对象，再用连接线标出先后关系。需要补充说明时再加文字，别一开始就调整颜色和线宽。手绘感会让你不必花时间对齐每个像素，适合整理流程、会议讨论、文章提纲和临时教学。</p>
+<p>第二步是把一条线变成一个问题：这个箭头为什么指向这里？如果答不上来，就把它删掉或改成虚线。画布上的空白也有用，它会提醒你某个环节还没有想清楚。和普通文档相比，Excalidraw 更适合把空间关系先摆出来；和专业制图软件相比，它更快，也更不怕画错。</p>
+<p>一个实用办法是先只画黑白草图，等关系成立后再给关键节点加一两种颜色。颜色不是装饰，而是用来区分“已经完成”和“还要追问”的地方。这样过几分钟回看时，你不会被漂亮的线条骗过去，能直接看见哪一个环节仍然悬着。</p>
+<h2>📤 最后再决定要不要导出</h2>
+<p>画完后可以按页面提供的导出入口保存 PNG，或者继续在浏览器里修改。公开分享、协作和保存方式取决于当前页面状态；浏览器本地存储的内容也可能因清理缓存而丢失，重要图稿要及时导出。它适合个人草图和低门槛协作，不等于正式设计稿或项目文档系统。</p>
+<p>今天只画一张“三步图”：输入、处理中间状态、最后结果。先让关系看得懂，再考虑它是否好看；很多复杂问题，第一步只是缺一张不怕丑的草图。</p>]]></content:encoded>
+      
+    </item>
+
+    <item>
+      <title>NASA Eyes on the Solar System：拖动时间轴，看行星如何走到今天</title>
+      <link>https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/articles/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A_NASA_Eyes_on_the_Solar_System_%E6%8B%96%E5%8A%A8%E6%97%B6%E9%97%B4%E8%BD%B4_%E7%9C%8B%E8%A1%8C%E6%98%9F%E5%A6%82%E4%BD%95%E8%B5%B0%E5%88%B0%E4%BB%8A%E5%A4%A9_07338b2fd7.md</link>
+      <guid isPermaLink="false">资源伸手党:07338b2fd7</guid>
+      <pubDate>Sat, 24 Oct 2026 14:00:00 GMT</pubDate>
+      <dc:creator>资源伸手党</dc:creator>
+      <dc:subject>资源伸手党</dc:subject>
+      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/dd5a131e1b.jpg]]></poster>
+      <description><![CDATA[<p><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/dd5a131e1b.jpg" alt="" /></p><p>孩子问“火星现在在哪里”，家长通常会打开一张静态太阳系图片，但看完仍然不知道行星是在动，还是只是被画在某个位置。NASA Eyes on the Solar System 把这个问题变成一个可以拖动的网页场景：先看整体，再把时间拨回去或推向未来。 🪐 先把镜头拉到太阳系外面 打开 https://eyes.nasa.gov/apps/solar-system，先等 3D 场景出现，不要一上来点击一颗行星。拖动视角或缩放，让太阳和几颗行星同时进入画面，再观察它们的相对位置。这个第一步很重要，因为网页里的距离并不是把整个太阳系按真实比例缩小到屏幕上，视觉上</p>]]></description>
+      <content:encoded><![CDATA[<p>孩子问“火星现在在哪里”，家长通常会打开一张静态太阳系图片，但看完仍然不知道行星是在动，还是只是被画在某个位置。NASA Eyes on the Solar System 把这个问题变成一个可以拖动的网页场景：先看整体，再把时间拨回去或推向未来。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/dd5a131e1b.jpg" alt="" /></figure>
+<h2>🪐 先把镜头拉到太阳系外面</h2>
+<p>打开 https://eyes.nasa.gov/apps/solar-system，先等 3D 场景出现，不要一上来点击一颗行星。拖动视角或缩放，让太阳和几颗行星同时进入画面，再观察它们的相对位置。这个第一步很重要，因为网页里的距离并不是把整个太阳系按真实比例缩小到屏幕上，视觉上能看清比“看起来像一张地图”更值得。</p>
+<p>接下来点时间轴，向前后移动一小段。你会发现同一个对象的位置和轨道信息会跟着变化；如果孩子问的是某个任务，就再把对象切换到任务或行星视角。玩法不是寻找一个“正确答案”，而是比较同一目标在两个时间点的不同位置。</p>
+<h2>🎯 再把问题缩小到一颗星</h2>
+<p>选定目标后，先记下当前日期，再把时间拖到另一个日期，问“它是自己移动了，还是我们换了观察角度”。可以让孩子只观察一个对象，避免在几十个名称之间来回跳。页面里的任务和数据来自 NASA 的可视化项目，适合天文启蒙和对航天任务有兴趣的人；加载速度、设备性能和可见控制项可能不同，手机上不一定有桌面端那么顺手。</p>
+<p>它不需要把所有按钮都学会。今天只做一件事：选地球或火星，把时间轴往前后各拖一次，再说出画面发生了什么。这个动作比背一张太阳系示意图更容易留下印象。</p>]]></content:encoded>
+      
+    </item>
+
+    <item>
+      <title>Quick, Draw!：20 秒涂鸦，看机器到底猜不猜得中</title>
+      <link>https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/articles/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A_Quick,_Draw!_20_%E7%A7%92%E6%B6%82%E9%B8%A6_%E7%9C%8B%E6%9C%BA%E5%99%A8%E5%88%B0%E5%BA%95%E7%8C%9C%E4%B8%8D%E7%8C%9C%E5%BE%97%E4%B8%AD_0e58cdd712.md</link>
+      <guid isPermaLink="false">资源伸手党:0e58cdd712</guid>
+      <pubDate>Sat, 24 Oct 2026 14:00:00 GMT</pubDate>
+      <dc:creator>资源伸手党</dc:creator>
+      <dc:subject>资源伸手党</dc:subject>
+      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/b2ccae19d2.jpg]]></poster>
+      <description><![CDATA[<p><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/b2ccae19d2.jpg" alt="" /></p><p>“我画画很差”通常是成年人拒绝动笔的最快理由。Quick, Draw! 干脆把标准换掉：你只有很短的时间画出一个东西，神经网络会一边看，一边猜这是什么。它不是教你画得像，而是让你看看机器从哪些线条里寻找答案。 ✏️ 先把对象画到能认 打开 https://quickdraw.withgoogle.com/，开始后页面会给出一个词。先画最能代表它的轮廓，不要在阴影和细节上花时间。系统会在过程中显示猜测，猜错时也别急着重画，看看它把哪一条线理解成了什么。这个反馈很快，适合聚会、亲子或工作间隙玩一轮。 第二轮可以故意换一种画法：同一个词，第一次画整体轮廓，第二</p>]]></description>
+      <content:encoded><![CDATA[<p>“我画画很差”通常是成年人拒绝动笔的最快理由。Quick, Draw! 干脆把标准换掉：你只有很短的时间画出一个东西，神经网络会一边看，一边猜这是什么。它不是教你画得像，而是让你看看机器从哪些线条里寻找答案。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/b2ccae19d2.jpg" alt="" /></figure>
+<h2>✏️ 先把对象画到能认</h2>
+<p>打开 https://quickdraw.withgoogle.com/，开始后页面会给出一个词。先画最能代表它的轮廓，不要在阴影和细节上花时间。系统会在过程中显示猜测，猜错时也别急着重画，看看它把哪一条线理解成了什么。这个反馈很快，适合聚会、亲子或工作间隙玩一轮。</p>
+<p>第二轮可以故意换一种画法：同一个词，第一次画整体轮廓，第二次只画关键部件，再比较系统是否更快认出来。你会发现人以为“很明显”的符号，机器未必看得懂；有时一条多余的线就把它带向了另一个答案。</p>
+<p>如果和孩子一起玩，可以轮流负责画和解释：画的人只说自己想画什么，猜的人先不看答案，最后再比较三方理解。这个小变化会让游戏从“机器猜中了没有”变成“我们为什么都把这几笔看成同一个东西”，也更容易聊到图形、特征和表达之间的差别。</p>
+<h2>🧠 画完看看自己漏了什么</h2>
+<p>这个小游戏适合练观察和表达，不适合当成正式的绘画测评。它需要浏览器正常加载脚本和网络连接，页面会保存或使用涂鸦数据来改进识别系统，正式使用前可以查看页面的隐私说明。它不要求登录，结果也不是考试分数。</p>
+<p>今天找一个同伴一起玩：一个人画，一个人猜，最后再看机器的答案。你会发现，三种“看懂”有时并不相同，而这正是它比普通你画我猜多出来的那一点意思。</p>]]></content:encoded>
+      
+    </item>
+
+    <item>
+      <title>Worldle：只看国家轮廓，六次机会猜出今天的答案</title>
+      <link>https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/articles/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A_Worldle_%E5%8F%AA%E7%9C%8B%E5%9B%BD%E5%AE%B6%E8%BD%AE%E5%BB%93_%E5%85%AD%E6%AC%A1%E6%9C%BA%E4%BC%9A%E7%8C%9C%E5%87%BA%E4%BB%8A%E5%A4%A9%E7%9A%84%E7%AD%94%E6%A1%88_43c87c75c1.md</link>
+      <guid isPermaLink="false">资源伸手党:43c87c75c1</guid>
+      <pubDate>Sat, 24 Oct 2026 14:00:00 GMT</pubDate>
+      <dc:creator>资源伸手党</dc:creator>
+      <dc:subject>资源伸手党</dc:subject>
+      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/f436dc4b92.jpg]]></poster>
+      <description><![CDATA[<p><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/f436dc4b92.jpg" alt="" /></p><p>旅行计划还没定下来，午休却想去世界上某个地方走一圈，可以先打开 Worldle。它不给你景点照片，也不告诉你语言，只丢出一个国家轮廓，让你从形状和距离开始猜。每次输入都会留下反馈，下一次猜测就不能只靠感觉。 🌍 先看轮廓，不要马上搜索 打开 https://worldle.teuteuf.fr/，先用十秒观察形状：有没有海岸线、狭长的突出部分、明显的岛屿或边界缺口。然后输入一个你认为距离较近的国家。页面会给出距离和方向提示，下一步要做的是利用反馈排除区域，而不是立刻打开搜索引擎查轮廓。 第一次猜错很正常，关键是把反馈说出来：“它在我猜的国家东边”“距离</p>]]></description>
+      <content:encoded><![CDATA[<p>旅行计划还没定下来，午休却想去世界上某个地方走一圈，可以先打开 Worldle。它不给你景点照片，也不告诉你语言，只丢出一个国家轮廓，让你从形状和距离开始猜。每次输入都会留下反馈，下一次猜测就不能只靠感觉。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/f436dc4b92.jpg" alt="" /></figure>
+<h2>🌍 先看轮廓，不要马上搜索</h2>
+<p>打开 https://worldle.teuteuf.fr/，先用十秒观察形状：有没有海岸线、狭长的突出部分、明显的岛屿或边界缺口。然后输入一个你认为距离较近的国家。页面会给出距离和方向提示，下一步要做的是利用反馈排除区域，而不是立刻打开搜索引擎查轮廓。</p>
+<p>第一次猜错很正常，关键是把反馈说出来：“它在我猜的国家东边”“距离比我想象中远”。这样游戏就从记忆竞赛变成了一个小型地理推理。第二次和第三次可以专门选邻近区域的国家，看看方向提示有没有改变你的判断。</p>
+<p>如果轮廓太陌生，可以先在纸上记三个线索：海岸线长短、有没有明显突出部、猜测后距离缩小还是变大。不要马上查地图，因为查地图会替你完成最有意思的排除过程。猜完以后再打开地图复盘，看看自己是把一个岛看成了大陆，还是把相邻国家的位置记反了。</p>
+<h2>🧭 猜完再打开地图</h2>
+<p>Worldle 适合地理爱好者、学生和碎片时间玩一题。每日题目、猜测次数、语言和页面功能可能随站点调整，具体以打开时显示为准；不需要把它当成正式地理考试，也不要把结果页截图当作权威地图。今天只给自己六次机会，猜完再查答案，看看你究竟是输给了轮廓，还是输给了自己记错的地理位置。</p>]]></content:encoded>
+      
+    </item>
+
+    <item>
+      <title>把“陪孩子做科学”变成网页里的第一关：中国数字科技馆游戏馆怎么逛</title>
+      <link>https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/articles/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A_%E6%8A%8A_%E9%99%AA%E5%AD%A9%E5%AD%90%E5%81%9A%E7%A7%91%E5%AD%A6_%E5%8F%98%E6%88%90%E7%BD%91%E9%A1%B5%E9%87%8C%E7%9A%84%E7%AC%AC%E4%B8%80%E5%85%B3_%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%97%E7%A7%91%E6%8A%80%E9%A6%86%E6%B8%B8%E6%88%8F%E9%A6%86%E6%80%8E%E4%B9%88%E9%80%9B_a5315f36f5.md</link>
+      <guid isPermaLink="false">资源伸手党:a5315f36f5</guid>
+      <pubDate>Fri, 23 Oct 2026 14:00:00 GMT</pubDate>
+      <dc:creator>资源伸手党</dc:creator>
+      <dc:subject>资源伸手党</dc:subject>
+      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/fa6c507f95.jpg]]></poster>
+      <description><![CDATA[<p><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/fa6c507f95.jpg" alt="" /></p><p>孩子说“我想玩点有意思的”，家长通常会在科学和游戏之间犹豫。中国数字科技馆的入口比较适合把两件事接起来：先打开官网，从首页找到游戏馆或互动内容，再挑一个不需要长篇讲解就能开始的项目。 先让孩子自己点出问题 这里最好的玩法不是家长先把知识讲完，而是让孩子先看页面上的图、按钮和题目，猜一猜下一步会发生什么。遇到天气、动物、人体或太空主题，可以先让他说出一个预测，再点进去看结果。这样一来，网页不是“答案机器”，而是把问题摆到桌面上。 如果一个项目需要连续操作，就把任务切成一关：先完成一次拖动或选择，再问“为什么会这样”。孩子玩得快时，家长只补一个关键词，不要把</p>]]></description>
+      <content:encoded><![CDATA[<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/fa6c507f95.jpg" alt="" /></figure>
+<p>孩子说“我想玩点有意思的”，家长通常会在科学和游戏之间犹豫。中国数字科技馆的入口比较适合把两件事接起来：先打开官网，从首页找到游戏馆或互动内容，再挑一个不需要长篇讲解就能开始的项目。</p>
+<h2>先让孩子自己点出问题</h2>
+<p>这里最好的玩法不是家长先把知识讲完，而是让孩子先看页面上的图、按钮和题目，猜一猜下一步会发生什么。遇到天气、动物、人体或太空主题，可以先让他说出一个预测，再点进去看结果。这样一来，网页不是“答案机器”，而是把问题摆到桌面上。</p>
+<p>如果一个项目需要连续操作，就把任务切成一关：先完成一次拖动或选择，再问“为什么会这样”。孩子玩得快时，家长只补一个关键词，不要把活动变成课堂板书。游戏馆的价值就在于它允许先动手，解释可以跟在后面。</p>
+<p>还可以把一次游玩变成一个小记录：让孩子画下刚才看到的变化，或者用自己的话复述规则。第二天再回来看，他往往会发现第一次忽略的细节。这个过程不需要准备实验材料，却能把“点一下就过去”的网页互动，变成一次真正留下印象的观察。</p>
+<h2>说点实在的</h2>
+<p>官网公开浏览不等于所有互动内容都完全相同，具体项目可能有浏览器、设备或加载要求；部分互动页面也可能随站点改版调整。适合小学阶段亲子共玩、科学启蒙和课堂热身，不适合替代系统教材。今天可以只做一件事：打开 https://www.cdstm.cn/，找到一个游戏，先让孩子说出“我猜会发生什么”。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/fa6c507f95.jpg" alt="" /></figure>]]></content:encoded>
+      
+    </item>
+
+    <item>
+      <title>陪孩子看懂一只鸟：5个免费入口，把听见、认出和查分布接起来</title>
+      <link>https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/articles/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A_%E9%99%AA%E5%AD%A9%E5%AD%90%E7%9C%8B%E6%87%82%E4%B8%80%E5%8F%AA%E9%B8%9F_5%E4%B8%AA%E5%85%8D%E8%B4%B9%E5%85%A5%E5%8F%A3_%E6%8A%8A%E5%90%AC%E8%A7%81_%E8%AE%A4%E5%87%BA%E5%92%8C%E6%9F%A5%E5%88%86%E5%B8%83%E6%8E%A5%E8%B5%B7%E6%9D%A5_b3471504f1.md</link>
+      <guid isPermaLink="false">资源伸手党:b3471504f1</guid>
+      <pubDate>Fri, 23 Oct 2026 14:00:00 GMT</pubDate>
+      <dc:creator>资源伸手党</dc:creator>
+      <dc:subject>资源伸手党</dc:subject>
+      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/2fe69e4efa.jpg]]></poster>
+      <description><![CDATA[<p><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/2fe69e4efa.jpg" alt="" /></p><p>孩子在小区里听见一声鸟叫，第一反应往往是“它叫什么”。但真正有意思的观察，通常要多走两步：先确认声音和外形，再看看这种鸟在哪里出现过。下面这 5 个入口，正好可以把一次散步接成一堂不用买器材的自然课。 1. eBird https://ebird.org/ 先从地区或鸟名开始搜，看看附近常见的鸟类记录和观察路线。eBird 更像一张由观鸟者不断补充的全球记录地图，适合回答“这附近可能见到什么”。它和后面的识别工具不同，重点不是替你认鸟，而是让你知道某种鸟在什么时间、什么地点被记录过。记录受观察者和季节影响，不能把“没有记录”理解成“绝对没有”。 2. M</p>]]></description>
+      <content:encoded><![CDATA[<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/2fe69e4efa.jpg" alt="" /></figure>
+<p>孩子在小区里听见一声鸟叫，第一反应往往是“它叫什么”。但真正有意思的观察，通常要多走两步：先确认声音和外形，再看看这种鸟在哪里出现过。下面这 5 个入口，正好可以把一次散步接成一堂不用买器材的自然课。</p>
+<p><strong>1. eBird</strong> https://ebird.org/</p>
+<p>先从地区或鸟名开始搜，看看附近常见的鸟类记录和观察路线。eBird 更像一张由观鸟者不断补充的全球记录地图，适合回答“这附近可能见到什么”。它和后面的识别工具不同，重点不是替你认鸟，而是让你知道某种鸟在什么时间、什么地点被记录过。记录受观察者和季节影响，不能把“没有记录”理解成“绝对没有”。</p>
+<p><strong>2. Merlin Bird ID</strong> https://www.merlinbirds.org/</p>
+<p>如果手里有照片或刚刚听到一段声音，可以从 Merlin 的识别入口开始。它会把识别拆成地点、大小、颜色、行为等问题，适合第一次认鸟的人。和 eBird 相比，它更像现场陪跑的问答卡；答案出来后仍然要看相似物种，不要只凭第一条建议下结论。</p>
+<p><strong>3. iNaturalist</strong> https://www.inaturalist.org/</p>
+<p>鸟只是入口，旁边的树、昆虫和花也可以一起记录。打开后可以看社区观察、物种页面和地图，再上传自己的观察。它的优势是范围广，适合把“这只鸟旁边还有什么”继续追下去；识别结果来自算法和社区建议，涉及保护、食用或有毒判断时，不能把它当作专业鉴定。</p>
+<p><strong>4. GBIF</strong> https://www.gbif.org/occurrence/search</p>
+<p>想把观察变成一张更像报告的地图，可以打开 occurrence search，输入物种名，再看记录来源、年份和地点。GBIF 的价值在于它会把观察、标本和数据集放在同一个检索框架里，适合查“这条分布记录从哪里来”。它比 iNaturalist 更像数据入口，下载或引用时要保留数据集和许可信息。</p>
+<p><strong>5. 中国自然标本馆</strong> https://www.cfh.ac.cn/</p>
+<p>最后回到中文资料。中国自然标本馆适合用中文名、分类和高清标本图查找本地物种，孩子可以先把现场照片和网站里的形态对照，再记下别名和分类位置。它不是即时识别器，但在确认“这个名字到底指什么”时很有用，也能把一次随手拍变成一张有出处的观察卡。</p>
+<p>下次散步不用先给孩子讲一堆鸟类知识：听见声音就录下来，看到外形就拍一张，回家按“识别—分布—资料”走一遍。答案未必一次就对，但孩子会知道，自然观察不是猜谜，而是从一个小线索开始慢慢变准。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/50bf97c723.jpg" alt="" /></figure>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/9761f8e5e5.jpg" alt="" /></figure>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/e3fb141248.jpg" alt="" /></figure>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/0fef715953.jpg" alt="" /></figure>]]></content:encoded>
+      
+    </item>
+
+    <item>
+      <title>想把一件文物看明白：5个数字展厅，按一件器物一路追下去</title>
+      <link>https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/articles/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A_%E6%83%B3%E6%8A%8A%E4%B8%80%E4%BB%B6%E6%96%87%E7%89%A9%E7%9C%8B%E6%98%8E%E7%99%BD_5%E4%B8%AA%E6%95%B0%E5%AD%97%E5%B1%95%E5%8E%85_%E6%8C%89%E4%B8%80%E4%BB%B6%E5%99%A8%E7%89%A9%E4%B8%80%E8%B7%AF%E8%BF%BD%E4%B8%8B%E5%8E%BB_0a35cb680d.md</link>
+      <guid isPermaLink="false">资源伸手党:0a35cb680d</guid>
+      <pubDate>Fri, 23 Oct 2026 14:00:00 GMT</pubDate>
+      <dc:creator>资源伸手党</dc:creator>
+      <dc:subject>资源伸手党</dc:subject>
+      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/47161c3e4d.jpg]]></poster>
+      <description><![CDATA[<p><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/47161c3e4d.jpg" alt="" /></p><p>孩子问“这件东西以前是干什么的”，最怕回答变成一串年代和朝代。更好的办法是只挑一件器物，先看它长什么样，再追它所在的空间、材料和出土地。下面 5 个数字展厅不必一次逛完，按兴趣接着走就好。 1. 数字敦煌 https://www.e-dunhuang.com/ 先选一个石窟或数字展览，不要只在首页扫缩略图。数字敦煌的优势是把洞窟空间、壁画细部和文字说明放在同一个入口里，放大后能看见现场很难留意的线条、颜色和残损。它适合从一面壁画开始提问：人物为什么这样站，颜色为什么这样安排。影像和素材能否二次使用，要以具体页面说明为准。 2. 故宫博物院藏品总目 htt</p>]]></description>
+      <content:encoded><![CDATA[<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/47161c3e4d.jpg" alt="" /></figure>
+<p>孩子问“这件东西以前是干什么的”，最怕回答变成一串年代和朝代。更好的办法是只挑一件器物，先看它长什么样，再追它所在的空间、材料和出土地。下面 5 个数字展厅不必一次逛完，按兴趣接着走就好。</p>
+<p><strong>1. 数字敦煌</strong> https://www.e-dunhuang.com/</p>
+<p>先选一个石窟或数字展览，不要只在首页扫缩略图。数字敦煌的优势是把洞窟空间、壁画细部和文字说明放在同一个入口里，放大后能看见现场很难留意的线条、颜色和残损。它适合从一面壁画开始提问：人物为什么这样站，颜色为什么这样安排。影像和素材能否二次使用，要以具体页面说明为准。</p>
+<p><strong>2. 故宫博物院藏品总目</strong> https://zm-digicol.dpm.org.cn/</p>
+<p>如果想查一件中国古代器物的基本信息，可以先用名称、类别或年代搜索。藏品总目适合把“我看见一个瓶子”推进到器物名称、材质、尺寸和时代；它和数字敦煌不同，重点是对象目录，而不是完整洞窟体验。查到结果后，记下对象页而不是只保存图片，之后再回头核对。</p>
+<p><strong>3. 陕西历史博物馆</strong> https://www.sxhm.com/</p>
+<p>陕西历史博物馆的线上入口适合顺着展览和馆藏去看周秦汉唐的器物。打开后先找展览或典藏栏目，再挑一件具体器物，看它和城市、墓葬或生活方式的关系。它的价值不在于把全部文物一次看完，而是给一件器物补上“从哪里来、和谁一起出现”的背景。</p>
+<p><strong>4. 三星堆博物馆</strong> https://www.sxd.cn/</p>
+<p>三星堆的器物很容易被一张夸张的脸吸引，但看完第一眼后，可以继续追材质、形制和出土背景。网站适合把“它看起来很神秘”拆成几个具体问题：眼睛为什么这么大，青铜是怎样铸出来的，器物和其他发现是否属于同一个文化环境。不要只把神秘感当结论，页面中的说明才是下一步。</p>
+<p><strong>5. 中国国家博物馆</strong> https://www.chnmuseum.cn/</p>
+<p>最后用国家博物馆的网上展览或藏品入口做横向补充。它适合把一件器物放进更大的中国历史叙事里，看同一时期还有哪些材料、制度和生活用品。和前面几个专题馆相比，这里更像一张总目录，适合确认名称、时代和展览语境，不适合替代所有专业研究。</p>
+<p>这条路线的诀窍是不要从“我要逛完一个博物馆”开始，而是从“我想看懂一件东西”开始。看见形状，再看材料和空间，最后补上出处与时代，孩子记住的就不只是一个夸张的面具，而是它为什么会出现在那里。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/0b1f62e4cf.jpg" alt="" /></figure>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/497d364ce7.jpg" alt="" /></figure>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/1442120a35.jpg" alt="" /></figure>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/dcd00b1308.jpg" alt="" /></figure>]]></content:encoded>
+      
+    </item>
+
+    <item>
+      <title>写一页学术小笔记，别从二手截图开始：5个开放检索入口</title>
+      <link>https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/articles/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A_%E5%86%99%E4%B8%80%E9%A1%B5%E5%AD%A6%E6%9C%AF%E5%B0%8F%E7%AC%94%E8%AE%B0_%E5%88%AB%E4%BB%8E%E4%BA%8C%E6%89%8B%E6%88%AA%E5%9B%BE%E5%BC%80%E5%A7%8B_5%E4%B8%AA%E5%BC%80%E6%94%BE%E6%A3%80%E7%B4%A2%E5%85%A5%E5%8F%A3_dc4354fb4e.md</link>
+      <guid isPermaLink="false">资源伸手党:dc4354fb4e</guid>
+      <pubDate>Fri, 23 Oct 2026 14:00:00 GMT</pubDate>
+      <dc:creator>资源伸手党</dc:creator>
+      <dc:subject>资源伸手党</dc:subject>
+      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/4effea5f43.jpg]]></poster>
+      <description><![CDATA[<p><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/4effea5f43.jpg" alt="" /></p><p>临时要写一页小报告，最容易发生的事是：先看到一张漂亮截图，再花半天追它到底来自哪篇论文。更稳的顺序是把“找问题、看版本、查摘要、确认医学术语”分开。下面这 5 个入口不是让你收藏更多网页，而是让一条引用更容易回到原文。 1. 国家哲学社会科学文献中心 https://www.ncpssd.cn/ 中文人文社科题目可以先从这里开始。打开后用一个具体概念检索，再看期刊、学科和文献类型。它适合找中文论文和集刊，也适合确认一篇文章的题名、作者和出版信息。不要把搜索结果页当作全文，能否下载、阅读范围和账号要求要以对象页为准。 2. Semantic Scholar</p>]]></description>
+      <content:encoded><![CDATA[<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/4effea5f43.jpg" alt="" /></figure>
+<p>临时要写一页小报告，最容易发生的事是：先看到一张漂亮截图，再花半天追它到底来自哪篇论文。更稳的顺序是把“找问题、看版本、查摘要、确认医学术语”分开。下面这 5 个入口不是让你收藏更多网页，而是让一条引用更容易回到原文。</p>
+<p><strong>1. 国家哲学社会科学文献中心</strong> https://www.ncpssd.cn/</p>
+<p>中文人文社科题目可以先从这里开始。打开后用一个具体概念检索，再看期刊、学科和文献类型。它适合找中文论文和集刊，也适合确认一篇文章的题名、作者和出版信息。不要把搜索结果页当作全文，能否下载、阅读范围和账号要求要以对象页为准。</p>
+<p><strong>2. Semantic Scholar</strong> https://www.semanticscholar.org/</p>
+<p>如果你还不知道关键词应该怎么写，可以先用 Semantic Scholar 找相邻论文。它会把摘要、引用关系、相近文献和作者信息放在一起，适合从一篇熟悉的文章向外扩展。它的优势是发现关系，不是替你判断论文可靠不可靠；真正引用前仍要打开论文页和原始出版信息。</p>
+<p><strong>3. arXiv</strong> https://arxiv.org/</p>
+<p>物理、数学、计算机和统计等领域常能在 arXiv 找到预印本。打开摘要页先看提交时间、版本号、作者和相关链接，再判断它是不是已经正式发表。它适合追踪一个新问题怎样出现，但预印本不等于同行评审后的定稿，写笔记时把版本状态说清楚。</p>
+<p><strong>4. PubMed</strong> https://pubmed.ncbi.nlm.nih.gov/</p>
+<p>遇到医学或生命科学问题，先在 PubMed 查论文记录和摘要。搜索时尽量用疾病、干预或研究对象等具体词，再看研究类型、发表时间和全文入口。它不是给普通人下诊断的工具，却很适合确认一条健康说法究竟对应什么研究。摘要里的结果也不能直接替代临床建议。</p>
+<p><strong>5. Google Scholar</strong> https://scholar.google.com/</p>
+<p>最后用 Google Scholar 做广泛补查。它的覆盖面适合找书章、会议论文、学位论文和不同版本，但结果来源很杂。打开一条记录后先看作者、期刊或会议，再用“被引用”追踪后续讨论。它更像一张大索引，不是质量认证按钮。</p>
+<p>一页小笔记不需要堆满链接。先用 Semantic Scholar 找相邻问题，再回到专业数据库确认版本和出处；涉及医学，就让 PubMed 帮你把关键词和研究类型说清楚。截图可以帮助自己认路，真正写进文章的仍然应该是读过并能解释的原文。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/8adf803746.jpg" alt="" /></figure>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/eae1746ef2.jpg" alt="" /></figure>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/e6ab58dd91.jpg" alt="" /></figure>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/985e6abd46.jpg" alt="" /></figure>]]></content:encoded>
+      
+    </item>
+
+    <item>
+      <title>一张老地图怎么变成城市故事？5个公开入口，先找到图再找到出处</title>
+      <link>https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/articles/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A_%E4%B8%80%E5%BC%A0%E8%80%81%E5%9C%B0%E5%9B%BE%E6%80%8E%E4%B9%88%E5%8F%98%E6%88%90%E5%9F%8E%E5%B8%82%E6%95%85%E4%BA%8B_5%E4%B8%AA%E5%85%AC%E5%BC%80%E5%85%A5%E5%8F%A3_%E5%85%88%E6%89%BE%E5%88%B0%E5%9B%BE%E5%86%8D%E6%89%BE%E5%88%B0%E5%87%BA%E5%A4%84_0bd9cc232f.md</link>
+      <guid isPermaLink="false">资源伸手党:0bd9cc232f</guid>
+      <pubDate>Fri, 23 Oct 2026 14:00:00 GMT</pubDate>
+      <dc:creator>资源伸手党</dc:creator>
+      <dc:subject>资源伸手党</dc:subject>
+      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/0b7053d5eb.jpg]]></poster>
+      <description><![CDATA[<p><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/0b7053d5eb.jpg" alt="" /></p><p>写城市、做家族故事，或者只是想知道一条街以前长什么样，最容易卡在“搜到很多图，却不知道哪张可靠”。老地图不该只是怀旧背景，它还可以告诉你道路、河流、行政边界和城市扩张是怎样变化的。下面按“先找图—再看细节—最后核出处”的顺序走一遍。 1. OldMapsOnline https://www.oldmapsonline.org/ 先在地图上定位城市，再按年代和收藏机构筛选。它的好处是把分散在不同机构的历史地图放到一个可搜索的入口里，适合先建立“这个地方有哪些旧图”的全貌。它不是单一馆藏，打开具体地图后要继续查看原收藏机构、年代和下载条件，不能只把聚合页当作</p>]]></description>
+      <content:encoded><![CDATA[<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/0b7053d5eb.jpg" alt="" /></figure>
+<p>写城市、做家族故事，或者只是想知道一条街以前长什么样，最容易卡在“搜到很多图，却不知道哪张可靠”。老地图不该只是怀旧背景，它还可以告诉你道路、河流、行政边界和城市扩张是怎样变化的。下面按“先找图—再看细节—最后核出处”的顺序走一遍。</p>
+<p><strong>1. OldMapsOnline</strong> https://www.oldmapsonline.org/</p>
+<p>先在地图上定位城市，再按年代和收藏机构筛选。它的好处是把分散在不同机构的历史地图放到一个可搜索的入口里，适合先建立“这个地方有哪些旧图”的全貌。它不是单一馆藏，打开具体地图后要继续查看原收藏机构、年代和下载条件，不能只把聚合页当作最终出处。</p>
+<p><strong>2. David Rumsey Historical Map Collection</strong> https://www.davidrumsey.com/</p>
+<p>找到感兴趣的地图后，可以在 David Rumsey 里放大图面、看收藏信息和相关地图。这里更像一个经过整理的历史地图收藏，适合追一张图的细节：街道怎样标、地名怎样写、边界线有没有改变。它与 OldMapsOnline 的区别是收藏叙述更集中，适合从一张图继续往深处看。</p>
+<p><strong>3. Library of Congress</strong> https://www.loc.gov/maps/</p>
+<p>美国国会图书馆的站内检索适合做第二次核对。先输入城市名、制图者或地图类型，再看对象页的日期、来源和版权说明。它的价值不只在于图多，还在于目录信息通常比较完整；如果你要把老地图放进文章或展板，最好保留对象页链接，而不是只下载一张无标题的图片。</p>
+<p><strong>4. Internet Archive</strong> https://archive.org/</p>
+<p>在 Internet Archive 里，可以从搜索框找旧地图、城市指南、地方志和扫描书。地图本身只是线索，附近的旧书和旅行指南往往能解释地图上一个已经消失的地名。它更像一座数字档案馆，适合把“图上看见的变化”接到同时代文字里；不同项目的下载和版权状态不同，打开具体条目再判断。</p>
+<p><strong>5. 中国国家图书馆数字资源</strong> https://www.nlc.cn/</p>
+<p>如果故事发生在中国，最后别忘了回到国家图书馆。先从首页的数字资源和专题入口找古地图、地方文献或近代报刊，再把地图上的旧称与文字材料对照。它不一定让你马上得到一张最漂亮的图，却更适合确认地名和时代背景。能看到不等于能任意转载，使用前要看具体页面的授权说明。</p>
+<p>一张老地图真正有用的地方，往往不是“以前这里好不一样”，而是它把变化留在了纸面上。先用聚合入口找到线索，再用收藏机构补上出处，最后用旧书或地方文献解释那条路为什么消失，城市故事就不会只剩一张漂亮背景图。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/1243e188d0.jpg" alt="" /></figure>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/4e31e37ede.jpg" alt="" /></figure>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/19f49d43db.jpg" alt="" /></figure>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/19f24fbccb.jpg" alt="" /></figure>]]></content:encoded>
+      
+    </item>
+
+    <item>
+      <title>做网页原型时别先装一堆软件：5个免费入口把想法跑起来</title>
+      <link>https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/articles/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A_%E5%81%9A%E7%BD%91%E9%A1%B5%E5%8E%9F%E5%9E%8B%E6%97%B6%E5%88%AB%E5%85%88%E8%A3%85%E4%B8%80%E5%A0%86%E8%BD%AF%E4%BB%B6_5%E4%B8%AA%E5%85%8D%E8%B4%B9%E5%85%A5%E5%8F%A3%E6%8A%8A%E6%83%B3%E6%B3%95%E8%B7%91%E8%B5%B7%E6%9D%A5_3e8e365f5c.md</link>
+      <guid isPermaLink="false">资源伸手党:3e8e365f5c</guid>
+      <pubDate>Fri, 23 Oct 2026 14:00:00 GMT</pubDate>
+      <dc:creator>资源伸手党</dc:creator>
+      <dc:subject>资源伸手党</dc:subject>
+      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/042aa37ded.jpg]]></poster>
+      <description><![CDATA[<p><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/042aa37ded.jpg" alt="" /></p><p>有时你并不是要立刻做一个完整产品，只是想确认一个按钮、一个页面或一段交互到底长什么样。这个时候，先打开浏览器比先装软件更快。下面 5 个入口可以按“写一点—跑起来—查清楚—画出来”的顺序使用。 1. CodePen https://codepen.io/ 想快速试一个网页效果，先从 CodePen 开始。HTML、CSS、JavaScript 分栏放在同一个编辑器里，改完就能看预览。它适合做按钮、卡片、动画和小组件原型，最大的优点是反馈快；不适合直接承载重要生产代码。先做一个最小效果，比打开空白项目更容易判断想法是否成立。 2. Replit https</p>]]></description>
+      <content:encoded><![CDATA[<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/042aa37ded.jpg" alt="" /></figure>
+<p>有时你并不是要立刻做一个完整产品，只是想确认一个按钮、一个页面或一段交互到底长什么样。这个时候，先打开浏览器比先装软件更快。下面 5 个入口可以按“写一点—跑起来—查清楚—画出来”的顺序使用。</p>
+<p><strong>1. CodePen</strong> https://codepen.io/</p>
+<p>想快速试一个网页效果，先从 CodePen 开始。HTML、CSS、JavaScript 分栏放在同一个编辑器里，改完就能看预览。它适合做按钮、卡片、动画和小组件原型，最大的优点是反馈快；不适合直接承载重要生产代码。先做一个最小效果，比打开空白项目更容易判断想法是否成立。</p>
+<p><strong>2. Replit</strong> https://replit.com/</p>
+<p>如果原型需要多个文件、后端或更完整的运行环境，可以看看 Replit。它把编辑器、运行和项目文件放在网页里，适合把一个小想法继续往可运行项目推进。免费层、运行资源和协作能力会受账户方案影响，打开后先看当前工作区提供什么，不要把“能打开”理解成无限使用。</p>
+<p><strong>3. MDN Web Docs</strong> https://developer.mozilla.org/en-US/</p>
+<p>做到一半遇到“这个属性到底怎么写”，去 MDN 查原文。先从 HTML、CSS 或 JavaScript 的学习区进入，再看示例、浏览器兼容性和参数说明。它不像教程平台那样替你排好一条轻松路线，却会把浏览器真正支持什么写得更清楚，适合核对而不是漫无目的地刷页面。</p>
+<p><strong>4. DevDocs</strong> https://devdocs.io/</p>
+<p>需要在几份文档之间来回切换时，DevDocs 的侧边目录很省事。打开后先选择需要的文档，再用搜索定位方法、属性或类名。它更像一个快速查阅台，适合已经知道要找什么的开发者；具体内容仍来自各项目文档，遇到版本差异时要回到项目官网确认。</p>
+<p><strong>5. Figma</strong> https://www.figma.com/</p>
+<p>如果问题不是“代码能不能跑”，而是“页面看起来顺不顺”，可以把草图放进 Figma。先画一块页面结构，再用组件和连线模拟点击路径。免费方案、文件权限和协作范围会随账户设置变化，适合先讨论结构和流程，不必一开始就把所有视觉细节做满。</p>
+<p>这 5 个入口各管一段：CodePen 负责马上看到效果，Replit 负责继续跑项目，MDN 和 DevDocs 负责查清规则，Figma 负责把页面讲给别人看。今晚只选一个最小问题，做出能被别人点一下的版本，通常比收藏一整套工具更接近真正开始。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/02956e89ba.jpg" alt="" /></figure>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/14a8e8cd64.jpg" alt="" /></figure>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/1738f00d2e.jpg" alt="" /></figure>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/700bb6d244.jpg" alt="" /></figure>]]></content:encoded>
+      
+    </item>
+
+    <item>
+      <title>Chess.com每日谜题：午休十分钟，把“会走棋”变成找一步</title>
+      <link>https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/articles/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A_Chess.com%E6%AF%8F%E6%97%A5%E8%B0%9C%E9%A2%98_%E5%8D%88%E4%BC%91%E5%8D%81%E5%88%86%E9%92%9F_%E6%8A%8A_%E4%BC%9A%E8%B5%B0%E6%A3%8B_%E5%8F%98%E6%88%90%E6%89%BE%E4%B8%80%E6%AD%A5_5580ae4768.md</link>
+      <guid isPermaLink="false">资源伸手党:5580ae4768</guid>
+      <pubDate>Fri, 23 Oct 2026 14:00:00 GMT</pubDate>
+      <dc:creator>资源伸手党</dc:creator>
+      <dc:subject>资源伸手党</dc:subject>
+      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/88ae6f9f95.jpg]]></poster>
+      <description><![CDATA[<p><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/88ae6f9f95.jpg" alt="" /></p><p>很多人会走棋，却不一定能在棋盘上发现机会。Chess.com 的 Puzzles 页面把练习缩成一个局面：轮到你走，先找出最值得计算的一步。午休打开一题，比从头摆一盘完整对局更容易开始，也更容易知道自己到底错在哪里。 先问“对方下一步想干什么” 打开题目后，别急着点最显眼的吃子。先看王的位置、对方刚刚留下的威胁，以及自己的棋子有没有被钉住。确定候选着法后再走第一步；如果系统要求继续，就把对手的回应当作题目的一部分，而不是重新猜一遍。 做错时不要立刻刷新。回看自己漏掉的是将军、吃子还是直接威胁，再重新观察一遍棋盘。这样的练习比记住“这题答案是某某走法”更有</p>]]></description>
+      <content:encoded><![CDATA[<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/88ae6f9f95.jpg" alt="" /></figure>
+<p>很多人会走棋，却不一定能在棋盘上发现机会。Chess.com 的 Puzzles 页面把练习缩成一个局面：轮到你走，先找出最值得计算的一步。午休打开一题，比从头摆一盘完整对局更容易开始，也更容易知道自己到底错在哪里。</p>
+<h2>先问“对方下一步想干什么”</h2>
+<p>打开题目后，别急着点最显眼的吃子。先看王的位置、对方刚刚留下的威胁，以及自己的棋子有没有被钉住。确定候选着法后再走第一步；如果系统要求继续，就把对手的回应当作题目的一部分，而不是重新猜一遍。</p>
+<p>做错时不要立刻刷新。回看自己漏掉的是将军、吃子还是直接威胁，再重新观察一遍棋盘。这样的练习比记住“这题答案是某某走法”更有用，因为你练的是识别局面的速度。连续做几题后，可以把最常错的模式记在一张纸上。</p>
+<p>更具体一点，可以给每道题留三十秒的盲算时间：先不移动棋子，在脑中想两步，再看系统反馈。做完后记下“我为什么以为这步能走”，而不只是记正确答案。几天以后再回头看这些记录，通常能找到自己反复忽略的防守手段或棋形。</p>
+<h2>说点实在的</h2>
+<p>Puzzles 页面可以公开查看题目和棋盘，连续练习、保存记录或个性化训练可能需要账号，部分服务受免费方案限制。适合有一点基础、想把午休变成短练习的人；不适合把题目分数当成完整棋力评估。今天打开 https://www.chess.com/puzzles，先只做一题，走之前说出对手的威胁。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/88ae6f9f95.jpg" alt="" /></figure>]]></content:encoded>
+      
+    </item>
+
+    <item>
+      <title>City Guesser：不出门也能用街景猜一座城市</title>
+      <link>https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/articles/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A_City_Guesser_%E4%B8%8D%E5%87%BA%E9%97%A8%E4%B9%9F%E8%83%BD%E7%94%A8%E8%A1%97%E6%99%AF%E7%8C%9C%E4%B8%80%E5%BA%A7%E5%9F%8E%E5%B8%82_dc0435cf37.md</link>
+      <guid isPermaLink="false">资源伸手党:dc0435cf37</guid>
+      <pubDate>Fri, 23 Oct 2026 14:00:00 GMT</pubDate>
+      <dc:creator>资源伸手党</dc:creator>
+      <dc:subject>资源伸手党</dc:subject>
+      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/567fb17894.jpg]]></poster>
+      <description><![CDATA[<p><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/567fb17894.jpg" alt="" /></p><p>打开 City Guesser，画面不是一张可以随便拖动的地图，而是一段正在播放的城市视频。你要做的第一件事不是查答案，而是先看路牌、建筑、交通方向、天气和人的活动方式。它把“我好像见过这个地方”变成一场十分钟的观察练习。 先猜，再找证据 视频开始后，先给自己一个不依赖搜索的答案：这是哪个国家，可能是哪座城市？接着把线索分成三类。文字线索看店名和路牌，空间线索看街道宽度和建筑，声音线索看语言、车流和环境。最后再用视频继续出现的细节修正判断，不要一看到一栋熟悉建筑就立刻锁死答案。 这个玩法的好处是，城市不再只是旅游照片。你会开始注意电线杆、公交站、路面材质</p>]]></description>
+      <content:encoded><![CDATA[<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/567fb17894.jpg" alt="" /></figure>
+<p>打开 City Guesser，画面不是一张可以随便拖动的地图，而是一段正在播放的城市视频。你要做的第一件事不是查答案，而是先看路牌、建筑、交通方向、天气和人的活动方式。它把“我好像见过这个地方”变成一场十分钟的观察练习。</p>
+<h2>先猜，再找证据</h2>
+<p>视频开始后，先给自己一个不依赖搜索的答案：这是哪个国家，可能是哪座城市？接着把线索分成三类。文字线索看店名和路牌，空间线索看街道宽度和建筑，声音线索看语言、车流和环境。最后再用视频继续出现的细节修正判断，不要一看到一栋熟悉建筑就立刻锁死答案。</p>
+<p>这个玩法的好处是，城市不再只是旅游照片。你会开始注意电线杆、公交站、路面材质和商店门口的摆设。猜错也不浪费，因为复盘时可以问自己：我把哪一种线索看得太重了？</p>
+<p>如果和朋友一起玩，可以把线索分工：一个人只听声音，一个人盯文字，一个人记建筑和道路，最后再合并答案。这样比一个人凭第一印象抢答更有意思，也能看出同一段视频里，哪些细节是所有人都看见了，哪些只是某个人的经验投射。</p>
+<h2>说点实在的</h2>
+<p>页面会随机或按主题进入城市视频，视频来源、加载速度和可选内容会随站点变化；基础浏览通常不要求复杂设置，但不要把所有视频都理解成官方旅游资料。适合地理爱好者、写作取景和碎片时间观察，不适合拿来替代路线规划。今天打开 https://cityguesser.com/，先关掉搜索，给自己十分钟再揭晓。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/567fb17894.jpg" alt="" /></figure>]]></content:encoded>
+      
+    </item>
+
+    <item>
+      <title>EyeWire：给神经元“上色”，看看公民科学到底在玩什么</title>
+      <link>https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/articles/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A_EyeWire_%E7%BB%99%E7%A5%9E%E7%BB%8F%E5%85%83_%E4%B8%8A%E8%89%B2_%E7%9C%8B%E7%9C%8B%E5%85%AC%E6%B0%91%E7%A7%91%E5%AD%A6%E5%88%B0%E5%BA%95%E5%9C%A8%E7%8E%A9%E4%BB%80%E4%B9%88_a43f9ed8e0.md</link>
+      <guid isPermaLink="false">资源伸手党:a43f9ed8e0</guid>
+      <pubDate>Fri, 23 Oct 2026 14:00:00 GMT</pubDate>
+      <dc:creator>资源伸手党</dc:creator>
+      <dc:subject>资源伸手党</dc:subject>
+      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/91ebc038d5.jpg]]></poster>
+      <description><![CDATA[<p><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/91ebc038d5.jpg" alt="" /></p><p>“玩游戏还能帮科学家？”这句话听起来像宣传语，EyeWire 的入口很适合把它拆开看。先打开 Explore 页面，看看项目到底在处理什么图像、玩家要识别什么，再决定要不要进入游戏。它不是让你操控一个神经元角色，而是把显微图像中的判断工作拆成可操作的小任务。 先看懂你到底在涂什么 Explore 页面里的项目说明先把问题交代清楚：研究者需要理解神经元的三维连接，而大量图像需要人来辨认。进入游戏后，玩家面对的是图像区域和标记任务，核心动作不是随便涂色，而是沿着结构判断一段连接是否属于同一个神经元。每次操作都很小，但结果会被放回更大的数据里。 它有意思的地方</p>]]></description>
+      <content:encoded><![CDATA[<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/91ebc038d5.jpg" alt="" /></figure>
+<p>“玩游戏还能帮科学家？”这句话听起来像宣传语，EyeWire 的入口很适合把它拆开看。先打开 Explore 页面，看看项目到底在处理什么图像、玩家要识别什么，再决定要不要进入游戏。它不是让你操控一个神经元角色，而是把显微图像中的判断工作拆成可操作的小任务。</p>
+<h2>先看懂你到底在涂什么</h2>
+<p>Explore 页面里的项目说明先把问题交代清楚：研究者需要理解神经元的三维连接，而大量图像需要人来辨认。进入游戏后，玩家面对的是图像区域和标记任务，核心动作不是随便涂色，而是沿着结构判断一段连接是否属于同一个神经元。每次操作都很小，但结果会被放回更大的数据里。</p>
+<p>它有意思的地方也在这里：你不需要先成为神经科学家，游戏会把局部任务交给你；但你也不能把自己的每一次判断当成最终答案。多人标记、校验和研究流程，才是公民科学成立的部分。</p>
+<h2>说点实在的</h2>
+<p>公开页面可以先了解项目，正式参与通常需要进入游戏流程并按站点要求注册或登录；操作方式、任务开放状态和研究项目会变化。适合对脑科学、图像识别和公民科学感兴趣的人，不适合把一次游戏结果写成医学结论。今天可以先打开 https://eyewire.org/explore，看懂项目要解决的问题，再决定是否加入。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/91ebc038d5.jpg" alt="" /></figure>]]></content:encoded>
+      
+    </item>
+
+    <item>
+      <title>NASA Space Place：孩子问太空时，先玩一局再解释</title>
+      <link>https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/articles/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A_NASA_Space_Place_%E5%AD%A9%E5%AD%90%E9%97%AE%E5%A4%AA%E7%A9%BA%E6%97%B6_%E5%85%88%E7%8E%A9%E4%B8%80%E5%B1%80%E5%86%8D%E8%A7%A3%E9%87%8A_d5fbcf9b6b.md</link>
+      <guid isPermaLink="false">资源伸手党:d5fbcf9b6b</guid>
+      <pubDate>Fri, 23 Oct 2026 14:00:00 GMT</pubDate>
+      <dc:creator>资源伸手党</dc:creator>
+      <dc:subject>资源伸手党</dc:subject>
+      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/2409575405.jpg]]></poster>
+      <description><![CDATA[<p><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/2409575405.jpg" alt="" /></p><p>孩子问“火箭为什么要这样飞”，直接讲轨道、推力和重力，通常三句话就把人讲困了。NASA Space Place 的 Play 页面更适合先把问题变成一次小操作：打开游戏目录，挑一个看得懂的项目，让孩子先观察规则和反馈，再回头问它在模拟什么。 从目录里挑一个能立刻开始的 Play 页面把适合儿童的互动项目集中放在一起。先看标题和缩略图，别急着把所有游戏都打开；如果孩子正在问月亮、火箭或太阳系，就选最接近这个问题的入口。开始后让他先自己试一次，家长只问“你刚才改变了什么”，不要马上把正确答案说出来。 第二遍可以把玩法变成一个小实验：改变一个条件，观察画面、分</p>]]></description>
+      <content:encoded><![CDATA[<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/2409575405.jpg" alt="" /></figure>
+<p>孩子问“火箭为什么要这样飞”，直接讲轨道、推力和重力，通常三句话就把人讲困了。NASA Space Place 的 Play 页面更适合先把问题变成一次小操作：打开游戏目录，挑一个看得懂的项目，让孩子先观察规则和反馈，再回头问它在模拟什么。</p>
+<h2>从目录里挑一个能立刻开始的</h2>
+<p>Play 页面把适合儿童的互动项目集中放在一起。先看标题和缩略图，别急着把所有游戏都打开；如果孩子正在问月亮、火箭或太阳系，就选最接近这个问题的入口。开始后让他先自己试一次，家长只问“你刚才改变了什么”，不要马上把正确答案说出来。</p>
+<p>第二遍可以把玩法变成一个小实验：改变一个条件，观察画面、分数或运动路径有没有变化，再猜原因。这里的重点不是玩到最高分，而是让孩子发现，太空知识并不是一张静态图片，许多结论都来自不断调整条件。</p>
+<h2>说点实在的</h2>
+<p>Space Place 的内容面向儿童，网页端公开浏览和部分游戏可直接开始；具体游戏可能受浏览器加载、地区网络和页面改版影响，部分内容也可能跳转到其他 NASA 页面。适合亲子共玩、课堂导入和碎片时间科普。今天可以打开 https://spaceplace.nasa.gov/menu/play/，只玩一局，然后让孩子说出他改变的那个条件。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/2409575405.jpg" alt="" /></figure>]]></content:encoded>
+      
+    </item>
+
+    <item>
+      <title>把蛋白质当成一团会卡住的绳子：Foldit 让你用游戏试着把它折好</title>
+      <link>https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/articles/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A_%E6%8A%8A%E8%9B%8B%E7%99%BD%E8%B4%A8%E5%BD%93%E6%88%90%E4%B8%80%E5%9B%A2%E4%BC%9A%E5%8D%A1%E4%BD%8F%E7%9A%84%E7%BB%B3%E5%AD%90_Foldit_%E8%AE%A9%E4%BD%A0%E7%94%A8%E6%B8%B8%E6%88%8F%E8%AF%95%E7%9D%80%E6%8A%8A%E5%AE%83%E6%8A%98%E5%A5%BD_19e75cc741.md</link>
+      <guid isPermaLink="false">资源伸手党:19e75cc741</guid>
+      <pubDate>Thu, 22 Oct 2026 14:00:00 GMT</pubDate>
+      <dc:creator>资源伸手党</dc:creator>
+      <dc:subject>资源伸手党</dc:subject>
+      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/5d3c4483ed.jpg]]></poster>
+      <description><![CDATA[<p><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/5d3c4483ed.jpg" alt="" /></p><p>有些游戏的输赢写在分数板上，Foldit 的有趣之处在于，你面对的是一条看起来像乱线的蛋白质结构。它不是把生物学变成一段动画，而是让玩家通过旋转、拉开、压紧这些动作，去寻找更稳定的形状。第一次打开时，先别急着挑战高分，接受教程里的第一份结构任务。 进入 https://fold.it/ 后，教程会把操作拆成几个动作：旋转视角、拖动残基、尝试让结构减少冲突。你拖动一个部位时，其他地方可能跟着变形，屏幕上的分数也会变化。真正让人停下来的不是我懂蛋白质了，而是你会发现一个局部的漂亮形状，可能让整团结构更糟；游戏在逼你同时看局部和整体。 再往前走，可以尝试把结构</p>]]></description>
+      <content:encoded><![CDATA[<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/5d3c4483ed.jpg" alt="" /></figure>
+<p>有些游戏的输赢写在分数板上，Foldit 的有趣之处在于，你面对的是一条看起来像乱线的蛋白质结构。它不是把生物学变成一段动画，而是让玩家通过旋转、拉开、压紧这些动作，去寻找更稳定的形状。第一次打开时，先别急着挑战高分，接受教程里的第一份结构任务。</p>
+<p>进入 https://fold.it/ 后，教程会把操作拆成几个动作：旋转视角、拖动残基、尝试让结构减少冲突。你拖动一个部位时，其他地方可能跟着变形，屏幕上的分数也会变化。真正让人停下来的不是我懂蛋白质了，而是你会发现一个局部的漂亮形状，可能让整团结构更糟；游戏在逼你同时看局部和整体。</p>
+<p>再往前走，可以尝试把结构重新排列，比较不同方案的分数和形状。这里没有看完说明就会的捷径，很多时候你是在猜哪种折法更稳定，再用反馈修正。适合喜欢拼图、建模或策略游戏的人，也适合把它当作一堂不太像课的科学体验；但它不是医学诊断工具，不能把游戏里的分数当作现实蛋白质结论。</p>
+<p>说点实在的：Foldit 的核心体验免费，但网页端项目、教程和社区内容会随站点更新；复杂任务可能需要注册、下载客户端或阅读英文说明，设备性能也会影响操作顺滑度。项目结果有科研价值的说法，应以官方项目介绍和论文为准，不要把玩家帮助研究夸成每个动作都会直接改变医学。</p>
+<p>今天就先做教程里的一个小任务，记下开始和结束时结构的变化。你会发现，科学游戏最像科学的地方，不是它给出答案，而是它让你愿意为了一个看不见的结构，多试几次。</p>
+<p>如果孩子一起玩，可以把问题改得更小：哪一次移动让结构突然稳定下来？让他先描述看到的变化，再去看教程里的解释。这样既不会把游戏变成考试，也能把一次点击留成一个真正的问题。</p>
+<p>先把目标放在观察，而不是通关。</p>]]></content:encoded>
+      
+    </item>
+
+    <item>
+      <title>不想选背景音时，先听维基百科的改动：一个网页把实时编辑变成声音</title>
+      <link>https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/articles/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A_%E4%B8%8D%E6%83%B3%E9%80%89%E8%83%8C%E6%99%AF%E9%9F%B3%E6%97%B6_%E5%85%88%E5%90%AC%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E7%9A%84%E6%94%B9%E5%8A%A8_%E4%B8%80%E4%B8%AA%E7%BD%91%E9%A1%B5%E6%8A%8A%E5%AE%9E%E6%97%B6%E7%BC%96%E8%BE%91%E5%8F%98%E6%88%90%E5%A3%B0%E9%9F%B3_e708f37c97.md</link>
+      <guid isPermaLink="false">资源伸手党:e708f37c97</guid>
+      <pubDate>Thu, 22 Oct 2026 14:00:00 GMT</pubDate>
+      <dc:creator>资源伸手党</dc:creator>
+      <dc:subject>资源伸手党</dc:subject>
+      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/fcc22b15e0.jpg]]></poster>
+      <description><![CDATA[<p><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/fcc22b15e0.jpg" alt="" /></p><p>写东西时想放点背景声，却不想听歌，也不想打开一段会抢注意力的播客，可以试试 Listen to Wikipedia。它的奇怪之处在于，页面里没有歌单：维基百科有人新增内容、删掉一段话或改了一个词，网页就把这些实时编辑变成一串声音和屏幕上的变化。 打开 https://listen.hatnote.com/ 后，首页会提示“click to enable sound”。先点击页面，让声音开始；页面中间会持续出现维基百科的编辑链接，旁边还能看到实时编辑数量。核验时页面显示约每分钟 33 次编辑，这个数字会随实时流量变化，不是固定的统计值。点开其中一个链接，能</p>]]></description>
+      <content:encoded><![CDATA[<p>写东西时想放点背景声，却不想听歌，也不想打开一段会抢注意力的播客，可以试试 Listen to Wikipedia。它的奇怪之处在于，页面里没有歌单：维基百科有人新增内容、删掉一段话或改了一个词，网页就把这些实时编辑变成一串声音和屏幕上的变化。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/fcc22b15e0.jpg" alt="" /></figure>
+<p>打开 https://listen.hatnote.com/ 后，首页会提示“click to enable sound”。先点击页面，让声音开始；页面中间会持续出现维基百科的编辑链接，旁边还能看到实时编辑数量。核验时页面显示约每分钟 33 次编辑，这个数字会随实时流量变化，不是固定的统计值。点开其中一个链接，能进入对应的 Wikipedia 差异页面，看看刚才那一下改了什么。</p>
+<h2>先听懂它怎么变化</h2>
+<p>它的乐趣不在于猜每个声音代表什么，而在于把“百科一直有人在改”变成一种可感知的节奏。新页面、改动和机器人编辑会不断出现，声音密集时像一阵细碎的雨，安静时又能听见零星的落点。可以先开着它写十分钟，等某个标题吸引你，再点进去看原文，不必一开始就给自己布置阅读任务。</p>
+<h2>再把语言和画面调成自己的</h2>
+<p>页面下方有语言选项，英语默认连接，德语、俄语、乌克兰语、日语、西班牙语、法语等可以按需勾选。Settings 里还能隐藏新用户提示、文章标题、最近改动面板，或者切换成更适合只听声音的背景模式。第一次使用建议保留文章标题和最近改动，这样能把声音和页面上的真实事件对起来；确定只想当背景音时，再把文字面板收起来。</p>
+<p>说点实在的：它免费、无需登录，核心内容来自 Wikipedia 的实时公开编辑流；页面默认是英文，声音需要手动开启，网络不稳时节奏也会变化。它不是音乐播放器，也不能保证内容都适合安静工作——实时编辑里会出现政治、灾害、人物和争议词条，想专注时可以只把它当作短时间实验。</p>
+<p>今晚别急着开歌单，先让这个页面响五分钟。你听到的不是一首被写好的曲子，而是世界各地的人正在把一部百科全书继续往前推。</p>]]></content:encoded>
+      
+    </item>
+
+    <item>
+      <title>孩子说想做游戏，不必先学一堆代码：Scratch 先让角色动起来</title>
+      <link>https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/articles/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A_%E5%AD%A9%E5%AD%90%E8%AF%B4%E6%83%B3%E5%81%9A%E6%B8%B8%E6%88%8F_%E4%B8%8D%E5%BF%85%E5%85%88%E5%AD%A6%E4%B8%80%E5%A0%86%E4%BB%A3%E7%A0%81_Scratch_%E5%85%88%E8%AE%A9%E8%A7%92%E8%89%B2%E5%8A%A8%E8%B5%B7%E6%9D%A5_10fcdcd05b.md</link>
+      <guid isPermaLink="false">资源伸手党:10fcdcd05b</guid>
+      <pubDate>Thu, 22 Oct 2026 14:00:00 GMT</pubDate>
+      <dc:creator>资源伸手党</dc:creator>
+      <dc:subject>资源伸手党</dc:subject>
+      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/b0281bfbd5.jpg]]></poster>
+      <description><![CDATA[<p><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/b0281bfbd5.jpg" alt="" /></p><p>我想做一个游戏通常是孩子最有热情、也最容易被劝退的一句话。Scratch 的好处，是把第一步从写语法改成拖积木：先让小猫移动，再让它碰到边缘反弹，最后加上一条规则。做出来的东西不一定精致，但孩子能看到自己的指令立刻改变屏幕。 打开 https://scratch.mit.edu/ 后，先点创建或浏览项目，挑一个角色和背景。第一轮只做一个动作：点击绿旗，角色移动十步；然后加上重复执行，让它真正动起来。第二轮再加一个事件，比如按下空格后改变方向。每增加一块积木，都让孩子先猜结果，再运行，这样他会开始把代码理解成可观察的因果关系。 等角色会动了，可以做一个一分</p>]]></description>
+      <content:encoded><![CDATA[<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/b0281bfbd5.jpg" alt="" /></figure>
+<p>我想做一个游戏通常是孩子最有热情、也最容易被劝退的一句话。Scratch 的好处，是把第一步从写语法改成拖积木：先让小猫移动，再让它碰到边缘反弹，最后加上一条规则。做出来的东西不一定精致，但孩子能看到自己的指令立刻改变屏幕。</p>
+<p>打开 https://scratch.mit.edu/ 后，先点创建或浏览项目，挑一个角色和背景。第一轮只做一个动作：点击绿旗，角色移动十步；然后加上重复执行，让它真正动起来。第二轮再加一个事件，比如按下空格后改变方向。每增加一块积木，都让孩子先猜结果，再运行，这样他会开始把代码理解成可观察的因果关系。</p>
+<p>等角色会动了，可以做一个一分钟小游戏：用方向键控制角色，碰到目标就加分，碰到边缘就回到起点。这里最适合让孩子自己改一个参数，比如速度、分数或背景音乐；改完后马上试玩，失败也能看见是哪条规则不合适。Scratch 与在线课程不同，它给的是创作场，不要求按照唯一答案通关。</p>
+<p>说点实在的：Scratch 浏览器端可免费使用，保存和分享项目通常需要账户；不同地区的加载速度、评论和社区内容会有差异。家长陪伴时要注意公开分享里的个人信息，不要放真实姓名、学校、照片或联系方式。作品可以使用平台提供的素材，但外部音乐、图片和角色要另查授权。</p>
+<p>今天不要给孩子布置学会编程，只给一个小任务：让角色从屏幕左边走到右边，再回来。等他开始问如果碰到敌人怎么办，下一关自然就出现了。</p>
+<p>大人最好少替他修代码，多问一句“你原本希望它怎样做”。孩子自己找到那块放错位置的积木时，得到的不只是一个能运行的角色，还知道程序出错并不等于想法失败。保存一个版本，再改一个参数，作品很快就有了自己的脾气。</p>
+<p>这比提前讲一堆术语更能留下印象。</p>]]></content:encoded>
+      
+    </item>
+
+    <item>
+      <title>孩子问博物馆里的东西从哪来？MetKids把地图和时间机器一起打开</title>
+      <link>https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/articles/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A_%E5%AD%A9%E5%AD%90%E9%97%AE%E5%8D%9A%E7%89%A9%E9%A6%86%E9%87%8C%E7%9A%84%E4%B8%9C%E8%A5%BF%E4%BB%8E%E5%93%AA%E6%9D%A5_MetKids%E6%8A%8A%E5%9C%B0%E5%9B%BE%E5%92%8C%E6%97%B6%E9%97%B4%E6%9C%BA%E5%99%A8%E4%B8%80%E8%B5%B7%E6%89%93%E5%BC%80_9755539645.md</link>
+      <guid isPermaLink="false">资源伸手党:9755539645</guid>
+      <pubDate>Thu, 22 Oct 2026 14:00:00 GMT</pubDate>
+      <dc:creator>资源伸手党</dc:creator>
+      <dc:subject>资源伸手党</dc:subject>
+      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/2d5501d37a.jpg]]></poster>
+      <description><![CDATA[<p><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/2d5501d37a.jpg" alt="" /></p><p>孩子在博物馆里问“这个东西从哪里来”，大人很容易立刻开始背年代、讲流派，结果讲到第三句，孩子已经转身去看别的展柜了。MetKids 的入口更像一张可以自己走的儿童地图：先让孩子选方向，再慢慢把问题带到藏品上。 打开 https://www.metmuseum.org/art/online-features/metkids/ 后，页面目前会进入大都会博物馆保留的 MetKids 页面，地址显示为 archived.metmuseum.org 。首页没有把一大段馆史压在孩子面前，而是把入口分成 Map 、 Time Machine 和 Videos 三条路。</p>]]></description>
+      <content:encoded><![CDATA[<p>孩子在博物馆里问“这个东西从哪里来”，大人很容易立刻开始背年代、讲流派，结果讲到第三句，孩子已经转身去看别的展柜了。MetKids 的入口更像一张可以自己走的儿童地图：先让孩子选方向，再慢慢把问题带到藏品上。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/2d5501d37a.jpg" alt="" /></figure>
+<p>打开 https://www.metmuseum.org/art/online-features/metkids/ 后，页面目前会进入大都会博物馆保留的 MetKids 页面，地址显示为 <code>archived.metmuseum.org</code>。首页没有把一大段馆史压在孩子面前，而是把入口分成 <strong>Map</strong>、<strong>Time Machine</strong> 和 <strong>Videos</strong> 三条路。第一步可以先点 Map，让孩子从地图上挑一个方向；如果他对“以前的人怎么生活”更感兴趣，就换到 Time Machine；不想读长段文字时，再用 Videos 先看一段。</p>
+<h2>先让孩子自己选入口</h2>
+<p>Map 的价值不只是“看地图”，而是把博物馆里的物件放回地理位置。孩子点到一个地方，可以先问他：这件东西为什么会出现在这里？它和我们现在的城市距离有多远？大人不用马上给出答案，先让他描述页面上看见的地方、人物或物件，再回到藏品页看说明。这样一次点击就有了问题，而不是把网站变成线上课本。</p>
+<h2>再把时间往回拨</h2>
+<p>Time Machine 适合处理“这件东西比我想的老吗”这种问题。可以先选一个时间段，再挑一个感兴趣的对象，比较不同年代的衣服、建筑、器物和生活方式。孩子不需要记住完整的艺术史，只要找到两个变化：材料变了，形状变了，还是使用它的人变了。Videos 则适合做收尾，把刚才看到的东西换成更短、更直观的讲解。</p>
+<p>说点实在的：页面公开可访问，当前没有要求先注册；界面和部分内容以英文为主，适合家长陪着一起读。它是大都会的儿童教育入口，不等于所有藏品图片都可以随意下载或商用；如果要把藏品图放进文章、课件或视频，仍要打开具体对象页看许可和使用条件。</p>
+<p>今晚可以只走一条路：先点 Map，选一个孩子真正好奇的对象，再用 Time Machine 找到它所在的年代。比起一次讲完博物馆，这种“我自己发现一件东西”的感觉更容易留下来。</p>]]></content:encoded>
+      
+    </item>
+
+    <item>
+      <title>剪短视频不想被版权卡住？5 个免费影像与声音入口，按用途找更省事</title>
+      <link>https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/articles/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A_%E5%89%AA%E7%9F%AD%E8%A7%86%E9%A2%91%E4%B8%8D%E6%83%B3%E8%A2%AB%E7%89%88%E6%9D%83%E5%8D%A1%E4%BD%8F_5_%E4%B8%AA%E5%85%8D%E8%B4%B9%E5%BD%B1%E5%83%8F%E4%B8%8E%E5%A3%B0%E9%9F%B3%E5%85%A5%E5%8F%A3_%E6%8C%89%E7%94%A8%E9%80%94%E6%89%BE%E6%9B%B4%E7%9C%81%E4%BA%8B_dbf6998f1f.md</link>
+      <guid isPermaLink="false">资源伸手党:dbf6998f1f</guid>
+      <pubDate>Thu, 22 Oct 2026 14:00:00 GMT</pubDate>
+      <dc:creator>资源伸手党</dc:creator>
+      <dc:subject>资源伸手党</dc:subject>
+      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/f9d42c9914.jpg]]></poster>
+      <description><![CDATA[<p><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/f9d42c9914.jpg" alt="" /></p><p>片子剪到最后，画面有了，节奏也有了，偏偏差一段城市夜景和一条能托住转场的声音。此时最危险的做法，是随手从搜索结果里下载一份看起来能用的素材。下面这条路线把视频、空镜和音乐分开，先找能用的，再回到单个素材页核对授权。 1. Coverr https://coverr.co/ 先从 Coverr 找一段通用空镜。打开后按城市、自然、办公等场景搜索，点开单个视频看预览和下载信息。它适合补人还没说话、画面先把地点交代出来的几秒钟，比下载一整段纪录片更容易控制长度。使用前仍要看站点当前许可，尤其不要把原片直接当成素材包转售。 2. Pexels Video htt</p>]]></description>
+      <content:encoded><![CDATA[<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/f9d42c9914.jpg" alt="" /></figure>
+<p>片子剪到最后，画面有了，节奏也有了，偏偏差一段城市夜景和一条能托住转场的声音。此时最危险的做法，是随手从搜索结果里下载一份看起来能用的素材。下面这条路线把视频、空镜和音乐分开，先找能用的，再回到单个素材页核对授权。</p>
+<p><strong>1. Coverr</strong> https://coverr.co/ 先从 Coverr 找一段通用空镜。打开后按城市、自然、办公等场景搜索，点开单个视频看预览和下载信息。它适合补人还没说话、画面先把地点交代出来的几秒钟，比下载一整段纪录片更容易控制长度。使用前仍要看站点当前许可，尤其不要把原片直接当成素材包转售。</p>
+<p><strong>2. Pexels Video</strong> https://www.pexels.com/videos/ 如果 Coverr 没有合适的横幅画面，再去 Pexels Video 按动作和构图搜，比如 walking、window、hands。打开后先确认画面比例和人物是否清晰可辨，再下载原尺寸。它的优点是生活化镜头多，适合短视频和演示，但免费可下载不等于可以暗示画面中的人支持你的产品。</p>
+<p><strong>3. NASA Video</strong> https://www.nasa.gov/live/ 需要太空、地球或科研质感时，看 NASA 的官方影像入口。先从主题页找到任务或现象，再看具体素材说明，不要只凭缩略图判断是否能二次使用。它和前两个库存站不同，画面有明确机构来源，适合科普、课堂和解释型视频；涉及 NASA 标识、人物肖像或第三方内容时要按说明处理。</p>
+<p><strong>4. Pixabay Music</strong> https://pixabay.com/music/ 画面确定后，再用 Pixabay Music 找底。先按情绪和时长筛选，试听前半段和转折处，看看是否会把人声盖住。它适合快速做一个版本，但音乐页面的授权和限制要以当前条款为准，别因为免版税四个字就省掉下载页面和作者信息的留存。</p>
+<p><strong>5. YouTube 音频库</strong> https://www.youtube.com/audiolibrary 如果视频主要发布在 YouTube，音频库可以作为最后一道保险。打开后按音乐或音效筛选，先看是否需要署名，再把要求记进项目说明。它更偏平台内使用，和 Pixabay 的开放素材思路不同；要把视频同步到其他平台时，重新核对许可范围。</p>
+<p>最稳的操作顺序是：先确定画面用途，再下载原文件和许可信息，最后配声音。不要把找到素材误认为获得所有权利；每次多花一分钟看素材页，后面就少一次返工。</p>]]></content:encoded>
+      
+    </item>
+
+    <item>
+      <title>临时要做一套有出处的网页或提案素材？这 5 个免费入口按顺序接起来</title>
+      <link>https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/articles/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A_%E4%B8%B4%E6%97%B6%E8%A6%81%E5%81%9A%E4%B8%80%E5%A5%97%E6%9C%89%E5%87%BA%E5%A4%84%E7%9A%84%E7%BD%91%E9%A1%B5%E6%88%96%E6%8F%90%E6%A1%88%E7%B4%A0%E6%9D%90_%E8%BF%99_5_%E4%B8%AA%E5%85%8D%E8%B4%B9%E5%85%A5%E5%8F%A3%E6%8C%89%E9%A1%BA%E5%BA%8F%E6%8E%A5%E8%B5%B7%E6%9D%A5_3abcdde5d0.md</link>
+      <guid isPermaLink="false">资源伸手党:3abcdde5d0</guid>
+      <pubDate>Thu, 22 Oct 2026 14:00:00 GMT</pubDate>
+      <dc:creator>资源伸手党</dc:creator>
+      <dc:subject>资源伸手党</dc:subject>
+      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/03acb3008a.jpg]]></poster>
+      <description><![CDATA[<p><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/03acb3008a.jpg" alt="" /></p><p>临时接到一个小项目，最容易卡住的不是没有想法，而是打开空白画布后，发现图标、字体、示意图和版式都没有着落。与其在搜索引擎里来回捡素材，不如先把这条小路线存下来：先搭结构，再补图形，最后处理字体和授权。下面这些站点我按真正做一页东西的顺序排好了。 1. OfficePLUS https://www.officeplus.cn/ 先从微软的模板库看一眼。打开后按汇报、计划、海报等关键词筛选，不要急着下载，先看一套模板的页序能不能替你解决开头、中段、结尾三个问题。它和后面几个站点的区别，是先给你一副骨架，适合时间只剩半天、但又不想从白页开始的人。模板里的图片、</p>]]></description>
+      <content:encoded><![CDATA[<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/03acb3008a.jpg" alt="" /></figure>
+<p>临时接到一个小项目，最容易卡住的不是没有想法，而是打开空白画布后，发现图标、字体、示意图和版式都没有着落。与其在搜索引擎里来回捡素材，不如先把这条小路线存下来：先搭结构，再补图形，最后处理字体和授权。下面这些站点我按真正做一页东西的顺序排好了。</p>
+<p><strong>1. OfficePLUS</strong> https://www.officeplus.cn/ 先从微软的模板库看一眼。打开后按汇报、计划、海报等关键词筛选，不要急着下载，先看一套模板的页序能不能替你解决开头、中段、结尾三个问题。它和后面几个站点的区别，是先给你一副骨架，适合时间只剩半天、但又不想从白页开始的人。模板里的图片、字体和图标仍要逐项看使用说明，免费不等于每个素材都能脱离模板随便转卖。</p>
+<p><strong>2. Figma</strong> https://www.figma.com/ 把刚才的页序搬进 Figma，先用一张空白 Frame 定下比例，再把标题、卡片和按钮排出来。它更像共同工作的桌面：需要同事批注，或者要把网页想法先做成能点击的样子，就在这里完成。免费档适合小型个人项目和原型，团队权限、历史版本和部分高级能力会受计划限制。</p>
+<p><strong>3. unDraw</strong> https://undraw.co/ 页面有了结构，再到 unDraw 找一张不抢标题的插画。打开后先用颜色选择器调成接近项目主色，再下载 SVG 或 PNG。它的好处是图形风格统一、能改色，不必从一堆摄影图里找看起来差不多的配图。站点许可允许较自由地使用，但如果项目有特殊品牌要求，仍应保留页面上的许可说明。</p>
+<p><strong>4. SVG Repo</strong> https://www.svgrepo.com/ 需要一个电话、文件夹、箭头或地球图标时，来这里按英文关键词搜，再点开单个图标的许可页。不要只看搜索结果卡片；同一个站里不同作者的授权可能不同。它比 unDraw 更适合补零件，适合要画流程图、产品界面或提案信息图的人。</p>
+<p><strong>5. Google Fonts</strong> https://fonts.google.com/ 最后再定字体。先输入项目需要的字母或风格，选一款标题字体和一款正文无衬线字体，别把整套页面装成字体展览。Google Fonts 的开源许可通常很友好，但下载或嵌入前要看具体字体的许可文件，尤其是要做商业交付时。</p>
+<p>这条顺序的关键，是不让素材反过来支配内容：OfficePLUS 解决结构，Figma 解决关系，unDraw 和 SVG Repo 补视觉，Google Fonts 收尾。下次再遇到今晚要交一页的任务，先打开前两个站，空白画布会小很多。</p>]]></content:encoded>
+      
+    </item>
+
+    <item>
+      <title>陪孩子做一次不靠买器材的科学活动？这 5 个免费入口把好奇心接住</title>
+      <link>https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/articles/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A_%E9%99%AA%E5%AD%A9%E5%AD%90%E5%81%9A%E4%B8%80%E6%AC%A1%E4%B8%8D%E9%9D%A0%E4%B9%B0%E5%99%A8%E6%9D%90%E7%9A%84%E7%A7%91%E5%AD%A6%E6%B4%BB%E5%8A%A8_%E8%BF%99_5_%E4%B8%AA%E5%85%8D%E8%B4%B9%E5%85%A5%E5%8F%A3%E6%8A%8A%E5%A5%BD%E5%A5%87%E5%BF%83%E6%8E%A5%E4%BD%8F_0ae8d30637.md</link>
+      <guid isPermaLink="false">资源伸手党:0ae8d30637</guid>
+      <pubDate>Thu, 22 Oct 2026 14:00:00 GMT</pubDate>
+      <dc:creator>资源伸手党</dc:creator>
+      <dc:subject>资源伸手党</dc:subject>
+      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/79874089a4.jpg]]></poster>
+      <description><![CDATA[<p><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/79874089a4.jpg" alt="" /></p><p>孩子问为什么影子会变长，家长最容易做的回答是打开搜索框，把一段解释念给他听。可真正能留下来的，往往是一次小小的操作：先猜，再动手，最后发现结果和猜的不完全一样。下面这些站点适合周末临时开一堂家庭小课，先用互动内容引出问题，再决定是否真的做实验。 1. Exploratorium Science Snacks https://www.exploratorium.edu/snacks 先从 Science Snacks 挑一个家里已有材料的活动。打开后先看材料清单和安全提醒，再让孩子猜结果，最后才按步骤操作。它和普通科普文章不同，重点是把问题变成手上的动作，</p>]]></description>
+      <content:encoded><![CDATA[<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/79874089a4.jpg" alt="" /></figure>
+<p>孩子问为什么影子会变长，家长最容易做的回答是打开搜索框，把一段解释念给他听。可真正能留下来的，往往是一次小小的操作：先猜，再动手，最后发现结果和猜的不完全一样。下面这些站点适合周末临时开一堂家庭小课，先用互动内容引出问题，再决定是否真的做实验。</p>
+<p><strong>1. Exploratorium Science Snacks</strong> https://www.exploratorium.edu/snacks 先从 Science Snacks 挑一个家里已有材料的活动。打开后先看材料清单和安全提醒，再让孩子猜结果，最后才按步骤操作。它和普通科普文章不同，重点是把问题变成手上的动作，适合家长不想准备复杂器材、但希望孩子不是只看动画的晚上。</p>
+<p><strong>2. CK-12</strong> https://www.ck12.org/ 如果问题需要一点概念铺垫，再进 CK-12 找相应的 STEM 内容。先看互动课本里的图示或练习，不要一上来把整章读完。它更适合需要把刚才为什么会这样说清楚的孩子；内容按学习阶段组织，个别功能可能需要登录，家长可以只挑一个小模块。</p>
+<p><strong>3. BBC Bitesize</strong> https://www.bbc.co.uk/bitesize 想把活动接成一个短任务，可以用 Bitesize 的学科页面。先按年龄或科目进入，再挑一段视频或互动题，做完让孩子用自己的话复述。它的不同之处是节奏短、题目明确，适合活动结束后检查孩子究竟看懂了什么；部分内容面向英国课程，别把课程标签当成唯一标准。</p>
+<p><strong>4. NatGeo Kids</strong> https://kids.nationalgeographic.com/games 如果孩子对动物、地理更有兴趣，NatGeo Kids 是很好的换挡点。打开游戏或测验前，先问一个具体问题，比如迁徙为什么要走那么远，玩完再回看答案。它的画面和题目更像游戏，适合把注意力拉回来，但英文内容对低龄孩子可能需要家长陪读。</p>
+<p><strong>5. NOAA 海洋儿童板块</strong> https://oceanservice.noaa.gov/kids/ 最后可以用 NOAA 的儿童页面收束，把刚才的观察放到海洋、潮汐或珊瑚的更大环境里。先挑一个主题图或小游戏，不必一次看完所有栏目。官方资料的好处是来源清楚，但它更偏美国海洋科普，涉及具体海域的例子不一定和本地经验相同。</p>
+<p>一小时的家庭科学活动不需要做出标准答案。先从一个孩子真正问过的问题开始，给他一次预测、一次操作和一次解释；如果最后他又问了一个新问题，这堂课就已经成功了。</p>]]></content:encoded>
+      
+    </item>
+
+    <item>
+      <title>午休只有十分钟，也能随机走到世界一角：MapCrunch 的街景小旅行</title>
+      <link>https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/articles/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A_%E5%8D%88%E4%BC%91%E5%8F%AA%E6%9C%89%E5%8D%81%E5%88%86%E9%92%9F_%E4%B9%9F%E8%83%BD%E9%9A%8F%E6%9C%BA%E8%B5%B0%E5%88%B0%E4%B8%96%E7%95%8C%E4%B8%80%E8%A7%92_MapCrunch_%E7%9A%84%E8%A1%97%E6%99%AF%E5%B0%8F%E6%97%85%E8%A1%8C_7a21ebeb88.md</link>
+      <guid isPermaLink="false">资源伸手党:7a21ebeb88</guid>
+      <pubDate>Thu, 22 Oct 2026 14:00:00 GMT</pubDate>
+      <dc:creator>资源伸手党</dc:creator>
+      <dc:subject>资源伸手党</dc:subject>
+      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/fbf444d549.jpg]]></poster>
+      <description><![CDATA[<p><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/fbf444d549.jpg" alt="" /></p><p>午休刷手机很容易刷成一小时，但真正想要的只是离开当前这张桌子一会儿。MapCrunch 的玩法简单得有点像抽签：打开网页，它把你送到一处随机街景，你可以先猜自己在哪里，再决定要不要继续走。它不负责讲完整的旅游攻略，负责把我想看看别处变成一个立刻发生的动作。 打开 https://www.mapcrunch.com/ 后，先等街景载入，别急着点下一处。观察路牌、建筑外墙、车道方向和地形，给自己三十秒猜国家或城市；如果你开着地图信息，答案会变得太快，先关掉搜索习惯更有意思。随机的价值不在于每次都到名胜，而是你会遇到一条普通住宅街、一座加油站或一段没有游客的公</p>]]></description>
+      <content:encoded><![CDATA[<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/fbf444d549.jpg" alt="" /></figure>
+<p>午休刷手机很容易刷成一小时，但真正想要的只是离开当前这张桌子一会儿。MapCrunch 的玩法简单得有点像抽签：打开网页，它把你送到一处随机街景，你可以先猜自己在哪里，再决定要不要继续走。它不负责讲完整的旅游攻略，负责把我想看看别处变成一个立刻发生的动作。</p>
+<p>打开 https://www.mapcrunch.com/ 后，先等街景载入，别急着点下一处。观察路牌、建筑外墙、车道方向和地形，给自己三十秒猜国家或城市；如果你开着地图信息，答案会变得太快，先关掉搜索习惯更有意思。随机的价值不在于每次都到名胜，而是你会遇到一条普通住宅街、一座加油站或一段没有游客的公路。</p>
+<p>第二个玩法是给自己定一条小规则，比如只找海边、只看小镇、只走有轨电车经过的地方。街景加载后用方向键或鼠标移动，看看一条街怎样转到另一条街；遇到画面模糊、覆盖不完整或无法继续时，直接换点，不必把它当成谜题硬解。它和 Google Earth 的主题导览不同，更像一次没有导游的散步。</p>
+<p>说点实在的：MapCrunch 依赖底层地图街景服务，页面覆盖、加载速度和地区可用性会变化；部分地点可能没有街景，移动端体验也不如桌面浏览器稳定。它不是官方地理测验，别根据一块路牌就断言一个地方的全部样貌，也不要把街景中的个人、车牌或住宅细节截图拿去做商业内容。</p>
+<p>下次午休先给自己三分钟：猜一次地点，走一条街，再把最意外的细节记下来。旅行不一定要有目的地，有时只需要让眼睛先离开熟悉的办公室。</p>
+<p>如果想把它变成一个小挑战，可以记下三个线索再揭晓答案：道路哪边行驶、建筑材料是什么、天气像哪个季节。你未必每次都猜对，但这三步会让一次随机跳转变成真正的观察，而不是快速点下一张图。</p>
+<p>别急着证明自己猜对，先把眼前的街走完。</p>]]></content:encoded>
+      
+    </item>
+
+    <item>
+      <title>下班后练编程，别再收藏一堆课程：5 个免费入口把零散时间接成路线</title>
+      <link>https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/articles/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A_%E4%B8%8B%E7%8F%AD%E5%90%8E%E7%BB%83%E7%BC%96%E7%A8%8B_%E5%88%AB%E5%86%8D%E6%94%B6%E8%97%8F%E4%B8%80%E5%A0%86%E8%AF%BE%E7%A8%8B_5_%E4%B8%AA%E5%85%8D%E8%B4%B9%E5%85%A5%E5%8F%A3%E6%8A%8A%E9%9B%B6%E6%95%A3%E6%97%B6%E9%97%B4%E6%8E%A5%E6%88%90%E8%B7%AF%E7%BA%BF_b33d5c97d3.md</link>
+      <guid isPermaLink="false">资源伸手党:b33d5c97d3</guid>
+      <pubDate>Thu, 22 Oct 2026 14:00:00 GMT</pubDate>
+      <dc:creator>资源伸手党</dc:creator>
+      <dc:subject>资源伸手党</dc:subject>
+      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/ca9607b6b9.jpg]]></poster>
+      <description><![CDATA[<p><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/ca9607b6b9.jpg" alt="" /></p><p>晚上九点打开教程，十点半还停在环境配置完成，这是很多人的编程学习现场。真正能坚持下来的路线，通常不是资源最多，而是每次打开都知道下一步做什么。下面这 5 个入口，按先选方向、再练题、遇到问题回到文档的顺序使用，比把几十个课程收藏夹堆在一起更容易开始。 1. roadmap.sh https://roadmap.sh/ 先打开路线图，选择前端、后端、Python 或 DevOps 等方向。第一步不是把所有节点都点亮，而是找出今天能完成的一个小节点，比如 HTML 基础或 Git 的一次提交。它提供的是地图，不是从头讲到尾的课程，适合已经知道自己想往哪走、但</p>]]></description>
+      <content:encoded><![CDATA[<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/ca9607b6b9.jpg" alt="" /></figure>
+<p>晚上九点打开教程，十点半还停在环境配置完成，这是很多人的编程学习现场。真正能坚持下来的路线，通常不是资源最多，而是每次打开都知道下一步做什么。下面这 5 个入口，按先选方向、再练题、遇到问题回到文档的顺序使用，比把几十个课程收藏夹堆在一起更容易开始。</p>
+<p><strong>1. roadmap.sh</strong> https://roadmap.sh/ 先打开路线图，选择前端、后端、Python 或 DevOps 等方向。第一步不是把所有节点都点亮，而是找出今天能完成的一个小节点，比如 HTML 基础或 Git 的一次提交。它提供的是地图，不是从头讲到尾的课程，适合已经知道自己想往哪走、但总在先学什么上犹豫的人。</p>
+<p><strong>2. MDN Web Docs</strong> https://developer.mozilla.org/ 如果选的是网页方向，第二站放在 MDN。打开后从 HTML、CSS 或 JavaScript 的学习区进入，再用页面里的示例验证一个概念。MDN 的价值不在于把每件事讲得最轻松，而在于它会把浏览器实际支持什么、一个属性有哪些边界写清楚。把它当作查原文的地方，不要期待一晚上读完。</p>
+<p><strong>3. Exercism</strong> https://exercism.org/ 学完一个小概念，就去 Exercism 做一题。先选语言，再从最短的练习开始；提交后可以比较其他写法，部分语言还有导师反馈。它与教程的区别是必须动手，答案不再停留在我看懂了。免费练习很多，但不同语言的导师活跃度会变化，遇到等待时先看社区解法，不要把反馈当成唯一出口。</p>
+<p><strong>4. Codewars</strong> https://www.codewars.com/ 想把练习变成一点游戏感，可以换到 Codewars。先从低难度 kata 开始，提交后才能看到别人的解法；这个顺序很适合发现自己写得太绕的地方。它更像短跑题库，不替你安排完整课程，适合已经会一点语法、想每天做一道题保持手感的人。</p>
+<p><strong>5. Python.org</strong> https://www.python.org/ 如果学 Python，遇到这个函数到底怎么定义的问题，回到官方文档，而不是继续翻二手截图。打开 Documentation 或 Tutorial，先确认版本，再复制最小示例到自己的环境里。官方文档不负责哄你学下去，却能帮你把传言和真实行为分开。</p>
+<p>把路线图当路牌，把 MDN 和 Python 文档当地图，把 Exercism 与 Codewars 当练习场，每晚只完成一个小动作就够了。今天可以先打开 roadmap.sh，选一个最小节点；学习不是把网页全部看完，而是让明天的自己接得上今天的代码。</p>]]></content:encoded>
+      
+    </item>
+
+    <item>
+      <title>想把一组公开数据讲成看得懂的小报告？5 个入口从数字走到解释</title>
+      <link>https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/articles/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A_%E6%83%B3%E6%8A%8A%E4%B8%80%E7%BB%84%E5%85%AC%E5%BC%80%E6%95%B0%E6%8D%AE%E8%AE%B2%E6%88%90%E7%9C%8B%E5%BE%97%E6%87%82%E7%9A%84%E5%B0%8F%E6%8A%A5%E5%91%8A_5_%E4%B8%AA%E5%85%A5%E5%8F%A3%E4%BB%8E%E6%95%B0%E5%AD%97%E8%B5%B0%E5%88%B0%E8%A7%A3%E9%87%8A_e293684e08.md</link>
+      <guid isPermaLink="false">资源伸手党:e293684e08</guid>
+      <pubDate>Thu, 22 Oct 2026 14:00:00 GMT</pubDate>
+      <dc:creator>资源伸手党</dc:creator>
+      <dc:subject>资源伸手党</dc:subject>
+      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/a5c9516812.jpg]]></poster>
+      <description><![CDATA[<p><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/a5c9516812.jpg" alt="" /></p><p>做一页数据报告时，最容易出现的不是数字太少，而是图表太多：人口、能源、温度、经济指标全都堆在一起，读者却不知道它们到底在回答什么。更实用的顺序是先用一个站点找到问题，再用第二个站点核对口径，最后才把图表放进文章。下面 5 个入口各自负责一段路。 1. Our World in Data https://ourworldindata.org/ 先用它找问题。打开后从人口、健康、能源或环境主题进入，先看交互图的时间轴和数据定义，再决定是否下载。它的优势是图表和解释放在一起，适合把我觉得变化很大改成一个可检查的问题。图表可引用不代表可以删掉来源，复制时把指标定</p>]]></description>
+      <content:encoded><![CDATA[<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/a5c9516812.jpg" alt="" /></figure>
+<p>做一页数据报告时，最容易出现的不是数字太少，而是图表太多：人口、能源、温度、经济指标全都堆在一起，读者却不知道它们到底在回答什么。更实用的顺序是先用一个站点找到问题，再用第二个站点核对口径，最后才把图表放进文章。下面 5 个入口各自负责一段路。</p>
+<p><strong>1. Our World in Data</strong> https://ourworldindata.org/ 先用它找问题。打开后从人口、健康、能源或环境主题进入，先看交互图的时间轴和数据定义，再决定是否下载。它的优势是图表和解释放在一起，适合把我觉得变化很大改成一个可检查的问题。图表可引用不代表可以删掉来源，复制时把指标定义一起保存。</p>
+<p><strong>2. 世界银行数据</strong> https://data.worldbank.org/ 当你需要跨国比较，再打开世界银行数据。先确认指标、国家和年份，再看单位和更新时间。它与 Our World in Data 的区别是更像一个国际数据库，字段清楚但入口没有那么讲故事，适合用来核对一条趋势到底是不是全球普遍现象。</p>
+<p><strong>3. 国家统计局国家数据</strong> https://data.stats.gov.cn/ 涉及中国的数字，尽量回到国家统计局国家数据。打开后先按年度、地区或指标选择，不要把搜索框出来的第一个数直接抄走；同名指标可能有不同口径。它是报告里负责本地分母的一站，适合核对总量、增长率和地区差异。</p>
+<p><strong>4. NASA Earth Observatory</strong> https://earthobservatory.nasa.gov/ 如果数据和气候、土地、海洋或灾害有关，可以用 NASA Earth Observatory 找一张能解释空间变化的卫星图。先看文章中的图注和数据来源，再决定它是背景图还是证据。它提供的是观测叙事，不是所有指标的统一数据库，适合让一组抽象数字重新落到地球表面。</p>
+<p><strong>5. GBIF</strong> https://www.gbif.org/ 做生物、物种或自然观察报告时，再用 GBIF 查分布记录。先输入物种名，查看记录来源、时间和坐标范围，不要把有记录直接写成这里一定有这个物种。它适合补一张分布地图，也提醒我们公开数据常常受观察者和采样地点影响。</p>
+<p>一份小报告只需要回答一个清楚的问题。先在 Our World in Data 找到问题，再用国家或国际数据库核对口径，最后用地图或图像补上空间感；图表少一点，读者反而更容易记住结论从哪里来。</p>]]></content:encoded>
+      
+    </item>
+
+    <item>
+      <title>想给旧故事找一张可靠的图？5个免费入口，先把原物和出处一起找到</title>
+      <link>https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/articles/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A_%E6%83%B3%E7%BB%99%E6%97%A7%E6%95%85%E4%BA%8B%E6%89%BE%E4%B8%80%E5%BC%A0%E5%8F%AF%E9%9D%A0%E7%9A%84%E5%9B%BE_5%E4%B8%AA%E5%85%8D%E8%B4%B9%E5%85%A5%E5%8F%A3_%E5%85%88%E6%8A%8A%E5%8E%9F%E7%89%A9%E5%92%8C%E5%87%BA%E5%A4%84%E4%B8%80%E8%B5%B7%E6%89%BE%E5%88%B0_0257748d6b.md</link>
+      <guid isPermaLink="false">资源伸手党:0257748d6b</guid>
+      <pubDate>Thu, 22 Oct 2026 14:00:00 GMT</pubDate>
+      <dc:creator>资源伸手党</dc:creator>
+      <dc:subject>资源伸手党</dc:subject>
+      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/ea00f5a8f8.jpg]]></poster>
+      <description><![CDATA[<p><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/ea00f5a8f8.jpg" alt="" /></p><p>家里翻出一张没有说明的老照片，或者写文章时需要一件旧物的清晰图片，最容易走进两个坑：搜索结果看起来很像，点进去却找不到原始出处；图片能保存，授权条件却说不清。下面这 5 个入口，适合按“先看开放程度，再追具体对象”的顺序使用。 1. Smithsonian Open Access 网址：https://www.si.edu/openaccess 先从这里看一眼“开放资源”应该长什么样。页面直接给出搜索框，并说明 Smithsonian 有超过 520 万件二维和三维数字藏品，很多可以下载、分享和再利用。输入人物、器物或地点名称后，先点进具体对象页，看它是</p>]]></description>
+      <content:encoded><![CDATA[<p>家里翻出一张没有说明的老照片，或者写文章时需要一件旧物的清晰图片，最容易走进两个坑：搜索结果看起来很像，点进去却找不到原始出处；图片能保存，授权条件却说不清。下面这 5 个入口，适合按“先看开放程度，再追具体对象”的顺序使用。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/ea00f5a8f8.jpg" alt="" /></figure>
+<p><strong>1. Smithsonian Open Access</strong> 网址：https://www.si.edu/openaccess</p>
+<p>先从这里看一眼“开放资源”应该长什么样。页面直接给出搜索框，并说明 Smithsonian 有超过 520 万件二维和三维数字藏品，很多可以下载、分享和再利用。输入人物、器物或地点名称后，先点进具体对象页，看它是否属于 Open Access，再保存对象名称、馆藏机构和页面地址。它适合做旧故事的第一道筛选：不是只给你一张漂亮图，而是把图像和馆藏说明放在同一个入口里。</p>
+<p><strong>2. Wikimedia Commons</strong> 网址：https://commons.wikimedia.org/</p>
+<p>如果要找老照片、历史建筑或已经进入公共领域的图像，可以在搜索框里输入英文地名、人物名或年代。它的优势是条目多，且每个文件页通常会单独写清来源、作者和许可。别在缩略图页面停住：打开文件详情，确认是 Public Domain、CC BY 还是 CC BY-SA，再决定文章里要不要使用。它比 Smithsonian 更像一座开放仓库，适合已经知道关键词、想把同一主题的材料横向找全的人。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/82cce7d88c.jpg" alt="" /></figure>
+<p><strong>3. Openverse</strong> 网址：https://openverse.org/</p>
+<p>想跨多个开放来源搜索时，Openverse 更省力。页面把图片和音频放进同一个检索入口，点开结果后可以继续查看来源与许可类型。它的作用不是替你判断“这张图能不能随便用”，而是先把公开授权的候选项集中起来。适合赶时间、还没有明确馆藏机构的人；真正下载前，仍要回到原始页面核对作者、许可和署名要求。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/fdf20c0c8c.jpg" alt="" /></figure>
+<p><strong>4. Internet Archive 的文本库</strong> 网址：https://archive.org/details/texts</p>
+<p>如果照片背后的故事需要原文支撑，别只搜图片。Internet Archive 的文本入口可以先按书名、作者或主题找扫描书、旧目录和历史资料。打开一本书后，先看它是可直接阅读、可下载，还是需要借阅；同一个站点里并非所有材料都处在同一种权利状态。它适合补“这张图当时叫什么、被谁记录过”这种背景，能把一张孤零零的老照片接回文字。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/54a0ba2da0.jpg" alt="" /></figure>
+<p><strong>5. The Met Collection</strong> 网址：https://www.metmuseum.org/art/collection</p>
+<p>需要古代器物、绘画或服饰的高清参考时，可以在大都会的藏品页面按主题、年代和材质浏览。它的好处是对象页信息相对完整，适合先看作品名称、年代、材料和馆藏编号，再决定图片只做参考，还是进入后续使用。部分藏品开放程度不同，不能因为站点免费浏览，就默认每张图都能脱离页面商用。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/53f88a6e5e.jpg" alt="" /></figure>
+<p>真正稳妥的找图路线，不是先下载再补出处，而是先找到对象，再把对象页、来源和许可一起存下来。下次写旧故事时，先从 Smithsonian 或 Commons 找图，再用 Internet Archive 补文字，图片就不再只是装饰。</p>]]></content:encoded>
+      
+    </item>
+
+    <item>
+      <title>写稿时不想听歌，又受不了安静：MyNoise 让你把环境声调到刚刚好</title>
+      <link>https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/articles/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A_%E5%86%99%E7%A8%BF%E6%97%B6%E4%B8%8D%E6%83%B3%E5%90%AC%E6%AD%8C_%E5%8F%88%E5%8F%97%E4%B8%8D%E4%BA%86%E5%AE%89%E9%9D%99_MyNoise_%E8%AE%A9%E4%BD%A0%E6%8A%8A%E7%8E%AF%E5%A2%83%E5%A3%B0%E8%B0%83%E5%88%B0%E5%88%9A%E5%88%9A%E5%A5%BD_487082d3a7.md</link>
+      <guid isPermaLink="false">资源伸手党:487082d3a7</guid>
+      <pubDate>Thu, 22 Oct 2026 14:00:00 GMT</pubDate>
+      <dc:creator>资源伸手党</dc:creator>
+      <dc:subject>资源伸手党</dc:subject>
+      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/b95b76d166.jpg]]></poster>
+      <description><![CDATA[<p><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/b95b76d166.jpg" alt="" /></p><p>办公室里有人说话，家里有电器声，戴上耳机播放音乐又容易跟着唱。想要的其实不是一首歌，而是一层不抢注意力的背景。MyNoise 的玩法就在这里：它不是简单地按一下雨声，而是让你把不同频段的噪音推到适合自己的位置。 打开 https://mynoise.net/，先挑一个熟悉的生成器，比如咖啡馆、雨声、风或远雷。进入后不要立刻打开一堆效果，先把每个滑块逐个推高、拉低，听听声音从细碎变成闷时的差别。你可以把它当成调一台看不见的混音器：低频适合盖住空调嗡嗡声，高频太多则可能让人更累。 第二个有意思的动作是保存一个组合，再在不同任务之间切换。写稿时可以用更平的咖啡</p>]]></description>
+      <content:encoded><![CDATA[<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/b95b76d166.jpg" alt="" /></figure>
+<p>办公室里有人说话，家里有电器声，戴上耳机播放音乐又容易跟着唱。想要的其实不是一首歌，而是一层不抢注意力的背景。MyNoise 的玩法就在这里：它不是简单地按一下雨声，而是让你把不同频段的噪音推到适合自己的位置。</p>
+<p>打开 https://mynoise.net/，先挑一个熟悉的生成器，比如咖啡馆、雨声、风或远雷。进入后不要立刻打开一堆效果，先把每个滑块逐个推高、拉低，听听声音从细碎变成闷时的差别。你可以把它当成调一台看不见的混音器：低频适合盖住空调嗡嗡声，高频太多则可能让人更累。</p>
+<p>第二个有意思的动作是保存一个组合，再在不同任务之间切换。写稿时可以用更平的咖啡馆声，阅读时换成雨和风，入睡前把变化幅度调小。它比 A Soft Murmur 更像一台可调设备，适合愿意花两分钟微调的人；如果你只想点开就播放，预设声音反而更省事。</p>
+<p>说点实在的：网页基础使用可以直接开始，部分声音、移动端能力或长期使用方式可能受站点的捐赠和授权安排影响；是否需要登录、哪些生成器可用，以当前页面为准。它不是医疗助眠工具，音量也不要开到盖住环境警报的程度。网站会处理基本的网页访问信息，浏览器隐私设置也可能改变体验。</p>
+<p>先为今天的任务做一个十分钟测试：同一段文字，分别在安静、音乐和 MyNoise 背景下读一遍，看看哪种状态更容易继续。找到自己的那组滑块后，把它当成工作开关，而不是又一个需要每天研究的新玩具。</p>
+<p>还有一个小细节值得试：把声音开到刚好能盖住键盘声，再把其中一条频段关掉，比较注意力是否发生变化。不同房间、不同耳机的结果不一样，所以最好的预设不是网上推荐的那一组，而是你自己留存的那一组。</p>
+<p>它最好的用法，往往只是帮你稳稳开始。</p>
+<p>先听十分钟，再决定要不要长期使用。</p>]]></content:encoded>
+      
+    </item>
+
+    <item>
+      <title>写政策、产品说明前，先别翻二手截图：4个官方入口把原文找回来</title>
+      <link>https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/articles/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A_%E5%86%99%E6%94%BF%E7%AD%96_%E4%BA%A7%E5%93%81%E8%AF%B4%E6%98%8E%E5%89%8D_%E5%85%88%E5%88%AB%E7%BF%BB%E4%BA%8C%E6%89%8B%E6%88%AA%E5%9B%BE_4%E4%B8%AA%E5%AE%98%E6%96%B9%E5%85%A5%E5%8F%A3%E6%8A%8A%E5%8E%9F%E6%96%87%E6%89%BE%E5%9B%9E%E6%9D%A5_19ffac7837.md</link>
+      <guid isPermaLink="false">资源伸手党:19ffac7837</guid>
+      <pubDate>Thu, 22 Oct 2026 14:00:00 GMT</pubDate>
+      <dc:creator>资源伸手党</dc:creator>
+      <dc:subject>资源伸手党</dc:subject>
+      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/0341e05c2b.jpg]]></poster>
+      <description><![CDATA[<p><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/0341e05c2b.jpg" alt="" /></p><p>写一页政策解读、产品说明或行业报告时，最省事的办法往往也是最危险的：把搜索结果里的一张截图或一段转述直接贴进稿子。等到有人追问“原文是哪一版”，才发现标题、日期和数字都对不上。下面这 4 个入口，按“政策—法条—标准—数据”的顺序打开，适合把二手信息换回原文。 1. 中国政府网政策库 网址：https://www.gov.cn/zhengce/ 先从政策发布端开始。页面有最新政策、政策文件高级搜索等入口，适合按发布机关、关键词和时间去找一份文件。打开后先记住文件标题和发布日期，再进入正文看它是通知、意见、办法还是实施方案。它解决的是“这条政策到底由谁发布</p>]]></description>
+      <content:encoded><![CDATA[<p>写一页政策解读、产品说明或行业报告时，最省事的办法往往也是最危险的：把搜索结果里的一张截图或一段转述直接贴进稿子。等到有人追问“原文是哪一版”，才发现标题、日期和数字都对不上。下面这 4 个入口，按“政策—法条—标准—数据”的顺序打开，适合把二手信息换回原文。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/0341e05c2b.jpg" alt="" /></figure>
+<p><strong>1. 中国政府网政策库</strong> 网址：https://www.gov.cn/zhengce/</p>
+<p>先从政策发布端开始。页面有最新政策、政策文件高级搜索等入口，适合按发布机关、关键词和时间去找一份文件。打开后先记住文件标题和发布日期，再进入正文看它是通知、意见、办法还是实施方案。它解决的是“这条政策到底由谁发布、什么时候发布”的问题，比把媒体标题当成政策原文可靠得多。</p>
+<p><strong>2. 国家法律法规数据库</strong> 网址：https://flk.npc.gov.cn/</p>
+<p>需要核对法条时，直接在标题检索框输入关键词，页面还提供精确和模糊检索，并把宪法、法律、行政法规、地方性法规和司法解释分开列出。它和政策库的区别，是这里要找的是法律法规文本，不是政策新闻。写产品说明涉及合规边界时，先打开具体条文和版本日期，别把一篇解读文章里的概括句当成法条原文。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/86cd616602.jpg" alt="" /></figure>
+<p><strong>3. 国家标准全文公开系统</strong> 网址：https://openstd.samr.gov.cn/bzgk/gb/index</p>
+<p>产品参数、检测要求和工程说明里经常出现“符合某某标准”。这个页面把国家标准、强制性国家标准、推荐性国家标准和指导性技术文件分开，打开后先确认标准编号、名称和类型，再进入全文。它最有用的地方，是让你看到标准本身，而不是只听别人说“行业规定就是这样”。不同标准的适用范围和文本状态要按页面显示判断，不能把推荐性标准写成对所有人都一样的强制要求。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/a07488c98a.jpg" alt="" /></figure>
+<p><strong>4. 国家数据</strong> 网址：https://data.stats.gov.cn/</p>
+<p>要写人口、价格、产量或宏观指标，可以先打开国家数据首页。页面把 GDP、CPI、总人口、社会消费品零售总额等常用指标放在入口处，也有月度、季度、年度和地区数据的分类。先选指标和时间口径，再记录单位、范围和发布日期；同一个数字，换了年度口径或地区范围，结论就可能完全不同。页面提供登录和注册入口，具体查询深度以当时页面提示为准。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/94f938c373.jpg" alt="" /></figure>
+<p>这条路线的好处，是每一步都能回到原始页面：政策看发布机关，法律看条文，标准看文本，数据看口径。下次要交一页说明时，先把这 4 个入口存进浏览器，少截一张二手图，少解释一次“我也是这么看到的”。</p>]]></content:encoded>
+      
+    </item>
+
+    <item>
+      <title>照片太大传不出去？Squoosh 用一个浏览器页面把体积和画质摊开给你看</title>
+      <link>https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/articles/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A_%E7%85%A7%E7%89%87%E5%A4%AA%E5%A4%A7%E4%BC%A0%E4%B8%8D%E5%87%BA%E5%8E%BB_Squoosh_%E7%94%A8%E4%B8%80%E4%B8%AA%E6%B5%8F%E8%A7%88%E5%99%A8%E9%A1%B5%E9%9D%A2%E6%8A%8A%E4%BD%93%E7%A7%AF%E5%92%8C%E7%94%BB%E8%B4%A8%E6%91%8A%E5%BC%80%E7%BB%99%E4%BD%A0%E7%9C%8B_af798e68a6.md</link>
+      <guid isPermaLink="false">资源伸手党:af798e68a6</guid>
+      <pubDate>Thu, 22 Oct 2026 14:00:00 GMT</pubDate>
+      <dc:creator>资源伸手党</dc:creator>
+      <dc:subject>资源伸手党</dc:subject>
+      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/f1965ed121.jpg]]></poster>
+      <description><![CDATA[<p><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/f1965ed121.jpg" alt="" /></p><p>手机拍的照片发到群里，进度条卡住；网页上传又提示超过大小。很多压缩工具只告诉你已经变小了，Squoosh 则把原图、压缩图、文件大小和画面变化放在同一个窗口里，适合想自己决定到底牺牲多少画质的人。 打开 https://squoosh.app/ 后，把一张不涉及隐私的图片拖进去。先看左右对比，再打开压缩设置，比较 WebP、AVIF 或 JPEG 的体积变化。不要一上来把质量拉到最低，先把宽度从手机原图缩到实际使用尺寸，常常比单纯压质量更有效。拖动中间的分割线，看看文字边缘、头发和天空渐变有没有明显损失。 第二个动作是做一次目标大小测试：如果图片要放公众</p>]]></description>
+      <content:encoded><![CDATA[<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/f1965ed121.jpg" alt="" /></figure>
+<p>手机拍的照片发到群里，进度条卡住；网页上传又提示超过大小。很多压缩工具只告诉你已经变小了，Squoosh 则把原图、压缩图、文件大小和画面变化放在同一个窗口里，适合想自己决定到底牺牲多少画质的人。</p>
+<p>打开 https://squoosh.app/ 后，把一张不涉及隐私的图片拖进去。先看左右对比，再打开压缩设置，比较 WebP、AVIF 或 JPEG 的体积变化。不要一上来把质量拉到最低，先把宽度从手机原图缩到实际使用尺寸，常常比单纯压质量更有效。拖动中间的分割线，看看文字边缘、头发和天空渐变有没有明显损失。</p>
+<p>第二个动作是做一次目标大小测试：如果图片要放公众号或网页，先设一个自己能接受的宽度，再换格式比较。它和 TinyPNG 的区别，是 Squoosh 把控制权交给你，参数更多、结果也更可预测；但参数越多，越需要你实际看图，不适合只想一键处理一批文件的人。</p>
+<p>说点实在的：Squoosh 的核心处理通常在浏览器本地完成，适合不想把照片上传到服务器的人，但浏览器、设备性能和图片尺寸会影响速度。它不是专业修图软件，不能替代色彩管理，也不要把压缩后的文件当成原始备份。涉及人物照片、证件或合同，仍应先确认本地处理状态和浏览器环境。</p>
+<p>现在就拿一张要发送的照片做对比：原图保存一份，压缩图另存一份，分别查看文件大小和细节。你会很快找到自己的平衡点——不是越小越好，而是在收件人看不出差别时，及时停手。</p>
+<p>如果是网页配图，还可以顺手比较一次加载尺寸：同一张照片只改宽度，不改格式，再和只改质量的版本放在一起看。这样你会知道问题到底出在像素太多，还是文件编码太重，下一次处理就不必靠猜。</p>
+<p>压缩完成后，再用原图和成图各看一眼。</p>
+<p>确认没有明显损失，再把文件发出去。</p>]]></content:encoded>
+      
+    </item>
+
+    <item>
+      <title>把一段说话录得更像样：Audacity 里三个立刻能用的动作</title>
+      <link>https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/articles/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A_%E6%8A%8A%E4%B8%80%E6%AE%B5%E8%AF%B4%E8%AF%9D%E5%BD%95%E5%BE%97%E6%9B%B4%E5%83%8F%E6%A0%B7_Audacity_%E9%87%8C%E4%B8%89%E4%B8%AA%E7%AB%8B%E5%88%BB%E8%83%BD%E7%94%A8%E7%9A%84%E5%8A%A8%E4%BD%9C_f0e5515b7d.md</link>
+      <guid isPermaLink="false">资源伸手党:f0e5515b7d</guid>
+      <pubDate>Wed, 21 Oct 2026 14:00:00 GMT</pubDate>
+      <dc:creator>资源伸手党</dc:creator>
+      <dc:subject>资源伸手党</dc:subject>
+      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/741750a10e.jpg]]></poster>
+      <description><![CDATA[<p><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/741750a10e.jpg" alt="" /></p><p>给家人录一段故事，或者准备一个还没发布的播客，最先暴露的问题通常不是口才，而是空白太长、音量忽大忽小、背景里有空调声。Audacity 是免费开源的桌面软件，打开 https://www.audacityteam.org/ 下载后，先不用研究所有菜单，只做三个动作，就能把一段粗糙录音整理到可以回听。 先录一遍，不要边说边修 新建项目后选择麦克风，录十秒环境声，再开始正式说话。这样做的好处是，你能听见房间本来的底噪，也给后面处理留一个参照。录完后用空格键播放，按住鼠标拖选一段明显的停顿或口误，Delete 就能删除。第一次剪辑不要切得太狠，保留一点呼吸，听</p>]]></description>
+      <content:encoded><![CDATA[<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/741750a10e.jpg" alt="" /></figure>
+<p>给家人录一段故事，或者准备一个还没发布的播客，最先暴露的问题通常不是口才，而是空白太长、音量忽大忽小、背景里有空调声。Audacity 是免费开源的桌面软件，打开 https://www.audacityteam.org/ 下载后，先不用研究所有菜单，只做三个动作，就能把一段粗糙录音整理到可以回听。</p>
+<h2>先录一遍，不要边说边修</h2>
+<p>新建项目后选择麦克风，录十秒环境声，再开始正式说话。这样做的好处是，你能听见房间本来的底噪，也给后面处理留一个参照。录完后用空格键播放，按住鼠标拖选一段明显的停顿或口误，Delete 就能删除。第一次剪辑不要切得太狠，保留一点呼吸，听起来才不像机器拼接。</p>
+<h2>再处理音量和底噪</h2>
+<p>如果开头录下了纯环境声，可以用 Noise Reduction 让软件识别这段噪声，再应用到整段音频；调整时要轻一点，过度处理会让人声出现金属感。接着用 Normalize 或 Compressor 把音量拉到比较接近的范围，先戴耳机检查，再用手机外放听一次。不同麦克风、房间和说话距离会影响结果，没有一组参数能通吃。</p>
+<p>Audacity 本身免费开源，导入和导出格式很多，但它是桌面软件，手机上不能直接替代；插件、音效和录音内容的版权也要分别核对。它适合做访谈初剪、课堂录音整理和播客草稿，不适合把严重失真的录音“修复成现场原声”。先录一段三分钟的真实内容，剪完再回听，你会比看教程更快找到自己的问题。</p>
+<p>整理完后，从 Export Audio 导出一份 WAV 作为母版，再按发布平台需要另存 MP3；不要反复拿已经压缩过的 MP3 继续处理。文件名可以带上日期和版本，原始录音、剪辑工程和发布文件分开保存，下一次想找回一句被删掉的话时不会手忙脚乱。若录音里有他人的声音，发布前还要取得必要同意；软件免费，不等于内容可以无条件公开。</p>]]></content:encoded>
+      
+    </item>
+
+    <item>
+      <title>别急着买书：5个免费公版书入口，先把阅读习惯找回来</title>
+      <link>https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/articles/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A_%E5%88%AB%E6%80%A5%E7%9D%80%E4%B9%B0%E4%B9%A6_5%E4%B8%AA%E5%85%8D%E8%B4%B9%E5%85%AC%E7%89%88%E4%B9%A6%E5%85%A5%E5%8F%A3_%E5%85%88%E6%8A%8A%E9%98%85%E8%AF%BB%E4%B9%A0%E6%83%AF%E6%89%BE%E5%9B%9E%E6%9D%A5_868a9b7805.md</link>
+      <guid isPermaLink="false">资源伸手党:868a9b7805</guid>
+      <pubDate>Wed, 21 Oct 2026 14:00:00 GMT</pubDate>
+      <dc:creator>资源伸手党</dc:creator>
+      <dc:subject>资源伸手党</dc:subject>
+      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/02ead2c456.jpg]]></poster>
+      <description><![CDATA[<p><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/02ead2c456.jpg" alt="" /></p><p>晚上想读一本书，真正让人停下来的常常不是没有书，而是打开购物软件后不知道选哪一本。公版书网站的好处，是你不用先付钱，也不用等快递，可以先读十几页，确认自己是不是愿意和这本书相处。下面五个入口各有脾气：有的排版漂亮，有的目录庞大，有的适合借阅，按这个顺序试，会比到处搜索 PDF 更省力。 1. Standard Ebooks：先把阅读体验调到舒服 https://standardebooks.org/ 它收录的是经过整理和重新排版的公版英文书。打开后先按作者或主题找一本熟悉的作品，进入书页后可以选择 EPUB、Kindle 等格式。它和普通扫描本最大的区别</p>]]></description>
+      <content:encoded><![CDATA[<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/02ead2c456.jpg" alt="" /></figure>
+<p>晚上想读一本书，真正让人停下来的常常不是没有书，而是打开购物软件后不知道选哪一本。公版书网站的好处，是你不用先付钱，也不用等快递，可以先读十几页，确认自己是不是愿意和这本书相处。下面五个入口各有脾气：有的排版漂亮，有的目录庞大，有的适合借阅，按这个顺序试，会比到处搜索 PDF 更省力。</p>
+<p><strong>1. Standard Ebooks：先把阅读体验调到舒服</strong> https://standardebooks.org/</p>
+<p>它收录的是经过整理和重新排版的公版英文书。打开后先按作者或主题找一本熟悉的作品，进入书页后可以选择 EPUB、Kindle 等格式。它和普通扫描本最大的区别，是目录、标点和段落经过编辑，长时间阅读不容易被糟糕排版打断。适合在手机或电子书阅读器上读英文经典的人。</p>
+<p><strong>2. ManyBooks：不知道读什么时，从类型入手</strong> https://manybooks.net/</p>
+<p>首页的类型、年代和读者评分能帮助你从“想看一本书”缩小到“想看一本推理或冒险小说”。点进书页后先看格式和版权地区说明，再决定在线阅读还是下载。它的书很多，但页面里的推荐不等于每个国家都能使用，尤其要留意公版期限按当地法律计算。</p>
+<p><strong>3. Open Library：先借一本，再决定要不要读完</strong> https://openlibrary.org/</p>
+<p>Open Library 更像一个开放图书目录，搜索书名后先看不同版本，再看是否有在线借阅按钮。它适合找一本书的版本信息、封面和出版记录，也适合临时试读；部分借阅需要注册，排队或阅读权限也可能随馆藏变化。它和免费下载网站的区别，正是“借阅”而不是把所有书当作永久下载。</p>
+<p><strong>4. Project Gutenberg：经典文学的老牌入口</strong> https://www.gutenberg.org/</p>
+<p>输入作者或书名后，可以从 HTML 在线阅读，也可以选择 EPUB、纯文本等格式。这里的优点是稳定、清楚、适合直接开始读；缺点是不同版本的校订和排版并不完全一样。最适合想读英文原著、又不想被复杂页面分散注意力的人。</p>
+<p><strong>5. Internet Archive：找一本书的来路</strong> https://archive.org/</p>
+<p>它不仅有书，也有老电影、唱片和网页档案。搜索时先用精确书名，再用年份、语言和媒体类型筛选；遇到只能借阅的项目，不要把“能打开”误解成“能下载”。它适合做阅读的延伸：读完一本旅行书，再去看作者时代的地图或影像，书就不再是孤零零的一条文字。</p>
+<p>这条路线的关键不是把五个网站的书都搬回硬盘，而是先试读、再决定是否长期保存。公版状态还会因国家和版本不同而变化，发布摘录、翻译或商业使用时，仍要查清作品和具体文件的授权。</p>]]></content:encoded>
+      
+    </item>
+
+    <item>
+      <title>查一个字，不只看拼音：4个免费入口把字形、字源和发音补齐</title>
+      <link>https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/articles/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A_%E6%9F%A5%E4%B8%80%E4%B8%AA%E5%AD%97_%E4%B8%8D%E5%8F%AA%E7%9C%8B%E6%8B%BC%E9%9F%B3_4%E4%B8%AA%E5%85%8D%E8%B4%B9%E5%85%A5%E5%8F%A3%E6%8A%8A%E5%AD%97%E5%BD%A2_%E5%AD%97%E6%BA%90%E5%92%8C%E5%8F%91%E9%9F%B3%E8%A1%A5%E9%BD%90_65ce944a86.md</link>
+      <guid isPermaLink="false">资源伸手党:65ce944a86</guid>
+      <pubDate>Wed, 21 Oct 2026 14:00:00 GMT</pubDate>
+      <dc:creator>资源伸手党</dc:creator>
+      <dc:subject>资源伸手党</dc:subject>
+      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/f85a8432c4.jpg]]></poster>
+      <description><![CDATA[<p><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/f85a8432c4.jpg" alt="" /></p><p>很多人查字时只想知道“怎么读”，结果看完拼音就关掉页面。可一个容易写错、容易读错的字，往往还藏着字形变化、古今义项和真实语境。下面这条小路线从中文字典出发，再补上外语读音和例句，适合写稿、辅导孩子，或者只是想把一个常见字真正弄明白。 1. 汉典：先把字形和基本义项看全 https://www.zdic.net/ 输入汉字后，先看拼音、部首、笔画和常用解释，再往下看古籍例句或字形演变。它的价值不在于替你做结论，而在于把一个字拆成可检查的部分：今天怎么用，古书里怎么写，形旁声旁提供了什么线索。遇到多音字，别只记第一种读法，要把例词一起读一遍。 2. Wikt</p>]]></description>
+      <content:encoded><![CDATA[<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/f85a8432c4.jpg" alt="" /></figure>
+<p>很多人查字时只想知道“怎么读”，结果看完拼音就关掉页面。可一个容易写错、容易读错的字，往往还藏着字形变化、古今义项和真实语境。下面这条小路线从中文字典出发，再补上外语读音和例句，适合写稿、辅导孩子，或者只是想把一个常见字真正弄明白。</p>
+<p><strong>1. 汉典：先把字形和基本义项看全</strong> https://www.zdic.net/</p>
+<p>输入汉字后，先看拼音、部首、笔画和常用解释，再往下看古籍例句或字形演变。它的价值不在于替你做结论，而在于把一个字拆成可检查的部分：今天怎么用，古书里怎么写，形旁声旁提供了什么线索。遇到多音字，别只记第一种读法，要把例词一起读一遍。</p>
+<p><strong>2. Wiktionary：给一个词补上跨语言视角</strong> https://www.wiktionary.org/</p>
+<p>在这里搜索汉字或外语词时，先确认进入的是哪个语言页面，再看词源、词性和不同地区的读音。它的编辑方式和传统词典不同，信息丰富但质量可能因词条而异，适合当线索入口，不适合不加核对地引用。对于人名、地名或外来词，它常能告诉你一个词为什么会长成现在的样子。</p>
+<p><strong>3. Forvo：听真人怎么把音节说出来</strong> https://forvo.com/</p>
+<p>输入词语后，先按语言和地区挑一个发音，再连续听两三个说话者。一个词的字典音和真实语速常常不一样，尤其是地名、人名和借词。Forvo 的优势是能听到不同母语者的口音，缺点是录音质量和词条完整度不一；适合练发音、确认专有名词，不适合把单个用户录音当成唯一标准。</p>
+<p><strong>4. Duolingo：把刚查到的词放进句子里</strong> https://www.duolingo.com/</p>
+<p>它不是字典，但可以把“我知道这个词”变成“我会在句子里用”。打开后选一门语言，先做几节短练习，留意词语在不同句型里怎样变化。免费档会有广告或体力限制，课程内容也不能替代系统语法学习；它更适合把刚刚查到的词变成一次轻量复习。</p>
+<p>查字最有用的顺序，往往是“看清字形—听到声音—放进句子”，而不是在四个网站之间来回复制粘贴。字典负责给你地图，真人发音负责纠正耳朵，练习负责让这个字真正留在脑子里。词条和音频的授权各不相同，准备公开使用时请回到原站查看许可。</p>]]></content:encoded>
+      
+    </item>
+
+    <item>
+      <title>从零学一门新技能，别先买课：5个免费课程入口这样接起来</title>
+      <link>https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/articles/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A_%E4%BB%8E%E9%9B%B6%E5%AD%A6%E4%B8%80%E9%97%A8%E6%96%B0%E6%8A%80%E8%83%BD_%E5%88%AB%E5%85%88%E4%B9%B0%E8%AF%BE_5%E4%B8%AA%E5%85%8D%E8%B4%B9%E8%AF%BE%E7%A8%8B%E5%85%A5%E5%8F%A3%E8%BF%99%E6%A0%B7%E6%8E%A5%E8%B5%B7%E6%9D%A5_22a57ede13.md</link>
+      <guid isPermaLink="false">资源伸手党:22a57ede13</guid>
+      <pubDate>Wed, 21 Oct 2026 14:00:00 GMT</pubDate>
+      <dc:creator>资源伸手党</dc:creator>
+      <dc:subject>资源伸手党</dc:subject>
+      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/eeeed4103c.jpg]]></poster>
+      <description><![CDATA[<p><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/eeeed4103c.jpg" alt="" /></p><p>“我想学点东西”很容易变成收藏一堆课程，却没有真正上完一节。更有效的做法是先用一个短入口试兴趣，再用系统课程搭骨架，最后拿一门具体课或项目检验自己。下面五个平台不必全部注册，先按顺序逛一遍，找到适合自己的学习节奏。 1. 可汗学院：先用一节短课试水温 https://www.khanacademy.org/ 选择数学、科学、经济或编程后，先做一节视频配练习。它的内容切得比较细，适合把“我基础很差”拆成一个今天能完成的小动作。页面的课程顺序可以参考，但不要为了刷完进度条而跳过练习；真正留下来的，是你能解释清楚的概念。 2. MIT OpenCourseWa</p>]]></description>
+      <content:encoded><![CDATA[<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/eeeed4103c.jpg" alt="" /></figure>
+<p>“我想学点东西”很容易变成收藏一堆课程，却没有真正上完一节。更有效的做法是先用一个短入口试兴趣，再用系统课程搭骨架，最后拿一门具体课或项目检验自己。下面五个平台不必全部注册，先按顺序逛一遍，找到适合自己的学习节奏。</p>
+<p><strong>1. 可汗学院：先用一节短课试水温</strong> https://www.khanacademy.org/</p>
+<p>选择数学、科学、经济或编程后，先做一节视频配练习。它的内容切得比较细，适合把“我基础很差”拆成一个今天能完成的小动作。页面的课程顺序可以参考，但不要为了刷完进度条而跳过练习；真正留下来的，是你能解释清楚的概念。</p>
+<p><strong>2. MIT OpenCourseWare：需要体系时再上强度</strong> https://ocw.mit.edu/</p>
+<p>打开课程页后先看 syllabus、阅读材料和作业，不要直接从第一段视频开始。OCW 的特点是资料完整，能让你看到一门大学课程怎样组织问题、教材和考试；它不提供传统意义上的陪伴式打卡，适合能自己安排每周时间的人。</p>
+<p><strong>3. CS50：用一门明星课练“做出来”</strong> https://cs50.harvard.edu/x/</p>
+<p>课程页面会给出讲座、问题集和项目。第一次打开时，先看要求和提交方式，再决定是否要做完整作业。它的难点不只是语法，而是学着把一个模糊想法拆成程序；适合想从“看懂教程”走向“做出小东西”的人。</p>
+<p><strong>4. edX：把课程当成试读，而不是马上买证书</strong> https://www.edx.org/</p>
+<p>搜索课程时先看是否提供 audit 或免费旁听，再确认哪些内容、作业和证书需要付费。它的课程来源广，适合比较不同学校的讲法；免费旁听的权限可能变化，重要资料不要只保存在平台书签里。</p>
+<p><strong>5. 中国大学MOOC：找到中文的学习节奏</strong> https://www.icourse163.org/</p>
+<p>从学校、学科或课程周次进入，先试听第一周，再看考核规则和开课时间。它的优势是中文讲解和国内课程组织方式，适合希望有人按周推进的人。不同课程的开放时间、证书和讨论区规则各不相同，报名时要看清。</p>
+<p>真正的学习路线不是平台越多越好，而是今天能开始、下周还能继续。先选一个小目标，给自己留一次作业或练习，再决定是否投入更长的课程；免费只是降低试错成本，不能替你安排时间。</p>]]></content:encoded>
+      
+    </item>
+
+    <item>
+      <title>给一件文物留一下午：5个能真正逛进去的在线博物馆</title>
+      <link>https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/articles/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A_%E7%BB%99%E4%B8%80%E4%BB%B6%E6%96%87%E7%89%A9%E7%95%99%E4%B8%80%E4%B8%8B%E5%8D%88_5%E4%B8%AA%E8%83%BD%E7%9C%9F%E6%AD%A3%E9%80%9B%E8%BF%9B%E5%8E%BB%E7%9A%84%E5%9C%A8%E7%BA%BF%E5%8D%9A%E7%89%A9%E9%A6%86_b5415e29e9.md</link>
+      <guid isPermaLink="false">资源伸手党:b5415e29e9</guid>
+      <pubDate>Wed, 21 Oct 2026 14:00:00 GMT</pubDate>
+      <dc:creator>资源伸手党</dc:creator>
+      <dc:subject>资源伸手党</dc:subject>
+      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/9bd8070adc.jpg]]></poster>
+      <description><![CDATA[<p><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/9bd8070adc.jpg" alt="" /></p><p>有些“线上看展”只是把几张宣传图排在一起，点两下就结束了。真正值得留一下午的馆藏网站，应该能让你从一件东西出发，顺着年代、地点和细节慢慢走远。下面这条路线不追求一次看完，而是从一幅壁画开始，经过宫殿、城市和博物馆，把“看文物”变成一次有方向的散步。 1. 数字敦煌：先从一面壁画开始 https://www.e-dunhuang.com/ 打开后先进入石窟或数字展览，不要只在首页看缩略图。数字敦煌的优势是把洞窟空间、壁画细部和相关说明放在同一个入口里，放大时能看到肉眼在现场很难留意的线条、颜色和残损。它适合第一次接触敦煌的人，也适合需要确认画面细节的写作者</p>]]></description>
+      <content:encoded><![CDATA[<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/9bd8070adc.jpg" alt="" /></figure>
+<p>有些“线上看展”只是把几张宣传图排在一起，点两下就结束了。真正值得留一下午的馆藏网站，应该能让你从一件东西出发，顺着年代、地点和细节慢慢走远。下面这条路线不追求一次看完，而是从一幅壁画开始，经过宫殿、城市和博物馆，把“看文物”变成一次有方向的散步。</p>
+<p><strong>1. 数字敦煌：先从一面壁画开始</strong> https://www.e-dunhuang.com/</p>
+<p>打开后先进入石窟或数字展览，不要只在首页看缩略图。数字敦煌的优势是把洞窟空间、壁画细部和相关说明放在同一个入口里，放大时能看到肉眼在现场很难留意的线条、颜色和残损。它适合第一次接触敦煌的人，也适合需要确认画面细节的写作者。页面中的影像和素材不能自动等同于随意转载，下载或二次使用前要看具体说明。</p>
+<p><strong>2. 卢浮宫在线藏品：把一件名作放回收藏史</strong> https://collections.louvre.fr/</p>
+<p>在搜索框里输入作品、作者或藏品编号，先看对象页的年代、材质和来源，再点相近作品。卢浮宫的长处不是只展示“镇馆之宝”，而是把大量不那么出名的器物也纳入检索。你会发现，一幅画的故事往往不止是画家和题材，还包括它怎样进入收藏、怎样被分类。适合想把“看名画”变成具体观察的人。</p>
+<p><strong>3. 芝加哥艺术学院：从一张图追到作品资料</strong> https://www.artic.edu/artworks</p>
+<p>这里的作品页信息很适合顺手做一张小卡片：作者、年代、媒材、尺寸和收藏机构都比较清楚。打开后可以按艺术家、类型或关键词搜索，也可以把某件作品的图像和资料一起保存下来。它和普通图片搜索的区别，是每张图背后都有馆藏记录；但公开可访问不等于所有用途都没有限制，使用时要查看作品页和机构的授权状态。</p>
+<p><strong>4. 上海博物馆：看中国器物怎样被分类</strong> https://www.shanghaimuseum.net/</p>
+<p>进入数字文物或典藏精选后，可以先按青铜、陶瓷、书画等门类浏览。中国古代器物很容易被一句“很有历史”带过，分类页却会迫使你看材质、形制和工艺差异。它适合给孩子找一个具体的观察对象，也适合写文章时先建立一份不空泛的器物清单。</p>
+<p><strong>5. Smithsonian Open Access：给同一件东西换一个世界坐标</strong> https://www.si.edu/openaccess</p>
+<p>史密森尼的开放访问入口横跨自然史、人类学、艺术和科技史。搜索时先用一个具体名词，再按机构或年代收窄范围，比漫无目的地翻首页更容易找到线索。它最适合把一件熟悉的物品放进更大的比较里：同样是地图、服饰或工具，不同地区的人怎样制造和使用。即便标注开放访问，也应保留机构信息并核对具体条款。</p>
+<p>这五站最好不要当成“素材仓库”一口气扫完。先在数字敦煌停下来，再挑一件卢浮宫或上博的器物，最后用史密森尼的检索去找它在别的文化里有没有亲戚。看得慢一点，文物才不会只剩下一个漂亮缩略图。</p>
+<p>版权提醒：馆藏图片的观看、下载、转载和商业使用不是一回事。页面允许保存，不代表可以去掉署名或重新售卖；准备发布前，务必回到原页面确认授权。</p>]]></content:encoded>
+      
+    </item>
+
+    <item>
+      <title>急着做一张干净的商品图？Remove.bg 先替你把背景拿掉</title>
+      <link>https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/articles/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A_%E6%80%A5%E7%9D%80%E5%81%9A%E4%B8%80%E5%BC%A0%E5%B9%B2%E5%87%80%E7%9A%84%E5%95%86%E5%93%81%E5%9B%BE_Remove.bg_%E5%85%88%E6%9B%BF%E4%BD%A0%E6%8A%8A%E8%83%8C%E6%99%AF%E6%8B%BF%E6%8E%89_ee1c1f7749.md</link>
+      <guid isPermaLink="false">资源伸手党:ee1c1f7749</guid>
+      <pubDate>Wed, 21 Oct 2026 14:00:00 GMT</pubDate>
+      <dc:creator>资源伸手党</dc:creator>
+      <dc:subject>资源伸手党</dc:subject>
+      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/2a5fffe68c.jpg]]></poster>
+      <description><![CDATA[<p><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/2a5fffe68c.jpg" alt="" /></p><p>临时要做二手物品发布图，原照片拍在客厅里，后面有衣架、纸箱和半扇门。没有时间学复杂修图时，打开 https://www.remove.bg/ ，上传一张主体边缘相对清楚的图片，几秒钟后就能得到一张透明背景预览。它不是魔法，但很适合处理“先把东西从杂乱房间里拎出来”这一步。 先挑一张边缘清楚的原图 上传前先看主体和背景的反差：白色杯子放在白墙前、透明玻璃、头发和树枝，都会让自动识别更难。处理结果出来后，放大检查边缘，尤其看手指、衣服褶皱和细小配件有没有被削掉。若只是发闲鱼或做内部草图，基础预览往往够用；要印刷或做大图，就要确认下载尺寸和账号限制。 再把主体</p>]]></description>
+      <content:encoded><![CDATA[<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/2a5fffe68c.jpg" alt="" /></figure>
+<p>临时要做二手物品发布图，原照片拍在客厅里，后面有衣架、纸箱和半扇门。没有时间学复杂修图时，打开 https://www.remove.bg/ ，上传一张主体边缘相对清楚的图片，几秒钟后就能得到一张透明背景预览。它不是魔法，但很适合处理“先把东西从杂乱房间里拎出来”这一步。</p>
+<h2>先挑一张边缘清楚的原图</h2>
+<p>上传前先看主体和背景的反差：白色杯子放在白墙前、透明玻璃、头发和树枝，都会让自动识别更难。处理结果出来后，放大检查边缘，尤其看手指、衣服褶皱和细小配件有没有被削掉。若只是发闲鱼或做内部草图，基础预览往往够用；要印刷或做大图，就要确认下载尺寸和账号限制。</p>
+<h2>再把主体放回一个合理的场景</h2>
+<p>下载透明 PNG 后，可以放进简单色块、纸张纹理或自己的摄影背景。注意光线方向和阴影：只把人或物抠出来，不等于它已经和新背景站在同一个空间里。Remove.bg 适合做商品主图草稿、头像和海报素材，但它不负责替你判断图片里的人是否同意被处理，也不替你解决商标、肖像和商品版权问题。</p>
+<p>基础功能有免费额度，高清下载、批量处理等能力可能需要积分或付费；上传图片前也应看清平台的隐私与保存规则，敏感证件、未公开文件不要随手上传。它的价值是省掉一段重复劳动，而不是让每张图都自动变成最终成片。先拿一张不重要的照片试一次，看看边缘质量是否满足你的用途，再决定要不要继续。</p>
+<p>如果结果不理想，先换一张更清楚的原图，或把主体裁得更近，而不是立刻把边缘涂得很复杂。白色背景、玻璃、毛发和细线最容易出错，透明 PNG 放到深色底上检查一次，通常能马上发现缺口。最后别忘了把阴影、倒影和包装上的文字单独判断：自动抠图只是在像素层面分开前景和背景，不会替你确认商品信息是否准确。对普通发布图来说，这一步省下的时间已经很可观。</p>]]></content:encoded>
+      
+    </item>
+
+    <item>
+      <title>家里只有一副耳机，也能做一段完整音乐：BandLab 的多轨工作台</title>
+      <link>https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/articles/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A_%E5%AE%B6%E9%87%8C%E5%8F%AA%E6%9C%89%E4%B8%80%E5%89%AF%E8%80%B3%E6%9C%BA_%E4%B9%9F%E8%83%BD%E5%81%9A%E4%B8%80%E6%AE%B5%E5%AE%8C%E6%95%B4%E9%9F%B3%E4%B9%90_BandLab_%E7%9A%84%E5%A4%9A%E8%BD%A8%E5%B7%A5%E4%BD%9C%E5%8F%B0_59460736e7.md</link>
+      <guid isPermaLink="false">资源伸手党:59460736e7</guid>
+      <pubDate>Wed, 21 Oct 2026 14:00:00 GMT</pubDate>
+      <dc:creator>资源伸手党</dc:creator>
+      <dc:subject>资源伸手党</dc:subject>
+      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/04d4617afe.jpg]]></poster>
+      <description><![CDATA[<p><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/04d4617afe.jpg" alt="" /></p><p>晚上突然想给一段旅行视频配点声音，手边没有乐器，也不想先装一套复杂软件。打开 https://www.bandlab.com/ ，先注册并进入 Studio，屏幕上出现的不是一条长长的时间线，而是一排可以叠起来的轨道。它最适合把“我想试试”变成一段真的能播放的东西。 先把第一条声音放进去 新建项目后可以从 Loop 或虚拟乐器开始。选一个鼓点，点进时间线让它循环，再加一条键盘或贝斯，节奏很快就有了骨架。第一次不要急着找最酷的音色，先把速度调到自己能听清的程度。BandLab 的好处是，素材和轨道都在浏览器里，手机或电脑都能继续；缺点是不同设备的延迟和耳机</p>]]></description>
+      <content:encoded><![CDATA[<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/04d4617afe.jpg" alt="" /></figure>
+<p>晚上突然想给一段旅行视频配点声音，手边没有乐器，也不想先装一套复杂软件。打开 https://www.bandlab.com/ ，先注册并进入 Studio，屏幕上出现的不是一条长长的时间线，而是一排可以叠起来的轨道。它最适合把“我想试试”变成一段真的能播放的东西。</p>
+<h2>先把第一条声音放进去</h2>
+<p>新建项目后可以从 Loop 或虚拟乐器开始。选一个鼓点，点进时间线让它循环，再加一条键盘或贝斯，节奏很快就有了骨架。第一次不要急着找最酷的音色，先把速度调到自己能听清的程度。BandLab 的好处是，素材和轨道都在浏览器里，手机或电脑都能继续；缺点是不同设备的延迟和耳机监听会影响判断，录人声时最好戴有线耳机。</p>
+<h2>让它听起来像一段“完整的东西”</h2>
+<p>第二步可以录一小段人声、口哨或环境声，剪掉开头的空白，再把音量压低一点放在主旋律后面。第三步给结尾留一个变化：减少鼓点、拉长一个和弦，或者让最后一条声音慢慢淡出。这样即使只有三四十秒，也会有开始、展开和收束，而不是几条声音同时响完。</p>
+<p>BandLab 基础创作可免费使用，但账号、网络和部分音色或高级功能可能受平台规则影响；协作和发布前要看清素材的具体许可，不能把社区里的每一条 Loop 都当成无条件商用。它适合想做播客片头、短视频草稿、生日小曲的人，不适合拿来替代专业录音棚。先做一段一分钟的音乐，往往比收藏十个教程更能告诉你自己想不想继续。</p>
+<p>实际导出前再听一遍耳机和手机外放：耳机里很饱满的低音，换到手机上可能几乎消失；人声太靠后，也会被鼓点盖住。BandLab 的项目可以保存到账号里继续改，但网页创作依赖网络，出门前最好把最终混音另存一份。它真正有趣的地方，是让“不会编曲”也能先完成一次取舍：哪条声音留下，哪条声音退到背景，最后再决定要不要学习更多。</p>]]></content:encoded>
+      
+    </item>
+
+    <item>
+      <title>图片太大传不上去？TinyPNG 先把文件变轻，再谈清晰度</title>
+      <link>https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/articles/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A_%E5%9B%BE%E7%89%87%E5%A4%AA%E5%A4%A7%E4%BC%A0%E4%B8%8D%E4%B8%8A%E5%8E%BB_TinyPNG_%E5%85%88%E6%8A%8A%E6%96%87%E4%BB%B6%E5%8F%98%E8%BD%BB_%E5%86%8D%E8%B0%88%E6%B8%85%E6%99%B0%E5%BA%A6_0c8483f4b3.md</link>
+      <guid isPermaLink="false">资源伸手党:0c8483f4b3</guid>
+      <pubDate>Wed, 21 Oct 2026 14:00:00 GMT</pubDate>
+      <dc:creator>资源伸手党</dc:creator>
+      <dc:subject>资源伸手党</dc:subject>
+      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/022590e5cb.jpg]]></poster>
+      <description><![CDATA[<p><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/022590e5cb.jpg" alt="" /></p><p>报名表只收 2MB 图片，手机相册里那张照片却有十几兆。打开 https://tinypng.com/ ，把图片拖进页面，TinyPNG 会在浏览器里处理并给出压缩结果。它最适合这种明确的小麻烦：文件要变小，但又不想先打开专业软件研究导出参数。 先看原图，不要只盯着百分比 上传后页面会显示原始大小和压缩后大小，先确认文件确实降到了目标范围。照片、截图和带透明背景的 PNG，压缩表现不一样；如果一张图本来就很小，再压缩可能看不出收益。下载前打开预览，观察文字边缘、人物头发和大面积渐变有没有出现色块。 再决定要不要继续压一次 如果文件仍然超过限制，先回到源文</p>]]></description>
+      <content:encoded><![CDATA[<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/022590e5cb.jpg" alt="" /></figure>
+<p>报名表只收 2MB 图片，手机相册里那张照片却有十几兆。打开 https://tinypng.com/ ，把图片拖进页面，TinyPNG 会在浏览器里处理并给出压缩结果。它最适合这种明确的小麻烦：文件要变小，但又不想先打开专业软件研究导出参数。</p>
+<h2>先看原图，不要只盯着百分比</h2>
+<p>上传后页面会显示原始大小和压缩后大小，先确认文件确实降到了目标范围。照片、截图和带透明背景的 PNG，压缩表现不一样；如果一张图本来就很小，再压缩可能看不出收益。下载前打开预览，观察文字边缘、人物头发和大面积渐变有没有出现色块。</p>
+<h2>再决定要不要继续压一次</h2>
+<p>如果文件仍然超过限制，先回到源文件调整尺寸，再压缩一次，通常比无限重复上传更稳。社交平台、表单和网页各自有不同的尺寸要求，TinyPNG 只负责压缩，不会替你裁剪构图或判断图片是否适合打印。它也不能替你消除照片中的隐私信息，公开发布前仍要检查人脸、地址和屏幕内容。</p>
+<p>基础使用有数量和大小限制，批量、开发者接口或更高额度可能需要付费；上传涉及身份证、合同或未发布产品时，先阅读网站的隐私政策，能在本地处理的敏感文件尽量不上传。它适合公众号配图、报名附件和网页素材的最后一步。压缩之后再把图片下载回来，保留一个原文件，别让“变轻”变成“只剩一张模糊图”。</p>
+<p>实际使用时可以先做一个小对照：同一张图分别上传前后，在手机上看一遍，在电脑上放大看一遍。文字截图对清晰度最敏感，风景照则更容易在天空和墙面出现渐变断层。若只是为了网页加载，把源图的像素尺寸一起缩小，往往比单纯压缩更有效；若要打印，别用网页压缩后的文件代替原始高分辨率版本。这个小工具解决的是传输和加载，不是所有图像质量问题。</p>]]></content:encoded>
+      
+    </item>
+
+    <item>
+      <title>想知道一座城市以前长什么样？David Rumsey 历史地图馆这样查</title>
+      <link>https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/articles/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A_%E6%83%B3%E7%9F%A5%E9%81%93%E4%B8%80%E5%BA%A7%E5%9F%8E%E5%B8%82%E4%BB%A5%E5%89%8D%E9%95%BF%E4%BB%80%E4%B9%88%E6%A0%B7_David_Rumsey_%E5%8E%86%E5%8F%B2%E5%9C%B0%E5%9B%BE%E9%A6%86%E8%BF%99%E6%A0%B7%E6%9F%A5_8259fb50fe.md</link>
+      <guid isPermaLink="false">资源伸手党:8259fb50fe</guid>
+      <pubDate>Wed, 21 Oct 2026 14:00:00 GMT</pubDate>
+      <dc:creator>资源伸手党</dc:creator>
+      <dc:subject>资源伸手党</dc:subject>
+      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/1c7bdcb4be.jpg]]></poster>
+      <description><![CDATA[<p><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/1c7bdcb4be.jpg" alt="" /></p><p>旅行前翻地图，通常是为了找路；打开 David Rumsey Historical Map Collection，却很容易把时间也翻出来。进入 https://www.davidrumsey.com/ ，先在搜索框输入一个城市或国家，再点进地图缩略图。放大后你会看到旧地名、铁路、河道和已经消失的街区，过去不是一句“这里变化很大”，而是一层层画在纸上的痕迹。 先用地点筛掉大海捞针 搜索结果出来后，先看地图的年份、标题和覆盖范围，再决定是否放大。不要只看一张最精美的图，同一个地方可能有不同年代、不同用途的版本：航海图关心海岸，城市规划图关心街道，旅游图又会突</p>]]></description>
+      <content:encoded><![CDATA[<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/1c7bdcb4be.jpg" alt="" /></figure>
+<p>旅行前翻地图，通常是为了找路；打开 David Rumsey Historical Map Collection，却很容易把时间也翻出来。进入 https://www.davidrumsey.com/ ，先在搜索框输入一个城市或国家，再点进地图缩略图。放大后你会看到旧地名、铁路、河道和已经消失的街区，过去不是一句“这里变化很大”，而是一层层画在纸上的痕迹。</p>
+<h2>先用地点筛掉大海捞针</h2>
+<p>搜索结果出来后，先看地图的年份、标题和覆盖范围，再决定是否放大。不要只看一张最精美的图，同一个地方可能有不同年代、不同用途的版本：航海图关心海岸，城市规划图关心街道，旅游图又会突出景点。把两张相隔几十年的地图放在浏览器标签里来回切换，变化通常比单张图更清楚。</p>
+<h2>再把一张旧图变成自己的问题</h2>
+<p>我会挑一个今天还能找到的地名，沿着旧地图向外看：它旁边当年是什么？河道是否还在？铁路把城市推向了哪边？网站里的放大、图层和下载入口可以帮助你继续查，但不要把地图上的每一条线都当成现代地理的准确边界。地图是当时的人如何理解空间的记录，也可能带有测绘误差和时代立场。</p>
+<p>馆藏可以免费浏览，部分图像是否能下载、转载或商用，要看具体作品页和权利说明；“公共领域”也要结合所在国家的法律判断。它适合做历史写作的开头、给孩子讲城市变化，或者在旅行前先看目的地的旧影子。不要一次翻完十万张图，先找一条熟悉的街，再问一句：它为什么会变成今天这样？</p>
+<p>如果只是想看清细节，先用页面的放大和全屏，再记录地图标题、制图者、年代和馆藏编号。需要引用时，这几项比一张没有出处的截图有用得多；需要对照现代地图时，也要记住旧地图的比例尺和方向可能不同。一次实际检索最好留下一个小结果：比如找出一条已经消失的铁路，或确认一座桥在两个年代之间换了位置。这样它就不只是漂亮的老纸张，而是一个可以继续追问的城市线索。</p>]]></content:encoded>
+      
+    </item>
+
+    <item>
+      <title>想做一张有来源的配图：4个公开图像入口，先看清授权再下载</title>
+      <link>https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/articles/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A_%E6%83%B3%E5%81%9A%E4%B8%80%E5%BC%A0%E6%9C%89%E6%9D%A5%E6%BA%90%E7%9A%84%E9%85%8D%E5%9B%BE_4%E4%B8%AA%E5%85%AC%E5%BC%80%E5%9B%BE%E5%83%8F%E5%85%A5%E5%8F%A3_%E5%85%88%E7%9C%8B%E6%B8%85%E6%8E%88%E6%9D%83%E5%86%8D%E4%B8%8B%E8%BD%BD_9b5d385c02.md</link>
+      <guid isPermaLink="false">资源伸手党:9b5d385c02</guid>
+      <pubDate>Wed, 21 Oct 2026 14:00:00 GMT</pubDate>
+      <dc:creator>资源伸手党</dc:creator>
+      <dc:subject>资源伸手党</dc:subject>
+      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/c9cdb3a215.jpg]]></poster>
+      <description><![CDATA[<p><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/c9cdb3a215.jpg" alt="" /></p><p>做一张 PPT 或公众号配图，最容易犯的错不是审美不好，而是从搜索结果里随手保存一张图，发布时才发现不知道作者是谁、能不能改、能不能商用。下面四个入口更适合建立一个小型素材流程：先找对象，再看馆藏或作者信息，最后核对授权，不把“能看到”误当成“可以随便用”。 1. 芝加哥艺术学院 API：先从一件作品开始 https://api.artic.edu/api/v1/artworks/search?q=monet&amp;amp;limit=1 这个公开接口适合搜索作品、作者和图像资料。不会写代码也没关系，直接打开官网的作品页，按标题或艺术家搜索即可；会写代码的人则</p>]]></description>
+      <content:encoded><![CDATA[<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/c9cdb3a215.jpg" alt="" /></figure>
+<p>做一张 PPT 或公众号配图，最容易犯的错不是审美不好，而是从搜索结果里随手保存一张图，发布时才发现不知道作者是谁、能不能改、能不能商用。下面四个入口更适合建立一个小型素材流程：先找对象，再看馆藏或作者信息，最后核对授权，不把“能看到”误当成“可以随便用”。</p>
+<p><strong>1. 芝加哥艺术学院 API：先从一件作品开始</strong> https://api.artic.edu/api/v1/artworks/search?q=monet&amp;limit=1</p>
+<p>这个公开接口适合搜索作品、作者和图像资料。不会写代码也没关系，直接打开官网的作品页，按标题或艺术家搜索即可；会写代码的人则可以利用 API 做一个自己的小画册。每张图都应回到作品记录确认版权状态，尤其是作品图像和博物馆页面文字，适用规则并不完全相同。</p>
+<p><strong>2. unDraw：需要一张干净的概念插画时</strong> https://undraw.co/illustrations</p>
+<p>在插画库里按主题找图，打开单张作品后可以调整主色，再下载 SVG 或 PNG。它的优势是风格统一、适合网页和演示文稿，且许可说明相对清楚；它不适合拿来伪装成真实新闻照片，也不适合把整套插画重新包装成自己的素材库。</p>
+<p><strong>3. Iconfont：给标题和流程补一个准确的小图标</strong> https://www.iconfont.cn/</p>
+<p>搜索时先用具体名词，例如“地图”“书”“耳机”，再看图标作者和授权说明。下载前要确认是 SVG 还是 PNG，并留意项目许可和署名要求。它和图库的区别是解决“小而准”的视觉问题：一个按钮、一个步骤、一个提示，不必用一张大照片把信息淹没。</p>
+<p><strong>4. Flaticon：图标很多，但免费档要记得署名</strong> https://www.flaticon.com/</p>
+<p>输入关键词后先用风格和格式筛选，进入图标页再查看免费使用条件。它的优点是数量大、组合方便，缺点是免费资源常常附带署名要求，下载时也可能提示注册或升级。适合做草图和内部演示；对外发布前要把许可要求落实到页面或说明里。</p>
+<p>一个稳妥的习惯是：每下载一张图，就同时保存来源链接、作者和许可截图或文字记录。这样将来要改图、补署名、换成另一种授权时，不必重新猜。开放素材省的是寻找时间，不是核对责任。</p>]]></content:encoded>
+      
+    </item>
+  </channel>
+</rss>
