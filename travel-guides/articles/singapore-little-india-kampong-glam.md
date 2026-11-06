@@ -1,0 +1,37 @@
+# 新加坡小印度与甘榜格南：从竹脚中心到苏丹清真寺的多元文化步行线
+
+新加坡的精华往往不在摩天楼，而藏在几个族裔老街区里。小印度（Little India）由当年南来印度移民的聚落长成热闹商业文化枢纽，甘榜格南（Kampong Glam，又称阿拉伯街 Arab Street）则是伊斯兰传统与新潮小店交织的彩色巷弄。两者相距不过一两站地铁，用双脚就能串成一条香气、色彩与故事满满的多元文化线。
+
+## 🚇 交通与节奏
+
+地铁滨海市区线（Downtown Line）把小印度、惹兰勿刹（Jalan Besar）和甘榜格南连起来。从武吉士（Bugis）站出发，务必上开往小印度方向、而非惹兰勿刹方向的列车，否则车程会从两分钟变成二十分钟。这些街区街道窄、多小巷，但大多好走，即便挤满路边摊也别有滋味。最佳经验：用脚走。周日最热闹——尤其小印度，那是许多劳工唯一的休息日，记得带着胃口来，这里的吃食堪称一流。
+
+## 🛕 小印度：庙宇、市集与印度滋味
+
+实龙岗路（Serangoon Rd）是小印度的主街，沿路立着维拉玛卡里安曼庙（Sri Veeramakaliamman Temple，1881 年建，供奉骇人的迦梨女神，每天四场 puja 最摄人）和斯里尼瓦沙柏鲁马尔庙（Sri Srinivasa Perumal Temple，1855 年，1966 年加建 20 米高塔门 gopuram）。想系统了解本地印度社群，印度遗产中心（Indian Heritage Centre）用五个主题、数百件器物、地图与多媒体讲清南亚与东南亚的早期互动；镇馆之物是一扇 19 世纪切蒂那德（Chettinad）门框，雕着 5000 枚细纹，建筑灵感来自印度阶井（baoli）。
+
+一条经典步行线从花拉公园（Farrer Park）地铁站出发，沿Race Course Rd 看 Sakya Muni Buddha Gaya 庙的 15 米大佛、龙山寺（Leong San See），再串起维拉帕蒂拉卡利安曼庙、斯里尼瓦沙柏鲁马尔庙、慕斯达法中心（Mustafa Centre），最后拐到 1929 年白墙的甘榜卡波卫理公会教堂、阿拉伯与维多利亚混搭的阿都卡夫清真寺（Abdul Gafoor Mosque，门上日晷刻着 25 位先知名），以及五彩斑斓的陈添娘老屋（Tan Teng Niah），最后钻进竹脚中心（Tekka Centre）吃饱。
+
+## 🍛 竹脚中心与吃不停的小印度
+
+竹脚中心被唤作小印度的"跳动心脏"：多层建筑里既有新加坡最大的湿巴刹，也有食阁和成排店铺，喧闹又色彩炸裂。上楼是彩虹般的纱丽与布艺店；楼下食阁排队买地道 biryani、薄如纸的 dosa、roti prata 和 murtabak，再配一杯拉茶（teh tarik）。隔街的小印度拱廊（Little India Arcade）播着宝莱坞音乐、香气温热；Moghul Sweets 的 gulab jamun 与 barfi 是甜点首选。平价小吃推荐 Komala Vilas 的南印素菜与 masala 茶、Sungei Road Laksa 的炭烤叻沙、MTR 1924 的脆 dosa 与 rava idli。
+
+## 🎨 甘榜格南：哈芝巷、阿拉伯街与苏丹清真寺
+
+从武吉士往西南走一小段即到甘榜格南。哈芝巷（Haji Lane）是核心，窄窄一排粉彩骑楼里塞满独立设计店、古着、精酿啤酒吧和高能墙绘，傍晚开始有现场音乐、人潮漫到人行道。隔一条街的阿拉伯街卖布料、地毯和丝巾，Dilip Textiles 的印度 bloc 印花桌布价廉物美，Sifr Aromatics 则是定制香水的宝藏铺。巷子深处，步行化 Bussorah St 两侧的 Gelam Gallery 有抢眼壁画。
+
+苏丹清真寺（Sultan Mosque）是新加坡最宏伟的清真寺，1824 年在莱佛士（Stamford Raffles）与东印度公司协助下创立，呈印度—撒拉逊（Indo-Saracenic）风格、金顶如童话；1928 年原寺被现建筑取代。非穆斯林不进礼拜厅，所有访客须衣着得体（入口备有斗篷）。附近还有"哥谭大楼"Parkview Square 与其内的 Atlas 鸡尾酒吧，12 米金酒塔相当震撼。
+
+## 🍽️ 甘榜格南的吃与喝
+
+这一区餐饮混搭得有趣：Coconut Club 的 nasi lemak 椰香扑鼻，Cicheti 手工意面与窑烤披萨，Alaturka 的地中海与土耳其分享盘，以及 1908 年开张、分量惊人的 Zam Zam murtabak。酒馆方面，Bar Stories 没有菜单、报喜好恶由调酒师现配；BluJaz Café 有现场演出，Good Luck Beerhouse 有 12 个本地精酿龙头，Whiskey Library & Jazz Club 则收着上千瓶威士忌。部分餐厅不供应酒精，入座前可先确认。
+
+## 🧭 一天步行路线
+
+- **上午 小印度**：印度遗产中心→维拉玛卡里安曼庙→斯里尼瓦沙柏鲁马尔庙→竹脚中心午餐。
+- **下午 甘榜格南**：武吉士站出，沿哈芝巷逛店→阿拉伯街看布料→苏丹清真寺→Bussorah St 壁画。
+- **傍晚**：在 Atlas 或 Whiskey Library 收尾，或回小印度吃顿 South Indian 素食。
+
+实用提示：周日小印度人潮最密，想拍照清静可挑工作日；多数店与食阁现金与小额支付皆宜，价格以现场为准。把节奏放慢，这条线才是读懂新加坡多元底色的好入口。
+
+> 本文为依据 Lonely Planet 所做旅行攻略，仅供个人旅行规划参考；价格、签证、门票等动态信息请以官方公告与现场为准。

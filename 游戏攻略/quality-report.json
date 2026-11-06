@@ -1,0 +1,838 @@
+{
+  "generatedAt": "2026-11-06T09:43:17.879Z",
+  "vertical": "游戏攻略",
+  "itemCount": 60,
+  "errorCount": 0,
+  "warningCount": 1,
+  "p1ErrorCount": 0,
+  "p1WarningCount": 0,
+  "p2ErrorCount": 0,
+  "p2WarningCount": 1,
+  "deduplicatedTitleCount": 0,
+  "errors": [],
+  "warnings": [],
+  "p2Errors": [],
+  "p2Warnings": [
+    "发现 5 张主图被多个文章复用，需核对图片归属"
+  ],
+  "autoFixes": [
+    "已清理 17 篇文章内的重复段落"
+  ],
+  "sharedParagraphs": [],
+  "droppedSharedParagraphs": [],
+  "duplicateParagraphItems": [
+    {
+      "title": "部署顺序不是照着练度排，先把费用、阻挡和技能轴接起来：明日方舟（Arknights）",
+      "count": 1
+    },
+    {
+      "title": "岛上第一条真正重要的路线，是把“不会”先放下：见证者（The Witness）",
+      "count": 2
+    },
+    {
+      "title": "第一次下潜别追深度，先建立一条能带你回家的短线：深海迷航（Subnautica）",
+      "count": 3
+    },
+    {
+      "title": "回合制任务别盯着总伤害，先处理会让队伍失速的单位：梦幻西游（Fantasy Westward Journey）",
+      "count": 1
+    },
+    {
+      "title": "牌组越厚不一定越稳，营火前先删掉一张“不坏但没用”的牌：邪恶冥刻（Inscryption）",
+      "count": 3
+    },
+    {
+      "title": "前两层最强的道具不是伤害，而是让你能继续做选择：以撒的结合：重生（The Binding of Isaac: Rebirth）",
+      "count": 2
+    },
+    {
+      "title": "失败检定别急着读档，先看它替你打开了哪条线：极乐迪斯科（Disco Elysium）",
+      "count": 2
+    },
+    {
+      "title": "为什么总在第二台密码机前崩盘？问题是牵制路线没提前算：第五人格（Identity V）",
+      "count": 2
+    },
+    {
+      "title": "向日葵不是越早越多，前五波要先保住哪一列：植物大战僵尸（Plants vs. Zombies）",
+      "count": 1
+    },
+    {
+      "title": "长剑不是见面就蓄力，先把振刀、闪避和钩锁分工：永劫无间（Naraka: Bladepoint）",
+      "count": 3
+    },
+    {
+      "title": "自制地图总卡在最后一段？问题常在起跳前半秒：蛋仔派对（Eggy Party）",
+      "count": 1
+    },
+    {
+      "title": "阿凯奇编年史（ArcheAge Chronicles）：别把动作战斗玩成技能轮播，开荒先学会看敌人的脚",
+      "count": 5
+    },
+    {
+      "title": "见证者（The Witness）：别把岛当景点逛，先用三套规则打开自己的解题视野",
+      "count": 3
+    },
+    {
+      "title": "绝地求生（PUBG: BATTLEGROUNDS）：安全区不是路线，落地后的三次转移才是",
+      "count": 2
+    },
+    {
+      "title": "深海迷航（Subnautica）：前三小时别急着找深海，先把氧气、方向和回程做成习惯",
+      "count": 3
+    },
+    {
+      "title": "深空当铺：可能是偷的（Probably Stolen）：别先追最高价，先把鉴定链跑顺",
+      "count": 4
+    },
+    {
+      "title": "使命召唤：现代战争4（Call of Duty: Modern Warfare 4）：枪法之外，先把你的第一条进攻线站住",
+      "count": 7
+    }
+  ],
+  "duplicateMainImages": [
+    {
+      "url": "https://anliangsa79-sleepybear.github.io/wenshi-rss/%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5/assets/4eeb9eb8ab.jpg",
+      "count": 2,
+      "owners": [
+        {
+          "title": "岛上第一条真正重要的路线，是把“不会”先放下：见证者（The Witness）",
+          "guid": "游戏攻略:4dbd85672c",
+          "source": "游戏攻略/2026-11-05-见证者-谜题路线.md"
+        },
+        {
+          "title": "见证者（The Witness）：别把岛当景点逛，先用三套规则打开自己的解题视野",
+          "guid": "游戏攻略:705a8a901d",
+          "source": "游戏攻略/2026-11-04-见证者-解谜路线.md"
+        }
+      ]
+    },
+    {
+      "url": "https://anliangsa79-sleepybear.github.io/wenshi-rss/%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5/assets/db8f38b692.jpg",
+      "count": 2,
+      "owners": [
+        {
+          "title": "第一次下潜别追深度，先建立一条能带你回家的短线：深海迷航（Subnautica）",
+          "guid": "游戏攻略:eb17444fd6",
+          "source": "游戏攻略/2026-11-05-深海迷航-首次下潜.md"
+        },
+        {
+          "title": "深海迷航（Subnautica）：前三小时别急着找深海，先把氧气、方向和回程做成习惯",
+          "guid": "游戏攻略:c83b15a87d",
+          "source": "游戏攻略/2026-11-04-深海迷航-前三小时路线.md"
+        }
+      ]
+    },
+    {
+      "url": "https://anliangsa79-sleepybear.github.io/wenshi-rss/%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5/assets/ac4f4fb40e.jpg",
+      "count": 2,
+      "owners": [
+        {
+          "title": "牌组越厚不一定越稳，营火前先删掉一张“不坏但没用”的牌：邪恶冥刻（Inscryption）",
+          "guid": "游戏攻略:926c5c7772",
+          "source": "游戏攻略/2026-11-05-邪恶冥刻-牌组取舍.md"
+        },
+        {
+          "title": "邪恶冥刻（Inscryption）：不要把牌组塞满，营火前先决定你愿意失去什么",
+          "guid": "游戏攻略:cf19e40fc5",
+          "source": "游戏攻略/2026-11-04-邪恶冥刻-牌组与营火.md"
+        }
+      ]
+    },
+    {
+      "url": "https://anliangsa79-sleepybear.github.io/wenshi-rss/%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5/assets/6202583cae.jpg",
+      "count": 2,
+      "owners": [
+        {
+          "title": "前两层最强的道具不是伤害，而是让你能继续做选择：以撒的结合：重生（The Binding of Isaac: Rebirth）",
+          "guid": "游戏攻略:fbbfb2195a",
+          "source": "游戏攻略/2026-11-05-以撒的结合重生-前两层选择.md"
+        },
+        {
+          "title": "以撒的结合：重生（The Binding of Isaac: Rebirth）：别被金色道具骗了，前两层先保住可重复的伤害",
+          "guid": "游戏攻略:99d6cc0d7f",
+          "source": "游戏攻略/2026-11-04-以撒的结合-初期道具取舍.md"
+        }
+      ]
+    },
+    {
+      "url": "https://anliangsa79-sleepybear.github.io/wenshi-rss/%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5/assets/74b7d0aff3.jpg",
+      "count": 2,
+      "owners": [
+        {
+          "title": "失败检定别急着读档，先看它替你打开了哪条线：极乐迪斯科（Disco Elysium）",
+          "guid": "游戏攻略:e22c80e044",
+          "source": "游戏攻略/2026-11-05-极乐迪斯科-失败检定.md"
+        },
+        {
+          "title": "极乐迪斯科（Disco Elysium）：技能点别急着补满，先让失败也能带来线索",
+          "guid": "游戏攻略:cef33f8023",
+          "source": "游戏攻略/2026-11-04-极乐迪斯科-技能检定与对话.md"
+        }
+      ]
+    }
+  ],
+  "noImageItems": [],
+  "items": [
+    {
+      "title": "《火炬之光：无限》（Torchlight: Infinite）开荒别急着追面板，先让技能、资源和地图互相接得上",
+      "guid": "游戏攻略:b291263926",
+      "source": "游戏攻略/2026-11-06-火炬之光无限-开荒技能与异界路线.md",
+      "bodyChars": 2682,
+      "paragraphCount": 23,
+      "headingCount": 8,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《金铲铲之战》（Teamfight Tactics）最难的不是记阵容，而是知道哪一回合不能贪那十块钱",
+      "guid": "游戏攻略:28a18b1d9f",
+      "source": "游戏攻略/2026-11-06-金铲铲之战-经济与升人口决策.md",
+      "bodyChars": 2804,
+      "paragraphCount": 22,
+      "headingCount": 7,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《洛克王国：世界》（Rock Kingdom: World）抓精灵之前，先把属性、状态和撤退顺序弄明白",
+      "guid": "游戏攻略:44122d00ac",
+      "source": "游戏攻略/2026-11-06-洛克王国世界-属性克制与捕捉顺序.md",
+      "bodyChars": 2747,
+      "paragraphCount": 23,
+      "headingCount": 7,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《迷你世界》（Mini World）开局最容易浪费的不是材料，而是把基地放错地方",
+      "guid": "游戏攻略:07969c197d",
+      "source": "游戏攻略/2026-11-06-迷你世界-基地选址与第一晚路线.md",
+      "bodyChars": 2688,
+      "paragraphCount": 22,
+      "headingCount": 6,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《三国志·战略版》（Three Kingdoms: Strategy Edition）开荒第一天，先排好行军和土地顺序",
+      "guid": "游戏攻略:c12bce3ba8",
+      "source": "游戏攻略/2026-11-06-三国志战略版-开荒第一天行军与土地顺序.md",
+      "bodyChars": 2676,
+      "paragraphCount": 24,
+      "headingCount": 6,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《无畏契约：源能行动》（VALORANT Mobile）在日落之城别只会封烟：真正的控图，是让对手不敢走那条路",
+      "guid": "游戏攻略:a42f3d2f75",
+      "source": "游戏攻略/2026-11-06-无畏契约源能行动-日落控图与残局.md",
+      "bodyChars": 2781,
+      "paragraphCount": 25,
+      "headingCount": 6,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "变大以后别急着追人，《球球大作战》（Battle of Balls）先把身边的空间留给自己",
+      "guid": "游戏攻略:c5319c90b0",
+      "source": "游戏攻略/2026-11-06-球球大作战-分裂与吐孢子决策.md",
+      "bodyChars": 2755,
+      "paragraphCount": 24,
+      "headingCount": 7,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "别急着盖房，《我的世界》（Minecraft）第一晚先把能回来的矿洞挖出来",
+      "guid": "游戏攻略:3286711b1d",
+      "source": "游戏攻略/2026-11-06-我的世界-第一晚别急着盖房.md",
+      "bodyChars": 2781,
+      "paragraphCount": 24,
+      "headingCount": 6,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "补刀领先却不会赢，《英雄联盟》（League of Legends）第一座塔前别把时间用错",
+      "guid": "游戏攻略:29aac0cb68",
+      "source": "游戏攻略/2026-11-06-英雄联盟-补刀与第一座塔.md",
+      "bodyChars": 2701,
+      "paragraphCount": 22,
+      "headingCount": 6,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "带得越满不代表赚得越多，《暗区突围》（Arena Breakout）农场路线要在进图前决定",
+      "guid": "游戏攻略:e37078030e",
+      "source": "游戏攻略/2026-11-06-暗区突围-农场出生点与撤离路线.md",
+      "bodyChars": 2680,
+      "paragraphCount": 23,
+      "headingCount": 6,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "第一关别急着把蓝量打空，《元气骑士》（Soul Knight）的房间顺序就是你的护甲",
+      "guid": "游戏攻略:a352fe1b17",
+      "source": "游戏攻略/2026-11-06-元气骑士-第一关房间顺序与蓝量管理.md",
+      "bodyChars": 2686,
+      "paragraphCount": 29,
+      "headingCount": 6,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "队伍不是把四个高伤害角色塞一起，《崩坏：星穹铁道》（Honkai: Star Rail）要先把行动顺序接起来",
+      "guid": "游戏攻略:a7436270d9",
+      "source": "游戏攻略/2026-11-06-崩坏星穹铁道-行动顺序与破韧.md",
+      "bodyChars": 2824,
+      "paragraphCount": 25,
+      "headingCount": 6,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "落地先找枪还是先找掩体？《香肠派对》（Sausage Man）前两分钟别把自己逼进死角",
+      "guid": "游戏攻略:bb541cc821",
+      "source": "游戏攻略/2026-11-06-香肠派对-落地两分钟路线.md",
+      "bodyChars": 2840,
+      "paragraphCount": 25,
+      "headingCount": 5,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "你总撞在第二个障碍上，《地铁跑酷》（Subway Surfers）前两分钟要先改视线",
+      "guid": "游戏攻略:1beb2cf795",
+      "source": "游戏攻略/2026-11-06-地铁跑酷-前两分钟障碍判断.md",
+      "bodyChars": 2728,
+      "paragraphCount": 28,
+      "headingCount": 6,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "在《复古传奇》（Legend of Mir）里，祖玛寺庙不是刷怪房，而是一张会惩罚贪心的路线图",
+      "guid": "游戏攻略:247991b453",
+      "source": "游戏攻略/2026-11-06-复古传奇-祖玛寺庙不迷路.md",
+      "bodyChars": 2755,
+      "paragraphCount": 22,
+      "headingCount": 7,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "把新地图跑成任务清单前，先学会这条回访路线：原神（Genshin Impact）",
+      "guid": "游戏攻略:461f4811fb",
+      "source": "游戏攻略/2026-11-05-原神-新地图回访路线.md",
+      "bodyChars": 2753,
+      "paragraphCount": 22,
+      "headingCount": 8,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "部署顺序不是照着练度排，先把费用、阻挡和技能轴接起来：明日方舟（Arknights）",
+      "guid": "游戏攻略:a2481afa4f",
+      "source": "游戏攻略/2026-11-05-明日方舟-部署顺序.md",
+      "bodyChars": 2802,
+      "paragraphCount": 27,
+      "headingCount": 7,
+      "imageCount": 3,
+      "duplicateParagraphs": 1,
+      "hasMainImage": true
+    },
+    {
+      "title": "晨岛飞行别急着追光翼，先把回程和能量线认熟：光遇（Sky: Children of the Light）",
+      "guid": "游戏攻略:a2658c35df",
+      "source": "游戏攻略/2026-11-05-光遇-晨岛飞行路线.md",
+      "bodyChars": 2764,
+      "paragraphCount": 27,
+      "headingCount": 7,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "岛上第一条真正重要的路线，是把“不会”先放下：见证者（The Witness）",
+      "guid": "游戏攻略:4dbd85672c",
+      "source": "游戏攻略/2026-11-05-见证者-谜题路线.md",
+      "bodyChars": 2532,
+      "paragraphCount": 33,
+      "headingCount": 8,
+      "imageCount": 3,
+      "duplicateParagraphs": 2,
+      "hasMainImage": true
+    },
+    {
+      "title": "第一次下潜别追深度，先建立一条能带你回家的短线：深海迷航（Subnautica）",
+      "guid": "游戏攻略:eb17444fd6",
+      "source": "游戏攻略/2026-11-05-深海迷航-首次下潜.md",
+      "bodyChars": 2515,
+      "paragraphCount": 26,
+      "headingCount": 8,
+      "imageCount": 3,
+      "duplicateParagraphs": 3,
+      "hasMainImage": true
+    },
+    {
+      "title": "回合制任务别盯着总伤害，先处理会让队伍失速的单位：梦幻西游（Fantasy Westward Journey）",
+      "guid": "游戏攻略:a930a6633e",
+      "source": "游戏攻略/2026-11-05-梦幻西游-任务点杀顺序.md",
+      "bodyChars": 2670,
+      "paragraphCount": 25,
+      "headingCount": 8,
+      "imageCount": 3,
+      "duplicateParagraphs": 1,
+      "hasMainImage": true
+    },
+    {
+      "title": "进圈前别只看白线，先把车、坡和下一个掩体排好：和平精英（Peacekeeper Elite）",
+      "guid": "游戏攻略:3a1f688792",
+      "source": "游戏攻略/2026-11-05-和平精英-进圈路线.md",
+      "bodyChars": 2737,
+      "paragraphCount": 24,
+      "headingCount": 8,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "你不是不会打团，可能是第一波兵线就把自己卖了：王者荣耀（Honor of Kings）",
+      "guid": "游戏攻略:78712a028b",
+      "source": "游戏攻略/2026-11-05-王者荣耀-兵线与团战诊断.md",
+      "bodyChars": 2807,
+      "paragraphCount": 24,
+      "headingCount": 7,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "牌组越厚不一定越稳，营火前先删掉一张“不坏但没用”的牌：邪恶冥刻（Inscryption）",
+      "guid": "游戏攻略:926c5c7772",
+      "source": "游戏攻略/2026-11-05-邪恶冥刻-牌组取舍.md",
+      "bodyChars": 2443,
+      "paragraphCount": 29,
+      "headingCount": 8,
+      "imageCount": 3,
+      "duplicateParagraphs": 3,
+      "hasMainImage": true
+    },
+    {
+      "title": "前两层最强的道具不是伤害，而是让你能继续做选择：以撒的结合：重生（The Binding of Isaac: Rebirth）",
+      "guid": "游戏攻略:fbbfb2195a",
+      "source": "游戏攻略/2026-11-05-以撒的结合重生-前两层选择.md",
+      "bodyChars": 2481,
+      "paragraphCount": 22,
+      "headingCount": 8,
+      "imageCount": 3,
+      "duplicateParagraphs": 2,
+      "hasMainImage": true
+    },
+    {
+      "title": "失败检定别急着读档，先看它替你打开了哪条线：极乐迪斯科（Disco Elysium）",
+      "guid": "游戏攻略:e22c80e044",
+      "source": "游戏攻略/2026-11-05-极乐迪斯科-失败检定.md",
+      "bodyChars": 2566,
+      "paragraphCount": 23,
+      "headingCount": 8,
+      "imageCount": 3,
+      "duplicateParagraphs": 2,
+      "hasMainImage": true
+    },
+    {
+      "title": "为什么总在第二台密码机前崩盘？问题是牵制路线没提前算：第五人格（Identity V）",
+      "guid": "游戏攻略:a429457e95",
+      "source": "游戏攻略/2026-11-05-第五人格-牵制路线.md",
+      "bodyChars": 2529,
+      "paragraphCount": 24,
+      "headingCount": 8,
+      "imageCount": 3,
+      "duplicateParagraphs": 2,
+      "hasMainImage": true
+    },
+    {
+      "title": "向日葵不是越早越多，前五波要先保住哪一列：植物大战僵尸（Plants vs. Zombies）",
+      "guid": "游戏攻略:802ec61017",
+      "source": "游戏攻略/2026-11-05-植物大战僵尸-前五波防守.md",
+      "bodyChars": 2717,
+      "paragraphCount": 26,
+      "headingCount": 7,
+      "imageCount": 3,
+      "duplicateParagraphs": 1,
+      "hasMainImage": true
+    },
+    {
+      "title": "长剑不是见面就蓄力，先把振刀、闪避和钩锁分工：永劫无间（Naraka: Bladepoint）",
+      "guid": "游戏攻略:4f5b8b0511",
+      "source": "游戏攻略/2026-11-05-永劫无间-近战决策.md",
+      "bodyChars": 2437,
+      "paragraphCount": 26,
+      "headingCount": 8,
+      "imageCount": 3,
+      "duplicateParagraphs": 3,
+      "hasMainImage": true
+    },
+    {
+      "title": "自制地图总卡在最后一段？问题常在起跳前半秒：蛋仔派对（Eggy Party）",
+      "guid": "游戏攻略:4873aa175b",
+      "source": "游戏攻略/2026-11-05-蛋仔派对-跳跃节奏.md",
+      "bodyChars": 2718,
+      "paragraphCount": 29,
+      "headingCount": 7,
+      "imageCount": 3,
+      "duplicateParagraphs": 1,
+      "hasMainImage": true
+    },
+    {
+      "title": "阿凯奇编年史（ArcheAge Chronicles）：别把动作战斗玩成技能轮播，开荒先学会看敌人的脚",
+      "guid": "游戏攻略:8e9ec9920e",
+      "source": "游戏攻略/2026-11-04-阿凯奇编年史-战斗起步.md",
+      "bodyChars": 2320,
+      "paragraphCount": 20,
+      "headingCount": 6,
+      "imageCount": 3,
+      "duplicateParagraphs": 5,
+      "hasMainImage": true
+    },
+    {
+      "title": "刀塔2（Dota 2）：辅助不是插完眼就结束，前三分钟要让一条线先舒服起来",
+      "guid": "游戏攻略:b2114f57f5",
+      "source": "游戏攻略/2026-11-04-刀塔2-辅助视野与游走.md",
+      "bodyChars": 2770,
+      "paragraphCount": 28,
+      "headingCount": 6,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "反恐精英2（Counter-Strike 2）：手枪局不是赌枪，第一回合要先做地图判断",
+      "guid": "游戏攻略:d2d70977b6",
+      "source": "游戏攻略/2026-11-04-反恐精英2-手枪局与道具.md",
+      "bodyChars": 2714,
+      "paragraphCount": 29,
+      "headingCount": 6,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "极乐迪斯科（Disco Elysium）：技能点别急着补满，先让失败也能带来线索",
+      "guid": "游戏攻略:cef33f8023",
+      "source": "游戏攻略/2026-11-04-极乐迪斯科-技能检定与对话.md",
+      "bodyChars": 2774,
+      "paragraphCount": 26,
+      "headingCount": 6,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "见证者（The Witness）：别把岛当景点逛，先用三套规则打开自己的解题视野",
+      "guid": "游戏攻略:705a8a901d",
+      "source": "游戏攻略/2026-11-04-见证者-解谜路线.md",
+      "bodyChars": 2459,
+      "paragraphCount": 26,
+      "headingCount": 6,
+      "imageCount": 3,
+      "duplicateParagraphs": 3,
+      "hasMainImage": true
+    },
+    {
+      "title": "绝地求生（PUBG: BATTLEGROUNDS）：安全区不是路线，落地后的三次转移才是",
+      "guid": "游戏攻略:4c74c5cd83",
+      "source": "游戏攻略/2026-11-04-绝地求生-安全区不是路线.md",
+      "bodyChars": 2624,
+      "paragraphCount": 21,
+      "headingCount": 6,
+      "imageCount": 3,
+      "duplicateParagraphs": 2,
+      "hasMainImage": true
+    },
+    {
+      "title": "三角洲行动（Delta Force）：撤离不是最后一步，进图前就要为“空手回去”留路",
+      "guid": "游戏攻略:6912cfbcff",
+      "source": "游戏攻略/2026-11-04-三角洲行动-撤离路线.md",
+      "bodyChars": 2810,
+      "paragraphCount": 26,
+      "headingCount": 6,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "深海迷航（Subnautica）：前三小时别急着找深海，先把氧气、方向和回程做成习惯",
+      "guid": "游戏攻略:c83b15a87d",
+      "source": "游戏攻略/2026-11-04-深海迷航-前三小时路线.md",
+      "bodyChars": 2419,
+      "paragraphCount": 22,
+      "headingCount": 6,
+      "imageCount": 3,
+      "duplicateParagraphs": 3,
+      "hasMainImage": true
+    },
+    {
+      "title": "深空当铺：可能是偷的（Probably Stolen）：别先追最高价，先把鉴定链跑顺",
+      "guid": "游戏攻略:5c424d2c0f",
+      "source": "游戏攻略/2026-11-04-深空当铺-鉴定与现金流.md",
+      "bodyChars": 2515,
+      "paragraphCount": 21,
+      "headingCount": 6,
+      "imageCount": 3,
+      "duplicateParagraphs": 4,
+      "hasMainImage": true
+    },
+    {
+      "title": "使命召唤：现代战争4（Call of Duty: Modern Warfare 4）：枪法之外，先把你的第一条进攻线站住",
+      "guid": "游戏攻略:5f845dffd1",
+      "source": "游戏攻略/2026-11-04-现代战争4-多人战斗站位.md",
+      "bodyChars": 2151,
+      "paragraphCount": 20,
+      "headingCount": 6,
+      "imageCount": 3,
+      "duplicateParagraphs": 7,
+      "hasMainImage": true
+    },
+    {
+      "title": "土豆兄弟（Brotato）：前十波别急着堆伤害，先让商店和武器互相认识",
+      "guid": "游戏攻略:1e7147fb96",
+      "source": "游戏攻略/2026-11-04-土豆兄弟-前十波经济.md",
+      "bodyChars": 2759,
+      "paragraphCount": 24,
+      "headingCount": 7,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "邪恶冥刻（Inscryption）：不要把牌组塞满，营火前先决定你愿意失去什么",
+      "guid": "游戏攻略:cf19e40fc5",
+      "source": "游戏攻略/2026-11-04-邪恶冥刻-牌组与营火.md",
+      "bodyChars": 2780,
+      "paragraphCount": 29,
+      "headingCount": 6,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "星际战甲（Warframe）：开荒不是先追战甲，先把 Mod、任务和资源三条线接起来",
+      "guid": "游戏攻略:448838d37b",
+      "source": "游戏攻略/2026-11-04-星际战甲-开荒改造.md",
+      "bodyChars": 2750,
+      "paragraphCount": 25,
+      "headingCount": 6,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "以撒的结合：重生（The Binding of Isaac: Rebirth）：别被金色道具骗了，前两层先保住可重复的伤害",
+      "guid": "游戏攻略:99d6cc0d7f",
+      "source": "游戏攻略/2026-11-04-以撒的结合-初期道具取舍.md",
+      "bodyChars": 2758,
+      "paragraphCount": 25,
+      "headingCount": 6,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "Apex英雄（Apex Legends）：落地不搜满，三人队的第一圈要这样转",
+      "guid": "游戏攻略:cd2ab0f9bf",
+      "source": "游戏攻略/2026-11-04-Apex英雄-落地与转点.md",
+      "bodyChars": 2832,
+      "paragraphCount": 23,
+      "headingCount": 6,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "矮人要塞（Dwarf Fortress）第一座要塞总在第一个冬天散架？先把酒、水和工作坊排成三层",
+      "guid": "游戏攻略:e158e8196a",
+      "source": "游戏攻略/2026-11-03-矮人要塞-第一座要塞的三条生命线.md",
+      "bodyChars": 2836,
+      "paragraphCount": 22,
+      "headingCount": 6,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "奥伯拉丁的回归（Return of the Obra Dinn）一船尸体总靠猜身份？先按死亡方式、船员名单和声音锁定证据",
+      "guid": "游戏攻略:33159f4c3a",
+      "source": "游戏攻略/2026-11-03-奥伯拉丁的回归-尸体证据推理.md",
+      "bodyChars": 2735,
+      "paragraphCount": 26,
+      "headingCount": 6,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "奥日与精灵意志（Ori and the Will of the Wisps）精灵之泉总跳不上去？先把冲刺、蹬墙和精灵碎片按地形配",
+      "guid": "游戏攻略:25b9849ecb",
+      "source": "游戏攻略/2026-11-03-奥日与精灵意志-地形能力搭配.md",
+      "bodyChars": 2789,
+      "paragraphCount": 27,
+      "headingCount": 6,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "巴拉特罗（Balatro）总被高倍率骗走经济？先把牌组变薄，再决定小丑牌要不要留",
+      "guid": "游戏攻略:67be54ce6c",
+      "source": "游戏攻略/2026-11-03-巴拉特罗-牌组经济与小丑牌取舍.md",
+      "bodyChars": 2738,
+      "paragraphCount": 25,
+      "headingCount": 7,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "边缘世界（RimWorld）殖民地不是被袭击打垮的：先把心情、药品和火力分成三条线",
+      "guid": "游戏攻略:29cd7c3433",
+      "source": "游戏攻略/2026-11-03-边缘世界-殖民地三条管理线.md",
+      "bodyChars": 2786,
+      "paragraphCount": 24,
+      "headingCount": 6,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "超越光速（FTL: Faster Than Light）第一、二星区总在追不上叛军？先把船员和电力分配成两套方案",
+      "guid": "游戏攻略:b0229dccbe",
+      "source": "游戏攻略/2026-11-03-超越光速-第一二星区船员与电力分配.md",
+      "bodyChars": 2676,
+      "paragraphCount": 24,
+      "headingCount": 7,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "黑暗之魂3（Dark Souls III）洛斯里克总在第二张图掉魂？先把篝火、盾反和武器强化排好",
+      "guid": "游戏攻略:95d44a5ff1",
+      "source": "游戏攻略/2026-11-03-黑暗之魂3-洛斯里克前期路线.md",
+      "bodyChars": 2786,
+      "paragraphCount": 25,
+      "headingCount": 6,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "黑神话：悟空（Black Myth: Wukong）第一章总被幽魂和广智打乱节奏？先把棍势、闪避和药酒分开练",
+      "guid": "游戏攻略:f20d1649fa",
+      "source": "游戏攻略/2026-11-03-黑神话悟空-第一章棍势与Boss节奏.md",
+      "bodyChars": 2810,
+      "paragraphCount": 25,
+      "headingCount": 6,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "饥荒联机版（Don’t Starve Together）第一季总在冬天前崩盘？先定营地，再分食物、火和探图职责",
+      "guid": "游戏攻略:d2ffec71c1",
+      "source": "游戏攻略/2026-11-03-饥荒联机版-第一季生存分工.md",
+      "bodyChars": 2820,
+      "paragraphCount": 25,
+      "headingCount": 6,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "潜水员戴夫（DAVE THE DIVER）第一周总在潜水和餐厅两头忙？先把每次下潜只做一件事",
+      "guid": "游戏攻略:da5b566dcb",
+      "source": "游戏攻略/2026-11-03-潜水员戴夫-第一周下潜与餐厅循环.md",
+      "bodyChars": 2794,
+      "paragraphCount": 23,
+      "headingCount": 7,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "杀戮尖塔（Slay the Spire）首领前总觉得牌不够强？先看路线和牌组厚度，再谈稀有卡",
+      "guid": "游戏攻略:a1111fec31",
+      "source": "游戏攻略/2026-11-03-杀戮尖塔-首领前路线与牌组厚度.md",
+      "bodyChars": 2855,
+      "paragraphCount": 25,
+      "headingCount": 7,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "生化危机2：重制版（Resident Evil 2）警察局总绕回原地？先按钥匙和安全屋规划里昂与克莱尔路线",
+      "guid": "游戏攻略:575634a777",
+      "source": "游戏攻略/2026-11-03-生化危机2重制版-警察局路线.md",
+      "bodyChars": 2795,
+      "paragraphCount": 27,
+      "headingCount": 6,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "死亡循环（Deathloop）一轮轮重来还是抓不到四人？先把线索按时间段拆开",
+      "guid": "游戏攻略:ad7fcf9a65",
+      "source": "游戏攻略/2026-11-03-死亡循环-四人线索时间表.md",
+      "bodyChars": 2779,
+      "paragraphCount": 25,
+      "headingCount": 6,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "陷阵之志（Into the Breach）总在救下一栋楼却丢掉另一栋？先把敌人攻击顺序排出来",
+      "guid": "游戏攻略:c71e2eaea1",
+      "source": "游戏攻略/2026-11-03-陷阵之志-回合规划与城市保护.md",
+      "bodyChars": 2724,
+      "paragraphCount": 25,
+      "headingCount": 7,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "星露谷物语（Stardew Valley）春一日别把体力耗在清地上：先把种子、矿洞和社区中心排成一周",
+      "guid": "游戏攻略:fac11b9978",
+      "source": "游戏攻略/2026-11-03-星露谷物语-春季第一周路线.md",
+      "bodyChars": 2799,
+      "paragraphCount": 25,
+      "headingCount": 6,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    }
+  ]
+}
