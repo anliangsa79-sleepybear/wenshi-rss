@@ -1,0 +1,34 @@
+# 加拿大爱德华王子岛：红沙岸、青壳蛤与绿山墙的慢游路线
+
+爱德华王子岛（Prince Edward Island，简称 PEI）是加拿大最小的省份，却把「慢」做到了极致——你可以不到四小时横穿全岛，但真正的好风景都藏在蜿蜒海岸、僻静小湾和乡间小路里。这里北岸是 65 公里长的国家公园沙滩，配着高耸沙丘与赭红悬崖；餐桌上是青壳蛤（mussels）、龙虾与土豆；还有全世界最著名的红发女孩「绿山墙的安妮」（Anne of Green Gables）。下面这条三到四天线，适合拖家带口、把节奏放得很慢。
+
+## 🏖️ 爱德华王子岛国家公园（Prince Edward Island National Park）：红崖与白沙
+
+沿着岛北岸的国家公园，是整座岛的沙滩主场。从西到东分三段：Cavendish–North Rustico、Brackley–Dalvay、Greenwich。最出片的是 Cavendish Beach 的红岩与白沙，但停车场上方的沙滩走远一点就能避开人潮；东边的 Greenwich 最安静，1998 年才划入公园，专门保护脆弱的海岸沙丘。必走的是 4.8 公里的 Greenwich Dunes 步道：脚下是浮桥（floating boardwalk），两侧是公园地标性的抛物线沙丘，一路走到海边；轻松的 Cavendish Dunelands 步道在 Oceanview 东侧草丘后蜿蜒，单程 2.3 公里。公园门票与开放服务期以现场为准。
+
+## 🦪 青壳蛤与龙虾宴：岛上的味觉主线
+
+PEI 的青壳蛤（mussels）和龙虾是绕不开的主角。经典体验是传统龙虾宴（lobster supper）：按你选的龙虾大小计价，配浓汤、青壳蛤、沙拉、派与甜点——New Glasgow Lobster Suppers 自 1950 年代开张至今；North Rustico 的 Fisherman's Wharf Lobster Suppers 有 18 米长的自助台，沙拉、汤、青壳蛤、面包、水果、甜点任拿，几乎忘了还要吃龙虾。想更在地，可参加 Experience PEI 的青壳蛤与龙虾煮（mussel and lobster boil），或去 Tranquility Cove Adventures 的灯塔与海豹巡航，船上现吃岛产青壳蛤。Stanley Bridge 的 Carr's Oyster Bar 主打 Malpeque 生蚝，Oyster Bed Bridge 的 Blue Mussel Café 值得专程为鲜海鲜跑一趟。价格与预订以现场为准。
+
+## 📖 绿山墙的安妮（Anne of Green Gables）故乡 Cavendish
+
+加拿大最出名的虚构角色，大概是露西·莫德·蒙哥马利（Lucy Maud Montgomery）笔下那位红发、倔强的 PEI 女孩。作者本人在 Cavendish 长大，镇上到处是安妮印记。绿山墙遗产地（Green Gables Heritage Place）由 Parks Canada 管理，展陈讲作者生平，隔壁那栋表亲所有的农舍被按小说描写复原，穿上戏服的讲解员把你带进安妮的日常；屋外可走「情人小径」（Lovers Lane）或「鬼魅森林」（Haunted Woods）。同线还能去蒙哥马利 Cavendish 故居（仅余地基，有讲解）、New London 的出生地、Park Corner 的安妮博物馆（作者在此完婚，展品有婚礼风琴与「安妮的魔法书架」）。想躲开人潮，住在北岸的 North Rustico 即可，从 Charlottetown 或 Summerside 也都能一日往返。
+
+## 🗼 灯塔、红沙海滩与 familia 慢节奏
+
+PEI 有 61 座灯塔，最适合家庭慢慢逛。Point Prim 灯塔（1845 年）是全岛最老的海岸灯塔，圆形砖塔全加仅存三座之一，爬陡梯到瞭望台可看两侧海面；West Point 灯塔（1875 年）是岛上最高，立在 Cedar Dunes 省立公园里，红沙海滩就在眼前，还能住进灯塔本身的两间房。Souris 的红沙海滩有一条木板步道，主街上有用 PEI 土豆做软糖的 Oh Fudge!，必尝。想动起来，北岸的 Outside Expeditions 提供亲子皮划艇到六小时水上探索的行程；东岸还有与山羊同划桨板的 Beach Goats。活动价与开放以现场为准。
+
+## 🚶 岛屿步道（Island Walk）与到达方式
+
+仿西班牙圣地亚哥之路而建的 Island Walk 是环岛 700 公里徒步/骑行线，从 Charlottetown 起止，经过沙滩、红崖与森林，分成 32 段、每段 20–25 公里，可单段走也可环线。地势平缓、无山。上岛靠渡轮：东岸 Wood Islands 有 75 分钟船往新斯科舍；Souris 则有 5 小时船往魁北克的马格达伦群岛。班次与票价以现场为准。
+
+## 🧭 三到四天家庭路线
+
+- **Day 1 夏洛特敦（Charlottetown）**：逛维多利亚式老街与港口，省议会厅（Province House）了解「联邦诞生地」故事；傍晚去 Confederation Centre of the Arts 看一场《绿山墙的安妮》音乐剧（夏季常有）。
+- **Day 2 北岸沙滩+安妮**：上午 Cavendish 沙滩与绿山墙遗产地，下午 Greenwich Dunes 浮桥步道，晚上 North Rustico 龙虾宴。
+- **Day 3 海鲜与灯塔**：Stanley Bridge 生蚝、North Rustico 港口皮划艇；东去 Souris 红沙海滩，或西去 Point Prim / West Point 灯塔。
+- **Day 4（可选）**：参加青壳蛤煮或农场烹饪课，沿 Confederation Trail 骑行收尾。
+
+实用提示：多数景点 5 月中至 10 月中最全，10 月中到 5 月多雪、许多停业；带防晒与防蚊。把节奏放慢，PEI 的红沙与海风才够味。
+
+> 本文为依据 Lonely Planet 所做旅行攻略，仅供个人旅行规划参考；价格、签证、门票等动态信息请以官方公告与现场为准。
