@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-16T11:10:31.646Z",
+  "generatedAt": "2026-11-18T10:34:41.217Z",
   "vertical": "四大名著精读",
-  "itemCount": 20,
+  "itemCount": 40,
   "errorCount": 0,
   "warningCount": 0,
   "p1ErrorCount": 0,
@@ -13,228 +13,531 @@
   "warnings": [],
   "p2Errors": [],
   "p2Warnings": [],
-  "autoFixes": [],
+  "autoFixes": [
+    "已清理 20 篇文章内的重复段落"
+  ],
   "sharedParagraphs": [],
   "droppedSharedParagraphs": [],
-  "duplicateParagraphItems": [],
+  "duplicateParagraphItems": [
+    {
+      "title": "《大明王朝1566》：裕王府为什么连一顿饭都要算着吃？一座穷得过分的王府，如何暴露皇子继承资格的尴尬",
+      "count": 2
+    },
+    {
+      "title": "《封神演义》：姜子牙为什么用直钩钓鱼？一根钓竿，如何把“等待贤主”写成一场公开的自我推荐",
+      "count": 1
+    },
+    {
+      "title": "《汉武大帝》：李广战功赫赫却终身难封，真的是运气太差吗？一份迟迟兑现不了的军功，如何揭开汉帝国赏罚的边界",
+      "count": 2
+    },
+    {
+      "title": "《红楼梦》：贾宝玉为什么要把汗巾送给蒋玉菡？一件贴身衣物，如何让贾府最不能说的关系浮出水面",
+      "count": 1
+    },
+    {
+      "title": "《红楼梦》：司棋为什么非要吃一碗蒸鸡蛋？一场厨房争执，如何让丫鬟的爱情撞上大观园的等级墙",
+      "count": 1
+    },
+    {
+      "title": "《金瓶梅》：西门庆开的到底是药铺，还是一间人情场？药材、借贷与请托，如何把晚明日常拧在同一张账上",
+      "count": 1
+    },
+    {
+      "title": "《康熙王朝》：康熙为什么要让少年布库手擒鳌拜？一场看似儿戏的擒拿，如何把“皇帝年幼”变成最锋利的伪装",
+      "count": 2
+    },
+    {
+      "title": "《鹿鼎记》：九难为什么愿意教韦小宝，却不愿意相信韦小宝？一个前朝公主，如何判断市井之人的政治资格",
+      "count": 2
+    },
+    {
+      "title": "《三国演义》：陈宫明知曹操杀错人，为什么还要跟他走？一场从误会出发的同行，如何把“择主”写成道德债",
+      "count": 1
+    },
+    {
+      "title": "《三国演义》：刘备娶孙尚香为什么像一场外交演习？洞房里的新郎，如何失去婚姻的自主权",
+      "count": 1
+    },
+    {
+      "title": "《射雕英雄传》：周伯通为什么把《九阴真经》当成游戏？一个“老顽童”如何把绝世秘籍从权力变回玩具",
+      "count": 2
+    },
+    {
+      "title": "《神雕侠侣》：古墓派为什么把“男人不得入内”写进门规？一座地下墓室，如何保住女性的传承秩序",
+      "count": 2
+    },
+    {
+      "title": "《神探狄仁杰》：蛇灵案真正难查的，是谁有资格定义“叛乱”——狄仁杰如何用查案拆开武周的政治黑箱",
+      "count": 2
+    },
+    {
+      "title": "《水浒传》：雷横为什么会为母亲打死白秀英？一副枷锁落下去，县衙的公事如何变成一个孝子的私刑",
+      "count": 1
+    },
+    {
+      "title": "《水浒传》：宋江一收到父亲家书就要下山？一纸家书，如何让梁山最会讲忠义的人暴露出最难摆脱的身份",
+      "count": 1
+    },
+    {
+      "title": "《天龙八部》：乔峰交出打狗棒时，丐帮失去的为什么不只是帮主？一件信物，如何把江湖权力变成可见的继承仪式",
+      "count": 2
+    },
+    {
+      "title": "《西游记》：落胎泉为什么必须有人看守？一口能让人堕胎的泉水，如何把生育写成取经路上的权力交易",
+      "count": 1
+    },
+    {
+      "title": "《西游记》：孙悟空从八卦炉里炼出火眼金睛，却没有炼出免死金牌？一场神仙炼器，如何把刑罚写成神通",
+      "count": 1
+    },
+    {
+      "title": "《笑傲江湖》：莫大先生为什么只在二胡声里出剑？一个掌门的沉默，如何把衡山派的失败写成不肯争位的尊严",
+      "count": 2
+    },
+    {
+      "title": "《甄嬛传》：端妃为什么一直沉默？一场被灌红花的旧案，如何让后宫受害者变成皇权最安静的证人",
+      "count": 2
+    }
+  ],
   "duplicateMainImages": [],
   "noImageItems": [],
   "items": [
     {
-      "title": "《大明王朝1566》：改稻为桑为什么从一项善政变成一场灾难？一块浙江土地如何被不同官员写成不同的数字",
-      "guid": "四大名著精读:11852fd0da",
-      "source": "影视经典/2026-11-13_影视经典_大明王朝改稻为桑.md",
-      "bodyChars": 3556,
-      "paragraphCount": 26,
-      "headingCount": 5,
-      "imageCount": 1,
-      "duplicateParagraphs": 0,
-      "hasMainImage": true
-    },
-    {
-      "title": "《封神演义》：妲己为什么总被安排在王座旁边？一张妖妃的脸，如何替王朝失败承担女性的罪",
-      "guid": "四大名著精读:a1919cdf2a",
-      "source": "四大名著精读/2026-11-13_封神演义_妲己妖妃.md",
-      "bodyChars": 2943,
-      "paragraphCount": 27,
-      "headingCount": 5,
-      "imageCount": 1,
-      "duplicateParagraphs": 0,
-      "hasMainImage": true
-    },
-    {
-      "title": "《红楼梦》：晴雯撕扇为什么让宝玉高兴？扇骨碎掉之后，怡红院的主仆秩序反而更清楚",
-      "guid": "四大名著精读:1d22b48291",
-      "source": "四大名著精读/2026-11-13_红楼梦_晴雯撕扇.md",
-      "bodyChars": 3010,
-      "paragraphCount": 26,
-      "headingCount": 5,
-      "imageCount": 1,
-      "duplicateParagraphs": 0,
-      "hasMainImage": true
-    },
-    {
-      "title": "《红楼梦》：尤三姐自刎之前，究竟在拒绝谁？一把剑如何切断“被男人挑选”的婚姻逻辑",
-      "guid": "四大名著精读:b864db7084",
-      "source": "四大名著精读/2026-11-13_红楼梦_尤三姐自刎.md",
-      "bodyChars": 3181,
-      "paragraphCount": 29,
-      "headingCount": 5,
-      "imageCount": 1,
-      "duplicateParagraphs": 0,
-      "hasMainImage": true
-    },
-    {
-      "title": "《金瓶梅》：潘金莲为什么偏要先看厨房？一只灶台如何把宅门女人的欲望与生计放在同一处",
-      "guid": "四大名著精读:99758c17f2",
-      "source": "四大名著精读/2026-11-13_金瓶梅_潘金莲厨房.md",
-      "bodyChars": 2993,
-      "paragraphCount": 29,
-      "headingCount": 5,
-      "imageCount": 1,
-      "duplicateParagraphs": 0,
-      "hasMainImage": true
-    },
-    {
-      "title": "《康熙王朝》：康熙为什么不能只靠一场胜仗平定三藩？撤藩之后，帝国如何先和粮饷与时间作战",
-      "guid": "四大名著精读:01f954f727",
-      "source": "影视经典/2026-11-13_影视经典_康熙撤藩.md",
-      "bodyChars": 3210,
-      "paragraphCount": 23,
-      "headingCount": 5,
-      "imageCount": 1,
-      "duplicateParagraphs": 0,
-      "hasMainImage": true
-    },
-    {
-      "title": "《三国演义》：关羽水淹七军后为何仍守不住荆州？一场大胜如何遮蔽联盟的后方账本",
-      "guid": "四大名著精读:6ddcb2ff85",
-      "source": "四大名著精读/2026-11-13_三国演义_关羽水淹七军.md",
-      "bodyChars": 2955,
-      "paragraphCount": 28,
-      "headingCount": 5,
-      "imageCount": 1,
-      "duplicateParagraphs": 0,
-      "hasMainImage": true
-    },
-    {
-      "title": "《三国演义》：黄忠为何在定军山变成一枚必须被看见的老将？一场伏击如何改写将军的年龄",
-      "guid": "四大名著精读:0f969e1947",
-      "source": "四大名著精读/2026-11-13_三国演义_黄忠定军山.md",
-      "bodyChars": 2939,
-      "paragraphCount": 29,
-      "headingCount": 5,
-      "imageCount": 1,
-      "duplicateParagraphs": 0,
-      "hasMainImage": true
-    },
-    {
-      "title": "《射雕英雄传》：黄药师为什么不肯替郭靖改名？桃花岛的门槛，如何把师徒关系写成一场资格审查",
-      "guid": "四大名著精读:2754b6bf4c",
-      "source": "金庸武林/2026-11-13_金庸武林_黄药师桃花岛.md",
-      "bodyChars": 3555,
-      "paragraphCount": 24,
-      "headingCount": 5,
-      "imageCount": 1,
-      "duplicateParagraphs": 0,
-      "hasMainImage": true
-    },
-    {
-      "title": "《水浒传》：鲁智深倒拔垂杨柳为何不是神力炫技？一棵树下的喧闹，如何看见北宋城市里的治安与流动人口",
-      "guid": "四大名著精读:78fd120106",
-      "source": "四大名著精读/2026-11-13_水浒传_鲁智深倒拔垂杨柳.md",
-      "bodyChars": 2992,
-      "paragraphCount": 27,
-      "headingCount": 5,
-      "imageCount": 1,
-      "duplicateParagraphs": 0,
-      "hasMainImage": true
-    },
-    {
-      "title": "《水浒传》：武松为什么要在飞云浦之后回头？一把戒刀从复仇开始，怎样把县衙写成再也回不去的地方",
-      "guid": "四大名著精读:6ddb9f6632",
-      "source": "四大名著精读/2026-11-13_水浒传_武松飞云浦.md",
-      "bodyChars": 3076,
-      "paragraphCount": 29,
-      "headingCount": 5,
-      "imageCount": 1,
-      "duplicateParagraphs": 0,
-      "hasMainImage": true
-    },
-    {
-      "title": "《隋唐英雄传》：李世民为什么一定要把玄武门写成先发制人？一场宫门兵变，如何由家事变成帝国叙事",
-      "guid": "四大名著精读:b010e7dbbe",
-      "source": "影视经典/2026-11-13_影视经典_玄武门先发制人.md",
-      "bodyChars": 3300,
-      "paragraphCount": 25,
-      "headingCount": 5,
-      "imageCount": 1,
-      "duplicateParagraphs": 0,
-      "hasMainImage": true
-    },
-    {
-      "title": "《西游记》：金角银角为何总把葫芦叫得像官印？一件能收人的法宝，如何暴露神仙世界的名分恐惧",
-      "guid": "四大名著精读:83a782a071",
-      "source": "四大名著精读/2026-11-13_西游记_金角银角葫芦.md",
-      "bodyChars": 3063,
-      "paragraphCount": 28,
-      "headingCount": 5,
-      "imageCount": 1,
-      "duplicateParagraphs": 0,
-      "hasMainImage": true
-    },
-    {
-      "title": "《西游记》：通天河里的金鱼为什么能成妖？一个看似偶然的妖怪，如何牵出神佛世界的管理漏洞",
-      "guid": "四大名著精读:fe5801ad20",
-      "source": "四大名著精读/2026-11-13_西游记_通天河金鱼.md",
-      "bodyChars": 3028,
-      "paragraphCount": 27,
-      "headingCount": 5,
-      "imageCount": 1,
-      "duplicateParagraphs": 0,
-      "hasMainImage": true
-    },
-    {
-      "title": "《侠客行》：丁珰为什么先爱上石中玉，再开始怀疑他？一场婚约如何让身份错认变成女性的判断力",
-      "guid": "四大名著精读:3d5dff02f5",
-      "source": "金庸武林/2026-11-13_金庸武林_丁珰石中玉.md",
-      "bodyChars": 3048,
+      "title": "《大明王朝1566》：裕王府为什么连一顿饭都要算着吃？一座穷得过分的王府，如何暴露皇子继承资格的尴尬",
+      "guid": "四大名著精读:1a7f6bd166",
+      "source": "影视经典/2026-11-18_影视经典_大明裕王府饭桌.md",
+      "bodyChars": 3481,
       "paragraphCount": 21,
       "headingCount": 5,
       "imageCount": 1,
+      "duplicateParagraphs": 2,
+      "hasMainImage": true
+    },
+    {
+      "title": "《封神演义》：姜子牙为什么用直钩钓鱼？一根钓竿，如何把“等待贤主”写成一场公开的自我推荐",
+      "guid": "四大名著精读:5f54dee563",
+      "source": "四大名著精读/2026-11-18_封神演义_姜子牙直钩.md",
+      "bodyChars": 3653,
+      "paragraphCount": 22,
+      "headingCount": 5,
+      "imageCount": 1,
+      "duplicateParagraphs": 1,
+      "hasMainImage": true
+    },
+    {
+      "title": "《汉武大帝》：李广战功赫赫却终身难封，真的是运气太差吗？一份迟迟兑现不了的军功，如何揭开汉帝国赏罚的边界",
+      "guid": "四大名著精读:022031bc0d",
+      "source": "影视经典/2026-11-18_影视经典_汉武李广难封.md",
+      "bodyChars": 3507,
+      "paragraphCount": 21,
+      "headingCount": 5,
+      "imageCount": 1,
+      "duplicateParagraphs": 2,
+      "hasMainImage": true
+    },
+    {
+      "title": "《红楼梦》：贾宝玉为什么要把汗巾送给蒋玉菡？一件贴身衣物，如何让贾府最不能说的关系浮出水面",
+      "guid": "四大名著精读:0075145265",
+      "source": "四大名著精读/2026-11-18_红楼梦_汗巾蒋玉菡.md",
+      "bodyChars": 3713,
+      "paragraphCount": 22,
+      "headingCount": 5,
+      "imageCount": 1,
+      "duplicateParagraphs": 1,
+      "hasMainImage": true
+    },
+    {
+      "title": "《红楼梦》：司棋为什么非要吃一碗蒸鸡蛋？一场厨房争执，如何让丫鬟的爱情撞上大观园的等级墙",
+      "guid": "四大名著精读:0dcd26b126",
+      "source": "四大名著精读/2026-11-18_红楼梦_司棋蒸鸡蛋.md",
+      "bodyChars": 3715,
+      "paragraphCount": 22,
+      "headingCount": 5,
+      "imageCount": 1,
+      "duplicateParagraphs": 1,
+      "hasMainImage": true
+    },
+    {
+      "title": "《金瓶梅》：西门庆开的到底是药铺，还是一间人情场？药材、借贷与请托，如何把晚明日常拧在同一张账上",
+      "guid": "四大名著精读:7ed5bf84ee",
+      "source": "四大名著精读/2026-11-18_金瓶梅_生药铺人情场.md",
+      "bodyChars": 3695,
+      "paragraphCount": 22,
+      "headingCount": 5,
+      "imageCount": 1,
+      "duplicateParagraphs": 1,
+      "hasMainImage": true
+    },
+    {
+      "title": "《康熙王朝》：康熙为什么要让少年布库手擒鳌拜？一场看似儿戏的擒拿，如何把“皇帝年幼”变成最锋利的伪装",
+      "guid": "四大名著精读:0edda97d6e",
+      "source": "影视经典/2026-11-18_影视经典_康熙擒鳌拜.md",
+      "bodyChars": 3464,
+      "paragraphCount": 21,
+      "headingCount": 5,
+      "imageCount": 1,
+      "duplicateParagraphs": 2,
+      "hasMainImage": true
+    },
+    {
+      "title": "《鹿鼎记》：九难为什么愿意教韦小宝，却不愿意相信韦小宝？一个前朝公主，如何判断市井之人的政治资格",
+      "guid": "四大名著精读:cdec8a15ce",
+      "source": "金庸武林/2026-11-18_金庸武林_鹿鼎九难韦小宝.md",
+      "bodyChars": 3463,
+      "paragraphCount": 21,
+      "headingCount": 5,
+      "imageCount": 1,
+      "duplicateParagraphs": 2,
+      "hasMainImage": true
+    },
+    {
+      "title": "《三国演义》：陈宫明知曹操杀错人，为什么还要跟他走？一场从误会出发的同行，如何把“择主”写成道德债",
+      "guid": "四大名著精读:ff116cb3d7",
+      "source": "四大名著精读/2026-11-18_三国演义_陈宫择主.md",
+      "bodyChars": 3740,
+      "paragraphCount": 22,
+      "headingCount": 5,
+      "imageCount": 1,
+      "duplicateParagraphs": 1,
+      "hasMainImage": true
+    },
+    {
+      "title": "《三国演义》：刘备娶孙尚香为什么像一场外交演习？洞房里的新郎，如何失去婚姻的自主权",
+      "guid": "四大名著精读:1a3e40f7a8",
+      "source": "四大名著精读/2026-11-18_三国演义_孙尚香婚姻.md",
+      "bodyChars": 3675,
+      "paragraphCount": 22,
+      "headingCount": 5,
+      "imageCount": 1,
+      "duplicateParagraphs": 1,
+      "hasMainImage": true
+    },
+    {
+      "title": "《射雕英雄传》：周伯通为什么把《九阴真经》当成游戏？一个“老顽童”如何把绝世秘籍从权力变回玩具",
+      "guid": "四大名著精读:51c733a0e8",
+      "source": "金庸武林/2026-11-18_金庸武林_射雕周伯通秘籍.md",
+      "bodyChars": 3472,
+      "paragraphCount": 21,
+      "headingCount": 5,
+      "imageCount": 1,
+      "duplicateParagraphs": 2,
+      "hasMainImage": true
+    },
+    {
+      "title": "《神雕侠侣》：古墓派为什么把“男人不得入内”写进门规？一座地下墓室，如何保住女性的传承秩序",
+      "guid": "四大名著精读:9a12438e20",
+      "source": "金庸武林/2026-11-18_金庸武林_神雕古墓门规.md",
+      "bodyChars": 3525,
+      "paragraphCount": 21,
+      "headingCount": 5,
+      "imageCount": 1,
+      "duplicateParagraphs": 2,
+      "hasMainImage": true
+    },
+    {
+      "title": "《神探狄仁杰》：蛇灵案真正难查的，是谁有资格定义“叛乱”——狄仁杰如何用查案拆开武周的政治黑箱",
+      "guid": "四大名著精读:6585fa5168",
+      "source": "影视经典/2026-11-18_影视经典_神探蛇灵叛乱.md",
+      "bodyChars": 3555,
+      "paragraphCount": 21,
+      "headingCount": 5,
+      "imageCount": 1,
+      "duplicateParagraphs": 2,
+      "hasMainImage": true
+    },
+    {
+      "title": "《水浒传》：雷横为什么会为母亲打死白秀英？一副枷锁落下去，县衙的公事如何变成一个孝子的私刑",
+      "guid": "四大名著精读:9512f234a8",
+      "source": "四大名著精读/2026-11-18_水浒传_雷横白秀英.md",
+      "bodyChars": 3731,
+      "paragraphCount": 22,
+      "headingCount": 5,
+      "imageCount": 1,
+      "duplicateParagraphs": 1,
+      "hasMainImage": true
+    },
+    {
+      "title": "《水浒传》：宋江一收到父亲家书就要下山？一纸家书，如何让梁山最会讲忠义的人暴露出最难摆脱的身份",
+      "guid": "四大名著精读:531af8453a",
+      "source": "四大名著精读/2026-11-18_水浒传_宋江父亲家书.md",
+      "bodyChars": 3704,
+      "paragraphCount": 22,
+      "headingCount": 5,
+      "imageCount": 1,
+      "duplicateParagraphs": 1,
+      "hasMainImage": true
+    },
+    {
+      "title": "《天龙八部》：乔峰交出打狗棒时，丐帮失去的为什么不只是帮主？一件信物，如何把江湖权力变成可见的继承仪式",
+      "guid": "四大名著精读:deec48903d",
+      "source": "金庸武林/2026-11-18_金庸武林_天龙打狗棒.md",
+      "bodyChars": 3443,
+      "paragraphCount": 21,
+      "headingCount": 5,
+      "imageCount": 1,
+      "duplicateParagraphs": 2,
+      "hasMainImage": true
+    },
+    {
+      "title": "《西游记》：落胎泉为什么必须有人看守？一口能让人堕胎的泉水，如何把生育写成取经路上的权力交易",
+      "guid": "四大名著精读:425f56ef72",
+      "source": "四大名著精读/2026-11-18_西游记_落胎泉.md",
+      "bodyChars": 3778,
+      "paragraphCount": 22,
+      "headingCount": 5,
+      "imageCount": 1,
+      "duplicateParagraphs": 1,
+      "hasMainImage": true
+    },
+    {
+      "title": "《西游记》：孙悟空从八卦炉里炼出火眼金睛，却没有炼出免死金牌？一场神仙炼器，如何把刑罚写成神通",
+      "guid": "四大名著精读:cca198cbdb",
+      "source": "四大名著精读/2026-11-18_西游记_八卦炉火眼金睛.md",
+      "bodyChars": 3678,
+      "paragraphCount": 22,
+      "headingCount": 5,
+      "imageCount": 1,
+      "duplicateParagraphs": 1,
+      "hasMainImage": true
+    },
+    {
+      "title": "《笑傲江湖》：莫大先生为什么只在二胡声里出剑？一个掌门的沉默，如何把衡山派的失败写成不肯争位的尊严",
+      "guid": "四大名著精读:e6ace9ff2b",
+      "source": "金庸武林/2026-11-18_金庸武林_笑傲莫大二胡.md",
+      "bodyChars": 3445,
+      "paragraphCount": 21,
+      "headingCount": 5,
+      "imageCount": 1,
+      "duplicateParagraphs": 2,
+      "hasMainImage": true
+    },
+    {
+      "title": "《甄嬛传》：端妃为什么一直沉默？一场被灌红花的旧案，如何让后宫受害者变成皇权最安静的证人",
+      "guid": "四大名著精读:afae3c8f0c",
+      "source": "影视经典/2026-11-18_影视经典_甄嬛端妃沉默.md",
+      "bodyChars": 3537,
+      "paragraphCount": 21,
+      "headingCount": 5,
+      "imageCount": 1,
+      "duplicateParagraphs": 2,
+      "hasMainImage": true
+    },
+    {
+      "title": "《大明王朝1566》嘉靖为什么只隔着帘子听海瑞讲话？一层帘幕，如何把皇帝的“退居”变成最高权力",
+      "guid": "四大名著精读:109acd6729",
+      "source": "影视经典/2026-11-17_影视经典_大明嘉靖帘幕.md",
+      "bodyChars": 3040,
+      "paragraphCount": 30,
+      "headingCount": 5,
+      "imageCount": 1,
       "duplicateParagraphs": 0,
       "hasMainImage": true
     },
     {
-      "title": "《雪山飞狐》：苗若兰为什么不肯把胡斐带回家？一扇门如何把父仇、家族和女性选择分开",
-      "guid": "四大名著精读:5ae77cbbe8",
-      "source": "金庸武林/2026-11-13_金庸武林_苗若兰不带胡斐回家.md",
+      "title": "《飞狐外传》苗人凤为什么信不过胡斐，却愿意把女儿交给他？一场父女相托，如何重写“天下第一”的判断",
+      "guid": "四大名著精读:ec4af346db",
+      "source": "金庸武林/2026-11-17_金庸武林_苗人凤托女.md",
+      "bodyChars": 3028,
+      "paragraphCount": 29,
+      "headingCount": 5,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《封神演义》雷震子长出双翅之后，为什么仍只是西岐的“奇兵”？一个神异少年的身体，如何被战争改造成武器",
+      "guid": "四大名著精读:9cfaffa654",
+      "source": "四大名著精读/2026-11-17_封神演义_雷震子奇兵.md",
+      "bodyChars": 3106,
+      "paragraphCount": 30,
+      "headingCount": 5,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《红楼梦》贾环为何要把一盏蜡灯推向宝玉？一场孩子之间的恶作剧，如何暴露庶子最早学会的权力语言",
+      "guid": "四大名著精读:e15439631e",
+      "source": "四大名著精读/2026-11-17_红楼梦_贾环蜡灯.md",
+      "bodyChars": 3124,
+      "paragraphCount": 27,
+      "headingCount": 5,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《红楼梦》刘姥姥为什么要把女婿家的穷说得那么响？一场进府求助，如何变成底层人的自我表演",
+      "guid": "四大名著精读:bd2ef95e3f",
+      "source": "四大名著精读/2026-11-17_红楼梦_刘姥姥说穷.md",
+      "bodyChars": 3126,
+      "paragraphCount": 27,
+      "headingCount": 5,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《金瓶梅》西门庆死后，吴月娘为什么先要守住家产而不是只顾哭泣？一座宅院的遗产，如何从男人的享乐转成女人的管理",
+      "guid": "四大名著精读:38849fa48b",
+      "source": "四大名著精读/2026-11-17_金瓶梅_吴月娘守家.md",
+      "bodyChars": 3179,
+      "paragraphCount": 30,
+      "headingCount": 5,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《康熙王朝》明珠受刑时为什么喊出“白云观”？一场地牢酷刑，如何逼出忠臣也无法守住的秘密",
+      "guid": "四大名著精读:d7c344fcae",
+      "source": "影视经典/2026-11-17_影视经典_康熙明珠受刑.md",
+      "bodyChars": 3044,
+      "paragraphCount": 30,
+      "headingCount": 5,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《三国演义》曹丕为什么非要逼曹植七步成诗？一首诗的期限，如何把兄弟继承改写成才华审判",
+      "guid": "四大名著精读:37e14b3b96",
+      "source": "四大名著精读/2026-11-17_三国演义_曹植七步.md",
+      "bodyChars": 3095,
+      "paragraphCount": 28,
+      "headingCount": 5,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《三国演义》赵云为什么要从孙夫人手里夺回阿斗？一条江上的追赶，如何把“宗室”变成刘备集团的政治财产",
+      "guid": "四大名著精读:32496f730d",
+      "source": "四大名著精读/2026-11-17_三国演义_赵云截江.md",
+      "bodyChars": 3151,
+      "paragraphCount": 28,
+      "headingCount": 5,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《神探狄仁杰》狄仁杰为什么要为砍树的权善才顶住皇帝怒火？一桩昭陵柏木案，如何让“法大于君心”第一次落地",
+      "guid": "四大名著精读:18de099b3b",
+      "source": "影视经典/2026-11-17_影视经典_神探权善才.md",
+      "bodyChars": 3033,
+      "paragraphCount": 30,
+      "headingCount": 5,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《水浒传》呼延灼的连环马为什么败给几把钩镰枪？一场看似技术的战役，如何揭出梁山最早的协同作战",
+      "guid": "四大名著精读:f1d6f33461",
+      "source": "四大名著精读/2026-11-17_水浒传_连环马.md",
+      "bodyChars": 2933,
+      "paragraphCount": 28,
+      "headingCount": 5,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《水浒传》卢俊义为什么先被写成“天下第一员外”？一张算命帖子，如何让富贵人家的安全感变成可被收割的对象",
+      "guid": "四大名著精读:8eda849f41",
+      "source": "四大名著精读/2026-11-17_水浒传_卢俊义算命.md",
+      "bodyChars": 3461,
+      "paragraphCount": 33,
+      "headingCount": 6,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《天龙八部》康敏为什么一定要撕开乔峰的身世？一个女人的报复，如何借丐帮公议变成政治审判",
+      "guid": "四大名著精读:b42dfa4d2a",
+      "source": "金庸武林/2026-11-17_金庸武林_康敏公议.md",
+      "bodyChars": 3106,
+      "paragraphCount": 29,
+      "headingCount": 5,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《西游记》车迟国三位国师为什么要和孙悟空比法术？一场斗法背后，谁在争夺国王的合法性",
+      "guid": "四大名著精读:7bef9313bc",
+      "source": "四大名著精读/2026-11-17_西游记_车迟国斗法.md",
+      "bodyChars": 3298,
+      "paragraphCount": 30,
+      "headingCount": 5,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《西游记》五庄观的人参果为什么不能当面吃？一棵树的“人情”，如何把仙界写成一套稀缺资源分配制度",
+      "guid": "四大名著精读:c56181cb9e",
+      "source": "四大名著精读/2026-11-17_西游记_人参果.md",
+      "bodyChars": 3241,
+      "paragraphCount": 31,
+      "headingCount": 5,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《笑傲江湖》曲洋临死前为什么还要谈一支曲子？江湖人都在争夺秘籍时，音乐如何保存另一种不服从",
+      "guid": "四大名著精读:71283b2725",
+      "source": "金庸武林/2026-11-17_金庸武林_曲洋琴箫.md",
+      "bodyChars": 2966,
+      "paragraphCount": 29,
+      "headingCount": 5,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《雪山飞狐》胡一刀为什么死在一场误会里？一把没有出鞘的刀，如何把江湖恩怨写成家族遗产",
+      "guid": "四大名著精读:59a807a9c8",
+      "source": "金庸武林/2026-11-17_金庸武林_胡一刀误会.md",
+      "bodyChars": 3051,
+      "paragraphCount": 29,
+      "headingCount": 5,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《倚天屠龙记》张三丰为何不替张无忌报仇？武当祖师的克制，如何把江湖正义从复仇改成秩序重建",
+      "guid": "四大名著精读:bab8b2bdb2",
+      "source": "金庸武林/2026-11-17_金庸武林_张三丰不报仇.md",
       "bodyChars": 3083,
-      "paragraphCount": 22,
+      "paragraphCount": 30,
       "headingCount": 5,
       "imageCount": 1,
       "duplicateParagraphs": 0,
       "hasMainImage": true
     },
     {
-      "title": "《倚天屠龙记》：殷素素临死前为什么只让张无忌记住一句话？冰火岛旧事，如何把江湖仇恨交给下一代",
-      "guid": "四大名著精读:dbd16095a7",
-      "source": "金庸武林/2026-11-13_金庸武林_殷素素临终.md",
-      "bodyChars": 3190,
-      "paragraphCount": 22,
+      "title": "《雍正王朝》八王议政为何像一场“请君入瓮”？宗室的议论，如何被皇帝改造成收权的证据",
+      "guid": "四大名著精读:c21d92b47d",
+      "source": "影视经典/2026-11-17_影视经典_雍正八王议政.md",
+      "bodyChars": 2974,
+      "paragraphCount": 27,
       "headingCount": 5,
       "imageCount": 1,
       "duplicateParagraphs": 0,
       "hasMainImage": true
     },
     {
-      "title": "《鸳鸯刀》：萧半和为什么不肯亲自解释“仁者无敌”？一对短刀如何让江湖误读一句话",
-      "guid": "四大名著精读:664e55e42a",
-      "source": "金庸武林/2026-11-13_金庸武林_鸳鸯刀仁者无敌.md",
-      "bodyChars": 3258,
-      "paragraphCount": 23,
-      "headingCount": 5,
-      "imageCount": 1,
-      "duplicateParagraphs": 0,
-      "hasMainImage": true
-    },
-    {
-      "title": "《甄嬛传》：滴血认亲为什么一定要摆在众人面前？一碗水如何把后宫私情变成公共审判",
-      "guid": "四大名著精读:55df4bd5d2",
-      "source": "影视经典/2026-11-13_影视经典_甄嬛滴血认亲.md",
-      "bodyChars": 3275,
-      "paragraphCount": 25,
-      "headingCount": 5,
-      "imageCount": 1,
-      "duplicateParagraphs": 0,
-      "hasMainImage": true
-    },
-    {
-      "title": "《走向共和》：隆裕太后为什么要亲手盖下退位诏书？一纸诏书如何把皇朝的结束写成家族的体面",
-      "guid": "四大名著精读:32c316cc65",
-      "source": "影视经典/2026-11-13_影视经典_隆裕退位诏书.md",
-      "bodyChars": 3250,
-      "paragraphCount": 22,
+      "title": "《走向共和》袁世凯为什么要让北京兵变看起来像意外？一场“不可控”的混乱，如何反过来替共和决定首都",
+      "guid": "四大名著精读:47be75feda",
+      "source": "影视经典/2026-11-17_影视经典_走向共和北京兵变.md",
+      "bodyChars": 3057,
+      "paragraphCount": 29,
       "headingCount": 5,
       "imageCount": 1,
       "duplicateParagraphs": 0,

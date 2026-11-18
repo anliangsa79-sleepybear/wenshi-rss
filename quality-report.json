@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-16T11:09:44.992Z",
+  "generatedAt": "2026-11-18T10:54:26.298Z",
   "vertical": "文史背景墙",
-  "itemCount": 268,
+  "itemCount": 292,
   "errorCount": 0,
   "warningCount": 1,
   "p1ErrorCount": 0,
@@ -16,11 +16,35 @@
   "p2Errors": [],
   "p2Warnings": [],
   "autoFixes": [
-    "已清理 2 篇文章内的重复段落"
+    "已清理 8 篇文章内的重复段落"
   ],
   "sharedParagraphs": [],
   "droppedSharedParagraphs": [],
   "duplicateParagraphItems": [
+    {
+      "title": "11月17日是国际大学生日：这个“学生节”，为什么从一场葬礼开始？",
+      "count": 2
+    },
+    {
+      "title": "1800年11月17日，美国国会第一次搬进国会大厦：一座没完工的建筑，怎样成为权力中心？",
+      "count": 3
+    },
+    {
+      "title": "1869年11月17日，苏伊士运河开通：一条水道，为什么能把世界地图拧短？",
+      "count": 3
+    },
+    {
+      "title": "1917年11月17日，罗丹去世：那个“会思考的人”，为什么直到今天还没停止发问？",
+      "count": 3
+    },
+    {
+      "title": "1957年11月17日，郑凤荣跳过1.77米：一根横杆，怎样成为中国田径的第一道世界纪录？",
+      "count": 3
+    },
+    {
+      "title": "1970年11月17日，月球第一次迎来“轮子”：月球车为什么先学会慢慢走？",
+      "count": 3
+    },
     {
       "title": "穿袜子睡觉能快7.5分钟入睡？一项“6个人”的实验为什么传遍了全网",
       "count": 1
@@ -71,6 +95,270 @@
     "中秋火车票开抢：这个\"团圆节\"，其实是宋人定型的"
   ],
   "items": [
+    {
+      "title": "《汽船威利号》首映：1928年11月18日，动画为什么突然学会了“开口说话”？",
+      "guid": "文史背景墙:d9d6d3b93e",
+      "source": "文史背景墙/2026-11-18成稿/20261118_文史背景墙_08_汽船威利号.md",
+      "bodyChars": 2031,
+      "paragraphCount": 18,
+      "headingCount": 4,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "1803年11月18日，海地打赢最后一仗：一场战役怎样把独立写进世界地图？",
+      "guid": "文史背景墙:e2659e2aa6",
+      "source": "文史背景墙/2026-11-18成稿/20261118_文史背景墙_07_海地韦尔蒂耶尔.md",
+      "bodyChars": 1992,
+      "paragraphCount": 15,
+      "headingCount": 4,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "41人没症状被AI查出早期肠癌：一张普通CT，为什么能多看一眼？",
+      "guid": "文史背景墙:9e605e36c1",
+      "source": "文史背景墙/2026-11-18成稿/20261118_文史背景墙_01_AI肠癌CT.md",
+      "bodyChars": 2537,
+      "paragraphCount": 17,
+      "headingCount": 4,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "5年开1300家无人健身房：为什么越来越多人只想进去，不想被推销？",
+      "guid": "文史背景墙:1b5f01a873",
+      "source": "文史背景墙/2026-11-18成稿/20261118_文史背景墙_05_无人健身房.md",
+      "bodyChars": 2247,
+      "paragraphCount": 18,
+      "headingCount": 4,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "按键电话从哪里来：1963年11月18日，电话为什么要从“转盘”变成“嘀嗒”？",
+      "guid": "文史背景墙:d839d319ed",
+      "source": "文史背景墙/2026-11-18成稿/20261118_文史背景墙_09_按键电话.md",
+      "bodyChars": 2054,
+      "paragraphCount": 18,
+      "headingCount": 4,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "潮汐车道是怎么“变出来”的：一条车道，为什么能在早晚高峰换方向？",
+      "guid": "文史背景墙:afb3e4392f",
+      "source": "文史背景墙/2026-11-18成稿/20261118_文史背景墙_04_潮汐车道.md",
+      "bodyChars": 1989,
+      "paragraphCount": 16,
+      "headingCount": 4,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "国王十字车站那场火：1987年11月18日，一支小火焰怎样改变地铁安全？",
+      "guid": "文史背景墙:ed04a8143d",
+      "source": "文史背景墙/2026-11-18成稿/20261118_文史背景墙_10_国王十字车站.md",
+      "bodyChars": 2005,
+      "paragraphCount": 17,
+      "headingCount": 4,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "拉脱维亚国庆日：1918年11月18日，里加的一场宣告怎样把小国写进地图？",
+      "guid": "文史背景墙:2b0cbcdcaf",
+      "source": "文史背景墙/2026-11-18成稿/20261118_文史背景墙_06_拉脱维亚宣告日.md",
+      "bodyChars": 2001,
+      "paragraphCount": 16,
+      "headingCount": 4,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "玛格丽特·阿特伍德1939年出生：她写的未来，为什么总像从旧报纸里长出来？",
+      "guid": "文史背景墙:b881a05e88",
+      "source": "文史背景墙/2026-11-18成稿/20261118_文史背景墙_12_玛格丽特阿特伍德.md",
+      "bodyChars": 2281,
+      "paragraphCount": 17,
+      "headingCount": 4,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "索姆河战役为何打了几个月：1916年11月18日，战场上真的存在“赢家”吗？",
+      "guid": "文史背景墙:dbfe811233",
+      "source": "文史背景墙/2026-11-18成稿/20261118_文史背景墙_11_索姆河战役.md",
+      "bodyChars": 2073,
+      "paragraphCount": 17,
+      "headingCount": 4,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "TGA2026提名公布：游戏大奖的“年度游戏”，到底是谁投出来的？",
+      "guid": "文史背景墙:e9dd7f5fb7",
+      "source": "文史背景墙/2026-11-18成稿/20261118_文史背景墙_02_TGA2026.md",
+      "bodyChars": 2226,
+      "paragraphCount": 16,
+      "headingCount": 4,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "U19国足时隔8年再夺熊猫杯：一座青年奖杯，为什么总被拿来谈中国足球？",
+      "guid": "文史背景墙:6baa1125d1",
+      "source": "文史背景墙/2026-11-18成稿/20261118_文史背景墙_03_熊猫杯.md",
+      "bodyChars": 2097,
+      "paragraphCount": 17,
+      "headingCount": 4,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "1019年11月17日，司马光出生：砸缸的孩子，后来怎样把历史写成一面镜子？",
+      "guid": "文史背景墙:eed14c51c7",
+      "source": "文史背景墙/2026-11-17成稿/20261117_文史背景墙_12_司马光.md",
+      "bodyChars": 2233,
+      "paragraphCount": 18,
+      "headingCount": 4,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "11月17日是国际大学生日：这个“学生节”，为什么从一场葬礼开始？",
+      "guid": "文史背景墙:0f5861c2e7",
+      "source": "文史背景墙/2026-11-17成稿/20261117_文史背景墙_06_国际大学生日.md",
+      "bodyChars": 1979,
+      "paragraphCount": 16,
+      "headingCount": 4,
+      "imageCount": 1,
+      "duplicateParagraphs": 2,
+      "hasMainImage": true
+    },
+    {
+      "title": "1800年11月17日，美国国会第一次搬进国会大厦：一座没完工的建筑，怎样成为权力中心？",
+      "guid": "文史背景墙:3c62289545",
+      "source": "文史背景墙/2026-11-17成稿/20261117_文史背景墙_08_美国国会大厦.md",
+      "bodyChars": 2115,
+      "paragraphCount": 17,
+      "headingCount": 4,
+      "imageCount": 1,
+      "duplicateParagraphs": 3,
+      "hasMainImage": true
+    },
+    {
+      "title": "1869年11月17日，苏伊士运河开通：一条水道，为什么能把世界地图拧短？",
+      "guid": "文史背景墙:37c81da6df",
+      "source": "文史背景墙/2026-11-17成稿/20261117_文史背景墙_07_苏伊士运河.md",
+      "bodyChars": 1878,
+      "paragraphCount": 16,
+      "headingCount": 4,
+      "imageCount": 1,
+      "duplicateParagraphs": 3,
+      "hasMainImage": true
+    },
+    {
+      "title": "1917年11月17日，罗丹去世：那个“会思考的人”，为什么直到今天还没停止发问？",
+      "guid": "文史背景墙:ae53828270",
+      "source": "文史背景墙/2026-11-17成稿/20261117_文史背景墙_11_罗丹.md",
+      "bodyChars": 1988,
+      "paragraphCount": 17,
+      "headingCount": 4,
+      "imageCount": 1,
+      "duplicateParagraphs": 3,
+      "hasMainImage": true
+    },
+    {
+      "title": "1957年11月17日，郑凤荣跳过1.77米：一根横杆，怎样成为中国田径的第一道世界纪录？",
+      "guid": "文史背景墙:f545ee1df0",
+      "source": "文史背景墙/2026-11-17成稿/20261117_文史背景墙_10_郑凤荣.md",
+      "bodyChars": 2123,
+      "paragraphCount": 17,
+      "headingCount": 4,
+      "imageCount": 1,
+      "duplicateParagraphs": 3,
+      "hasMainImage": true
+    },
+    {
+      "title": "1970年11月17日，月球第一次迎来“轮子”：月球车为什么先学会慢慢走？",
+      "guid": "文史背景墙:075dd48676",
+      "source": "文史背景墙/2026-11-17成稿/20261117_文史背景墙_09_月球车.md",
+      "bodyChars": 1992,
+      "paragraphCount": 16,
+      "headingCount": 4,
+      "imageCount": 1,
+      "duplicateParagraphs": 3,
+      "hasMainImage": true
+    },
+    {
+      "title": "北大399元羽绒服全网刷屏：一件校服，为什么变成了大家排队抢的文创商品？",
+      "guid": "文史背景墙:462140892b",
+      "source": "文史背景墙/2026-11-17成稿/20261117_文史背景墙_01_北大羽绒服.md",
+      "bodyChars": 2309,
+      "paragraphCount": 19,
+      "headingCount": 4,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "干发帽为什么突然被劝别久戴：一件浴室小物，怎么成了健康提醒？",
+      "guid": "文史背景墙:f420ed0a11",
+      "source": "文史背景墙/2026-11-17成稿/20261117_文史背景墙_02_干发帽.md",
+      "bodyChars": 2251,
+      "paragraphCount": 19,
+      "headingCount": 4,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "山东枣庄追回2000多件文物：一件器物从土里出来后，怎样才算真正回到历史？",
+      "guid": "文史背景墙:d1008c6e62",
+      "source": "文史背景墙/2026-11-17成稿/20261117_文史背景墙_05_枣庄文物.md",
+      "bodyChars": 2205,
+      "paragraphCount": 18,
+      "headingCount": 4,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "狮子座流星雨将迎来极大期：天上划过的一道光，为什么来自一颗33年回来的彗星？",
+      "guid": "文史背景墙:727be49c28",
+      "source": "文史背景墙/2026-11-17成稿/20261117_文史背景墙_03_狮子座流星雨.md",
+      "bodyChars": 2316,
+      "paragraphCount": 19,
+      "headingCount": 4,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "BLG S16夺冠：一场比赛结束后，电竞战队的“历史”是怎样写出来的？",
+      "guid": "文史背景墙:7de1bc6448",
+      "source": "文史背景墙/2026-11-17成稿/20261117_文史背景墙_04_BLG夺冠.md",
+      "bodyChars": 2294,
+      "paragraphCount": 17,
+      "headingCount": 4,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
     {
       "title": "1980年11月12日，旅行者1号飞掠土星：一张照片怎样把行星环重新写了一遍？",
       "guid": "文史背景墙:5b1d2cdf47",
