@@ -1,6 +1,6 @@
 # 游戏攻略 RSS
 
-已收录文章：467 篇，配图资源：1132 个。
+已收录文章：20 篇，配图资源：40 个。
 
 RSS 文件：`feed.xml`
 
@@ -10,7 +10,7 @@ RSS 文件：`feed.xml`
 - `poster` 主图字段，兼容只读取主图字段的下游
 - `description` 中包含首图和摘要
 - `content:encoded` 完整正文
-- 提供标准 `media:content` 主图字段；正文中的图片继续以内嵌 HTML 形式提供，不输出 `enclosure` 节点，避免部分平台把图片 URL 当作视频链接
+- 正文中的图片以内嵌 HTML 形式提供，不输出 `media:content` 或 `enclosure` 节点，避免部分平台把图片 URL 当作视频链接
 - `articles/` 下的原始 Markdown 备份
 - `assets/` 下的配图资源（已用 sips 压缩为 JPEG）
 
