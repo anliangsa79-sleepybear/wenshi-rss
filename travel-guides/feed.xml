@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>旅游攻略全世界</title>
     <link>https://anliangsa79-sleepybear.github.io/wenshi-rss/travel-guides</link>
-    <atom:link href="https://anliangsa79-sleepybear.github.io/wenshi-rss/travel-guides/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://anliangsa79-sleepybear.github.io/wenshi-rss/travel-guides/feed.xml" rel="self" type="application/rss+xml"/>
     <description>旅游攻略全世界 RSS：基于自备 Lonely Planet 资料整理的国家、地区与城市旅行攻略。</description>
     <language>zh-CN</language>
     <lastBuildDate>Wed, 25 Nov 2026 08:00:00 GMT</lastBuildDate>
@@ -237,9 +237,9 @@
       <pubDate>Wed, 25 Nov 2026 08:00:00 GMT</pubDate>
       <dc:creator>旅游攻略全世界</dc:creator>
       <dc:subject>国内游</dc:subject>
-      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/travel-guides/assets/world.jpg]]></poster>
-      <description><![CDATA[<p><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/travel-guides/assets/world.jpg" alt="" /></p><p>⛰️ 先定登山方向，再看山中风景 黄山风景区以奇松、怪石、云海和温泉闻名，经典游览可围绕玉屏楼、光明顶等区域展开。山上步道与观景点分布广，建议先确认景区开放范围、索道运营和天气信息，再依据体力决定路线。常见安排可以从前山方向上行，以玉屏楼为一处重点，再继续前往光明顶；也可根据住宿和索道运行情况调整方向。交通、门票、预约和索道信息以黄山风景区官方公告为准。 出</p>]]></description>
-      <content:encoded><![CDATA[<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/travel-guides/assets/world.jpg" alt="中国·安徽黄山" /></figure>
+      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/travel-guides/assets/china-domestic.jpg]]></poster>
+      <description>&lt;p&gt;&lt;img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/travel-guides/assets/china-domestic.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;⛰️ 先定登山方向，再看山中风景 黄山风景区以奇松、怪石、云海和温泉闻名，经典游览可围绕玉屏楼、光明顶等区域展开。山上步道与观景点分布广，建议先确认景区开放范围、索道运营和天气信息，再依据体力决定路线。常见安排可以从前山方向上行，以玉屏楼为一处重点，再继续前往光明顶；也可根据住宿和索道运行情况调整方向。交通、门票、预约和索道信息以黄山风景区官方公告为准。 出&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/travel-guides/assets/china-domestic.jpg" alt="中国·安徽黄山" /></figure>
 <h2>⛰️ 先定登山方向，再看山中风景</h2>
 <p>黄山风景区以奇松、怪石、云海和温泉闻名，经典游览可围绕玉屏楼、光明顶等区域展开。山上步道与观景点分布广，建议先确认景区开放范围、索道运营和天气信息，再依据体力决定路线。常见安排可以从前山方向上行，以玉屏楼为一处重点，再继续前往光明顶；也可根据住宿和索道运行情况调整方向。交通、门票、预约和索道信息以黄山风景区官方公告为准。</p>
 <p>出发前规划好山上停留时间和返程方式，携带轻便背包、饮水和适合徒步的鞋。黄山天气变化快，分层穿衣、雨具和保暖衣物都能派上用场。想看日出或云海的人，可提前确认山顶住宿与天气预报，安排出发时间；当天能见度与云层情况属于自然变化，保持灵活节奏，遇到不同光线也会有独特景观。</p>
@@ -275,9 +275,9 @@
       <pubDate>Wed, 25 Nov 2026 08:00:00 GMT</pubDate>
       <dc:creator>旅游攻略全世界</dc:creator>
       <dc:subject>国内游</dc:subject>
-      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/travel-guides/assets/world.jpg]]></poster>
-      <description><![CDATA[<p><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/travel-guides/assets/world.jpg" alt="" /></p><p>🏞️ 先看清园林的山水骨架 颐和园最适合从“山与湖”来认识。万寿山在北，昆明湖铺展在南，长廊把沿湖步行和山前建筑接在一起。第一次来，可以把半天交给这条清楚的主线：入园后先走长廊，再到万寿山前看佛香阁一带，最后把时间留给湖面、长堤和石桥。园林的看点从一座楼延伸到整片山水：建筑顺着山势展开，湖岸把视线带向远处。 园区面积大，步行时建议选定一侧作为起点，再沿水边</p>]]></description>
-      <content:encoded><![CDATA[<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/travel-guides/assets/world.jpg" alt="中国·北京" /></figure>
+      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/travel-guides/assets/china-domestic.jpg]]></poster>
+      <description>&lt;p&gt;&lt;img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/travel-guides/assets/china-domestic.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;🏞️ 先看清园林的山水骨架 颐和园最适合从“山与湖”来认识。万寿山在北，昆明湖铺展在南，长廊把沿湖步行和山前建筑接在一起。第一次来，可以把半天交给这条清楚的主线：入园后先走长廊，再到万寿山前看佛香阁一带，最后把时间留给湖面、长堤和石桥。园林的看点从一座楼延伸到整片山水：建筑顺着山势展开，湖岸把视线带向远处。 园区面积大，步行时建议选定一侧作为起点，再沿水边&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/travel-guides/assets/china-domestic.jpg" alt="中国·北京" /></figure>
 <h2>🏞️ 先看清园林的山水骨架</h2>
 <p>颐和园最适合从“山与湖”来认识。万寿山在北，昆明湖铺展在南，长廊把沿湖步行和山前建筑接在一起。第一次来，可以把半天交给这条清楚的主线：入园后先走长廊，再到万寿山前看佛香阁一带，最后把时间留给湖面、长堤和石桥。园林的看点从一座楼延伸到整片山水：建筑顺着山势展开，湖岸把视线带向远处。</p>
 <p>园区面积大，步行时建议选定一侧作为起点，再沿水边慢慢移动。晴天可以看昆明湖的光影，云层丰富时则能看到山脊与屋檐的层次。春季新叶、夏日荷香、秋日彩叶和冬日湖岸各有气息；当日气温、风力和园内开放区域，以官方公告与现场信息为准。</p>
@@ -313,9 +313,9 @@
       <pubDate>Wed, 25 Nov 2026 08:00:00 GMT</pubDate>
       <dc:creator>旅游攻略全世界</dc:creator>
       <dc:subject>国内游</dc:subject>
-      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/travel-guides/assets/world.jpg]]></poster>
-      <description><![CDATA[<p><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/travel-guides/assets/world.jpg" alt="" /></p><p>🏜️ 把一天留给敦煌的洞窟艺术 莫高窟位于敦煌城东南，鸣沙山脚下，是敦煌旅行中值得专门安排的一站。洞窟、壁画、彩塑、九层楼和文物展示共同构成完整参观体验。第一次去，可以先通过数字展览建立背景，再进入洞窟看壁画和彩塑，最后在九层楼和周边景观中收束一天。这样的顺序既能理解历史脉络，也能在现场把建筑与艺术联系起来。 莫高窟参观实行预约与分时安排，门票类别、开放时</p>]]></description>
-      <content:encoded><![CDATA[<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/travel-guides/assets/world.jpg" alt="中国·甘肃" /></figure>
+      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/travel-guides/assets/china-domestic.jpg]]></poster>
+      <description>&lt;p&gt;&lt;img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/travel-guides/assets/china-domestic.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;🏜️ 把一天留给敦煌的洞窟艺术 莫高窟位于敦煌城东南，鸣沙山脚下，是敦煌旅行中值得专门安排的一站。洞窟、壁画、彩塑、九层楼和文物展示共同构成完整参观体验。第一次去，可以先通过数字展览建立背景，再进入洞窟看壁画和彩塑，最后在九层楼和周边景观中收束一天。这样的顺序既能理解历史脉络，也能在现场把建筑与艺术联系起来。 莫高窟参观实行预约与分时安排，门票类别、开放时&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/travel-guides/assets/china-domestic.jpg" alt="中国·甘肃" /></figure>
 <h2>🏜️ 把一天留给敦煌的洞窟艺术</h2>
 <p>莫高窟位于敦煌城东南，鸣沙山脚下，是敦煌旅行中值得专门安排的一站。洞窟、壁画、彩塑、九层楼和文物展示共同构成完整参观体验。第一次去，可以先通过数字展览建立背景，再进入洞窟看壁画和彩塑，最后在九层楼和周边景观中收束一天。这样的顺序既能理解历史脉络，也能在现场把建筑与艺术联系起来。</p>
 <p>莫高窟参观实行预约与分时安排，门票类别、开放时段、数字电影场次及参观洞窟数量会随季节和运营方案变化。出发前请查看敦煌研究院等官方渠道的现行公告，并按预约时间抵达。文物保护要求以现场说明为准，安静参观、尊重洞窟环境，本身也是体验的一部分。</p>
@@ -354,9 +354,9 @@
       <pubDate>Wed, 25 Nov 2026 08:00:00 GMT</pubDate>
       <dc:creator>旅游攻略全世界</dc:creator>
       <dc:subject>国内游</dc:subject>
-      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/travel-guides/assets/world.jpg]]></poster>
-      <description><![CDATA[<p><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/travel-guides/assets/world.jpg" alt="" /></p><p>🚣 从杨堤上船，把漓江交给水路 杨堤至兴坪是漓江山水体验中很适合慢慢看的河段。若从桂林或阳朔出发，先确认当天的交通接驳、码头安排和游船类型，再把上午留给水路行程。船从杨堤附近出发后，视线逐渐被两岸峰林包围：山峰形态各异，有的挺拔，有的圆润，倒影随着水面和光线改变。沿江而行，旅程的重点是沉浸式观看。 行船时可把相机先放下几分钟，观察远处山形、近岸竹林和水面纹</p>]]></description>
-      <content:encoded><![CDATA[<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/travel-guides/assets/world.jpg" alt="中国·广西桂林" /></figure>
+      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/travel-guides/assets/china-domestic.jpg]]></poster>
+      <description>&lt;p&gt;&lt;img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/travel-guides/assets/china-domestic.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;🚣 从杨堤上船，把漓江交给水路 杨堤至兴坪是漓江山水体验中很适合慢慢看的河段。若从桂林或阳朔出发，先确认当天的交通接驳、码头安排和游船类型，再把上午留给水路行程。船从杨堤附近出发后，视线逐渐被两岸峰林包围：山峰形态各异，有的挺拔，有的圆润，倒影随着水面和光线改变。沿江而行，旅程的重点是沉浸式观看。 行船时可把相机先放下几分钟，观察远处山形、近岸竹林和水面纹&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/travel-guides/assets/china-domestic.jpg" alt="中国·广西桂林" /></figure>
 <h2>🚣 从杨堤上船，把漓江交给水路</h2>
 <p>杨堤至兴坪是漓江山水体验中很适合慢慢看的河段。若从桂林或阳朔出发，先确认当天的交通接驳、码头安排和游船类型，再把上午留给水路行程。船从杨堤附近出发后，视线逐渐被两岸峰林包围：山峰形态各异，有的挺拔，有的圆润，倒影随着水面和光线改变。沿江而行，旅程的重点是沉浸式观看。</p>
 <p>行船时可把相机先放下几分钟，观察远处山形、近岸竹林和水面纹理。船上讲解会介绍沿途地名与景观，可把听到的内容同岸边标识对应起来。不同船型、班次、航程和码头安排会随季节与管理情况变化，出发前以漓江景区及交通运营方的官方信息为准。携带轻便外套和饮水，天气转变时更容易保持舒适。</p>
@@ -391,9 +391,9 @@
       <pubDate>Wed, 25 Nov 2026 08:00:00 GMT</pubDate>
       <dc:creator>旅游攻略全世界</dc:creator>
       <dc:subject>国内游</dc:subject>
-      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/travel-guides/assets/world.jpg]]></poster>
-      <description><![CDATA[<p><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/travel-guides/assets/world.jpg" alt="" /></p><p>🏘️ 入寨先看山谷里的村落格局 西江千户苗寨依山而建，层层吊脚楼顺着山势铺展，沿着山谷形成极有辨识度的村落景观。第一次到访，可以先从观景位置远望整体，再沿村内道路慢慢走近。白天的木楼、屋顶与山林层次分明，村寨生活也在街巷间展开；到了傍晚，灯光逐步亮起，整个山谷呈现出另一种温暖的面貌。住上一晚，能把白天和夜色都收入行程。 从凯里前往西江，可根据当天交通选择直</p>]]></description>
-      <content:encoded><![CDATA[<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/travel-guides/assets/world.jpg" alt="中国·贵州黔东南" /></figure>
+      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/travel-guides/assets/china-domestic.jpg]]></poster>
+      <description>&lt;p&gt;&lt;img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/travel-guides/assets/china-domestic.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;🏘️ 入寨先看山谷里的村落格局 西江千户苗寨依山而建，层层吊脚楼顺着山势铺展，沿着山谷形成极有辨识度的村落景观。第一次到访，可以先从观景位置远望整体，再沿村内道路慢慢走近。白天的木楼、屋顶与山林层次分明，村寨生活也在街巷间展开；到了傍晚，灯光逐步亮起，整个山谷呈现出另一种温暖的面貌。住上一晚，能把白天和夜色都收入行程。 从凯里前往西江，可根据当天交通选择直&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/travel-guides/assets/china-domestic.jpg" alt="中国·贵州黔东南" /></figure>
 <h2>🏘️ 入寨先看山谷里的村落格局</h2>
 <p>西江千户苗寨依山而建，层层吊脚楼顺着山势铺展，沿着山谷形成极有辨识度的村落景观。第一次到访，可以先从观景位置远望整体，再沿村内道路慢慢走近。白天的木楼、屋顶与山林层次分明，村寨生活也在街巷间展开；到了傍晚，灯光逐步亮起，整个山谷呈现出另一种温暖的面貌。住上一晚，能把白天和夜色都收入行程。</p>
 <p>从凯里前往西江，可根据当天交通选择直达班车或其他接驳方式。班次、票务、进寨流程和观光车安排可能调整，出发前查看官方平台信息。抵达后先办理住宿，再轻装开始散步，方便把行李放下。村寨道路包含石阶和坡道，选择舒适鞋履，按体力分段游览，遇到观景平台就停下来看看山谷。</p>
@@ -427,9 +427,9 @@
       <pubDate>Wed, 25 Nov 2026 08:00:00 GMT</pubDate>
       <dc:creator>旅游攻略全世界</dc:creator>
       <dc:subject>国内游</dc:subject>
-      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/travel-guides/assets/world.jpg]]></poster>
-      <description><![CDATA[<p><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/travel-guides/assets/world.jpg" alt="" /></p><p>🌊 上岛先把一天交给海 蜈支洲岛位于三亚海棠湾一带，以清澈海水、珊瑚景观和水上活动受到旅行者喜爱。上岛游览可以先从码头乘船抵达，再根据天气、体力和兴趣决定步行、观光车或水上项目。岛周围海域拥有丰富的海洋生态，潜水时可在教练指导下观察珊瑚和热带鱼。每项活动均应选择正规运营服务，听从现场安全说明，并按个人身体状况决定体验内容。 船班和码头运营会受海况与管理安排</p>]]></description>
-      <content:encoded><![CDATA[<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/travel-guides/assets/world.jpg" alt="中国·海南三亚" /></figure>
+      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/travel-guides/assets/china-domestic.jpg]]></poster>
+      <description>&lt;p&gt;&lt;img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/travel-guides/assets/china-domestic.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;🌊 上岛先把一天交给海 蜈支洲岛位于三亚海棠湾一带，以清澈海水、珊瑚景观和水上活动受到旅行者喜爱。上岛游览可以先从码头乘船抵达，再根据天气、体力和兴趣决定步行、观光车或水上项目。岛周围海域拥有丰富的海洋生态，潜水时可在教练指导下观察珊瑚和热带鱼。每项活动均应选择正规运营服务，听从现场安全说明，并按个人身体状况决定体验内容。 船班和码头运营会受海况与管理安排&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/travel-guides/assets/china-domestic.jpg" alt="中国·海南三亚" /></figure>
 <h2>🌊 上岛先把一天交给海</h2>
 <p>蜈支洲岛位于三亚海棠湾一带，以清澈海水、珊瑚景观和水上活动受到旅行者喜爱。上岛游览可以先从码头乘船抵达，再根据天气、体力和兴趣决定步行、观光车或水上项目。岛周围海域拥有丰富的海洋生态，潜水时可在教练指导下观察珊瑚和热带鱼。每项活动均应选择正规运营服务，听从现场安全说明，并按个人身体状况决定体验内容。</p>
 <p>船班和码头运营会受海况与管理安排影响，出行前查看景区官方公告，按要求预留抵达码头的时间。门票、往返船票、潜水与观光车等项目可能分别预约或购买，详细内容以官方渠道为准。轻装上岛，带上防晒用品、饮水和备用衣物，方便在海边活动后更换。</p>
@@ -464,9 +464,9 @@
       <pubDate>Wed, 25 Nov 2026 08:00:00 GMT</pubDate>
       <dc:creator>旅游攻略全世界</dc:creator>
       <dc:subject>国内游</dc:subject>
-      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/travel-guides/assets/world.jpg]]></poster>
-      <description><![CDATA[<p><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/travel-guides/assets/world.jpg" alt="" /></p><p>🏯 从开元寺开始认识泉州 泉州古城的魅力，在于许多历史线索都藏在日常街巷之间。半日游可以从开元寺开始：先由山门进入寺院，沿中轴感受殿宇格局，再走向东西双塔。寺院开放时段、礼佛秩序和现场参观范围以官方公告为准，游览时保持安静，也给来此礼佛的市民留出空间。这里与西街相连，走出寺门就能接上西街，历史建筑、街边小店与生活气息自然连接。 开元寺最醒目的标志是镇国塔和</p>]]></description>
-      <content:encoded><![CDATA[<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/travel-guides/assets/world.jpg" alt="中国·福建泉州" /></figure>
+      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/travel-guides/assets/china-domestic.jpg]]></poster>
+      <description>&lt;p&gt;&lt;img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/travel-guides/assets/china-domestic.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;🏯 从开元寺开始认识泉州 泉州古城的魅力，在于许多历史线索都藏在日常街巷之间。半日游可以从开元寺开始：先由山门进入寺院，沿中轴感受殿宇格局，再走向东西双塔。寺院开放时段、礼佛秩序和现场参观范围以官方公告为准，游览时保持安静，也给来此礼佛的市民留出空间。这里与西街相连，走出寺门就能接上西街，历史建筑、街边小店与生活气息自然连接。 开元寺最醒目的标志是镇国塔和&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/travel-guides/assets/china-domestic.jpg" alt="中国·福建泉州" /></figure>
 <h2>🏯 从开元寺开始认识泉州</h2>
 <p>泉州古城的魅力，在于许多历史线索都藏在日常街巷之间。半日游可以从开元寺开始：先由山门进入寺院，沿中轴感受殿宇格局，再走向东西双塔。寺院开放时段、礼佛秩序和现场参观范围以官方公告为准，游览时保持安静，也给来此礼佛的市民留出空间。这里与西街相连，走出寺门就能接上西街，历史建筑、街边小店与生活气息自然连接。</p>
 <p>开元寺最醒目的标志是镇国塔和仁寿塔，两塔在古城天际线上格外突出。可以先从院中远看整体比例，再靠近观察塔身石构、门龛和浮雕。塔基束腰石刻有佛传图，人物姿态、衣纹和故事场景都值得驻足；塔身各层的浮雕也有不同细节。沿塔周围慢行一圈，视角会由正面转到侧面，石塔与树木、殿宇共同构成层层递进的画面。</p>
@@ -500,9 +500,9 @@
       <pubDate>Wed, 25 Nov 2026 08:00:00 GMT</pubDate>
       <dc:creator>旅游攻略全世界</dc:creator>
       <dc:subject>国内游</dc:subject>
-      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/travel-guides/assets/world.jpg]]></poster>
-      <description><![CDATA[<p><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/travel-guides/assets/world.jpg" alt="" /></p><p>💧 从成都平原读懂都江堰 都江堰适合用半天到一天慢慢走。它既是古代水利工程，也是成都平原山水格局的重要组成部分。顺着离堆公园进入景区，视线会从河道、堤坝和山体间展开：水流如何分配，江岸如何被引导，古人如何把工程融进自然地形，这些都可以在现场一步步看见。 景区位于成都近郊，资料记载可从成都搭乘列车到离堆公园站，再步行前往；也有旅游专线等方式。列车班次、车站安</p>]]></description>
-      <content:encoded><![CDATA[<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/travel-guides/assets/world.jpg" alt="中国·四川" /></figure>
+      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/travel-guides/assets/china-domestic.jpg]]></poster>
+      <description>&lt;p&gt;&lt;img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/travel-guides/assets/china-domestic.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;💧 从成都平原读懂都江堰 都江堰适合用半天到一天慢慢走。它既是古代水利工程，也是成都平原山水格局的重要组成部分。顺着离堆公园进入景区，视线会从河道、堤坝和山体间展开：水流如何分配，江岸如何被引导，古人如何把工程融进自然地形，这些都可以在现场一步步看见。 景区位于成都近郊，资料记载可从成都搭乘列车到离堆公园站，再步行前往；也有旅游专线等方式。列车班次、车站安&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/travel-guides/assets/china-domestic.jpg" alt="中国·四川" /></figure>
 <h2>💧 从成都平原读懂都江堰</h2>
 <p>都江堰适合用半天到一天慢慢走。它既是古代水利工程，也是成都平原山水格局的重要组成部分。顺着离堆公园进入景区，视线会从河道、堤坝和山体间展开：水流如何分配，江岸如何被引导，古人如何把工程融进自然地形，这些都可以在现场一步步看见。</p>
 <p>景区位于成都近郊，资料记载可从成都搭乘列车到离堆公园站，再步行前往；也有旅游专线等方式。列车班次、车站安排、景区开放与票务均属动态信息，出发前查阅官方公告。若从成都当天往返，可把上午留给工程核心区，午后安排青城山或市区文化景点，形成水利与山景相结合的一日。</p>
@@ -543,9 +543,9 @@
       <pubDate>Wed, 25 Nov 2026 08:00:00 GMT</pubDate>
       <dc:creator>旅游攻略全世界</dc:creator>
       <dc:subject>国内游</dc:subject>
-      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/travel-guides/assets/world.jpg]]></poster>
-      <description><![CDATA[<p><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/travel-guides/assets/world.jpg" alt="" /></p><p>🏛️ 从玛布日山脚下认识布达拉宫 布达拉宫坐落在拉萨市中心的玛布日山上，是规模宏大的宫殿式建筑群。远看时，白宫与红宫依山叠起，金色屋顶在日光下格外醒目；近看则能感受到墙体、台阶、窗格和殿宇层层向上展开的空间感。半日路线可先在宫殿外部寻找合适视角，再按照预约时段进入参观，最后步行到宗角禄康公园欣赏倒影。参观预约、门票和入宫规则以官方公告为准。 布达拉宫属于重</p>]]></description>
-      <content:encoded><![CDATA[<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/travel-guides/assets/world.jpg" alt="中国·西藏拉萨" /></figure>
+      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/travel-guides/assets/china-domestic.jpg]]></poster>
+      <description>&lt;p&gt;&lt;img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/travel-guides/assets/china-domestic.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;🏛️ 从玛布日山脚下认识布达拉宫 布达拉宫坐落在拉萨市中心的玛布日山上，是规模宏大的宫殿式建筑群。远看时，白宫与红宫依山叠起，金色屋顶在日光下格外醒目；近看则能感受到墙体、台阶、窗格和殿宇层层向上展开的空间感。半日路线可先在宫殿外部寻找合适视角，再按照预约时段进入参观，最后步行到宗角禄康公园欣赏倒影。参观预约、门票和入宫规则以官方公告为准。 布达拉宫属于重&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/travel-guides/assets/china-domestic.jpg" alt="中国·西藏拉萨" /></figure>
 <h2>🏛️ 从玛布日山脚下认识布达拉宫</h2>
 <p>布达拉宫坐落在拉萨市中心的玛布日山上，是规模宏大的宫殿式建筑群。远看时，白宫与红宫依山叠起，金色屋顶在日光下格外醒目；近看则能感受到墙体、台阶、窗格和殿宇层层向上展开的空间感。半日路线可先在宫殿外部寻找合适视角，再按照预约时段进入参观，最后步行到宗角禄康公园欣赏倒影。参观预约、门票和入宫规则以官方公告为准。</p>
 <p>布达拉宫属于重要宗教与文化空间，入内参观时应遵守着装、安检、摄影和礼仪要求。路线包含台阶与持续步行，建议穿舒适鞋，提前留出排队、安检和集合时间。拉萨海拔较高，初到者宜把行程安排得舒缓，饮水、休息和适应时间都很重要。身体状况与个人节奏优先于增加景点数量。</p>
@@ -579,9 +579,9 @@
       <pubDate>Wed, 25 Nov 2026 08:00:00 GMT</pubDate>
       <dc:creator>旅游攻略全世界</dc:creator>
       <dc:subject>国内游</dc:subject>
-      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/travel-guides/assets/world.jpg]]></poster>
-      <description><![CDATA[<p><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/travel-guides/assets/world.jpg" alt="" /></p><p>🌊 从滇池开始认识昆明 昆明的湖山路线，可以把滇池、海埂公园与西山龙门放在同一天。滇池被称作“高原明珠”，湖面宽阔，西山就在湖岸一侧抬起山势；冬季常有红嘴鸥到滇池越冬，海埂一带因此成为观鸟与看湖的热门区域。游览时先沿湖边散步，再安排上山看远景，能把水面近景与城市全貌连接起来。 资料记载的红嘴鸥季节为每年冬季，具体到达时间、数量和观赏条件会受气候影响。出发前</p>]]></description>
-      <content:encoded><![CDATA[<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/travel-guides/assets/world.jpg" alt="中国·云南" /></figure>
+      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/travel-guides/assets/china-domestic.jpg]]></poster>
+      <description>&lt;p&gt;&lt;img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/travel-guides/assets/china-domestic.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;🌊 从滇池开始认识昆明 昆明的湖山路线，可以把滇池、海埂公园与西山龙门放在同一天。滇池被称作“高原明珠”，湖面宽阔，西山就在湖岸一侧抬起山势；冬季常有红嘴鸥到滇池越冬，海埂一带因此成为观鸟与看湖的热门区域。游览时先沿湖边散步，再安排上山看远景，能把水面近景与城市全貌连接起来。 资料记载的红嘴鸥季节为每年冬季，具体到达时间、数量和观赏条件会受气候影响。出发前&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/travel-guides/assets/china-domestic.jpg" alt="中国·云南" /></figure>
 <h2>🌊 从滇池开始认识昆明</h2>
 <p>昆明的湖山路线，可以把滇池、海埂公园与西山龙门放在同一天。滇池被称作“高原明珠”，湖面宽阔，西山就在湖岸一侧抬起山势；冬季常有红嘴鸥到滇池越冬，海埂一带因此成为观鸟与看湖的热门区域。游览时先沿湖边散步，再安排上山看远景，能把水面近景与城市全貌连接起来。</p>
 <p>资料记载的红嘴鸥季节为每年冬季，具体到达时间、数量和观赏条件会受气候影响。出发前可以查看当地当日天气与景区信息，准备适合湖边风力的衣物。乘船、缆车和相关活动的开放情况以官方公告为准。</p>
