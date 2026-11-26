@@ -1,0 +1,158 @@
+{
+  "articleCount": 364,
+  "assetCount": 33,
+  "errorCount": 0,
+  "warningCount": 10,
+  "p2WarningCount": 0,
+  "autoFixes": [],
+  "publicBaseUrl": "https://anliangsa79-sleepybear.github.io/wenshi-rss/travel-guides",
+  "urlsContainChinese": false,
+  "titleTagImageWarnings": [
+    {
+      "slug": "china-anhui-huangshan-classic-route",
+      "title": "安徽黄山经典登山线：玉屏楼、光明顶和奇松云海",
+      "tags": [
+        "安徽",
+        "黄山",
+        "奇松云海"
+      ],
+      "fallback": "全世界"
+    },
+    {
+      "slug": "china-beijing-summer-palace",
+      "title": "北京颐和园半日游：沿长廊看万寿山和昆明湖",
+      "tags": [
+        "北京",
+        "颐和园",
+        "皇家园林"
+      ],
+      "fallback": "全世界"
+    },
+    {
+      "slug": "china-gansu-dunhuang-mogao",
+      "title": "甘肃敦煌莫高窟：九层楼、壁画彩塑与数字展览这样串起来",
+      "tags": [
+        "甘肃",
+        "敦煌",
+        "石窟艺术"
+      ],
+      "fallback": "全世界"
+    },
+    {
+      "slug": "china-guilin-li-river-yangdi-xingping",
+      "title": "广西桂林漓江精华段：杨堤到兴坪，沿途看九马画山与黄布倒影",
+      "tags": [
+        "广西",
+        "桂林",
+        "漓江山水"
+      ],
+      "fallback": "全世界"
+    },
+    {
+      "slug": "china-guizhou-xijiang-miao-village",
+      "title": "贵州西江千户苗寨住一晚：从吊脚楼走进山谷夜色",
+      "tags": [
+        "贵州",
+        "西江千户苗寨",
+        "吊脚楼夜景"
+      ],
+      "fallback": "全世界"
+    },
+    {
+      "slug": "china-hainan-wuzhizhou-island",
+      "title": "海南蜈支洲岛看珊瑚海：潜水体验与观日岩海景",
+      "tags": [
+        "海南",
+        "蜈支洲岛",
+        "珊瑚海"
+      ],
+      "fallback": "全世界"
+    },
+    {
+      "slug": "china-quanzhou-kaiyuan-west-street",
+      "title": "福建泉州开元寺与西街：双塔石刻串起古城半日游",
+      "tags": [
+        "福建",
+        "泉州",
+        "开元寺"
+      ],
+      "fallback": "全世界"
+    },
+    {
+      "slug": "china-sichuan-dujiangyan-waterworks",
+      "title": "四川都江堰一日：从离堆公园走读古代水利工程",
+      "tags": [
+        "四川",
+        "都江堰",
+        "古代水利"
+      ],
+      "fallback": "全世界"
+    },
+    {
+      "slug": "china-tibet-lhasa-potala-longwangtan",
+      "title": "西藏拉萨半日游：布达拉宫建筑群与龙王潭倒影",
+      "tags": [
+        "西藏",
+        "拉萨",
+        "宫殿与倒影"
+      ],
+      "fallback": "全世界"
+    },
+    {
+      "slug": "china-yunnan-kunming-dianchi",
+      "title": "云南昆明冬日滇池：海埂公园看红嘴鸥，再登西山龙门",
+      "tags": [
+        "云南",
+        "昆明",
+        "滇池观鸥"
+      ],
+      "fallback": "全世界"
+    }
+  ],
+  "imageUsage": {
+    "澳大利亚": 10,
+    "南美": 9,
+    "巴西": 9,
+    "文莱": 9,
+    "柬埔寨": 8,
+    "加拿大": 10,
+    "全世界": 31,
+    "埃及": 9,
+    "非洲": 9,
+    "斯堪的纳维亚": 10,
+    "法国": 11,
+    "德国": 11,
+    "印度": 11,
+    "印度尼西亚": 11,
+    "意大利": 11,
+    "日本": 11,
+    "韩国": 10,
+    "老挝": 11,
+    "中东": 10,
+    "马来西亚": 16,
+    "墨西哥": 10,
+    "北非": 9,
+    "东欧": 10,
+    "俄罗斯": 10,
+    "新加坡": 10,
+    "西班牙": 11,
+    "瑞士": 10,
+    "泰国": 12,
+    "土耳其": 11,
+    "中亚": 10,
+    "英国": 10,
+    "美国": 10,
+    "越南": 14
+  },
+  "sourceDir": "/Users/samuelan/Downloads/自研小工具/狐游全世界/RSS/articles-src",
+  "imageSourceDir": "/Users/samuelan/Downloads/自研小工具/狐游全世界/配图",
+  "imageProcessing": {
+    "format": "jpeg",
+    "maxSize": 1600,
+    "quality": 82
+  },
+  "maxAgeDays": 0,
+  "skippedOld": 0,
+  "skippedNoDate": 0,
+  "generatedAt": "2026-11-26T08:18:02.283Z"
+}

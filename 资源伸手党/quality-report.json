@@ -1,0 +1,123 @@
+{
+  "generatedAt": "2026-11-20T09:07:17.570Z",
+  "vertical": "资源伸手党",
+  "itemCount": 9,
+  "errorCount": 0,
+  "warningCount": 0,
+  "p1ErrorCount": 0,
+  "p1WarningCount": 0,
+  "p2ErrorCount": 0,
+  "p2WarningCount": 0,
+  "deduplicatedTitleCount": 0,
+  "errors": [],
+  "warnings": [],
+  "p2Errors": [],
+  "p2Warnings": [],
+  "autoFixes": [],
+  "sharedParagraphs": [],
+  "droppedSharedParagraphs": [],
+  "duplicateParagraphItems": [],
+  "duplicateMainImages": [],
+  "noImageItems": [],
+  "items": [
+    {
+      "title": "不知道一座城市长什么样？City Guesser放一段街景视频让你来猜",
+      "guid": "资源伸手党:6fe2c9f2ca",
+      "source": "资源伸手党/资源伸手党·小功能·02·CityGuesser·20261117-1530.md",
+      "bodyChars": 744,
+      "paragraphCount": 6,
+      "headingCount": 2,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "打开一页文档就能查多个开发库？DevDocs把常用文档收进一个搜索框",
+      "guid": "资源伸手党:1c8471fc0a",
+      "source": "资源伸手党/资源伸手党·小功能·05·DevDocs·20261117-1530.md",
+      "bodyChars": 790,
+      "paragraphCount": 6,
+      "headingCount": 2,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "想把脑子里的小想法讲给别人听？5个免费网站从草图、图标到一页图接起来",
+      "guid": "资源伸手党:97c742be1e",
+      "source": "资源伸手党/资源伸手党·成稿·03·把想法画出来·20261117-1530.md",
+      "bodyChars": 1025,
+      "paragraphCount": 12,
+      "headingCount": 0,
+      "imageCount": 5,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "想给一段家庭录音找个能用的处理办法？5个免费网站从剪辑、降噪到配乐排好",
+      "guid": "资源伸手党:fe8eff058c",
+      "source": "资源伸手党/资源伸手党·成稿·02·家庭录音处理·20261117-1530.md",
+      "bodyChars": 1222,
+      "paragraphCount": 12,
+      "headingCount": 0,
+      "imageCount": 5,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "想给周末找点安静的内容，不想一直刷短视频？5个免费入口把电影、广播和自然声排成一晚",
+      "guid": "资源伸手党:76f5150dfc",
+      "source": "资源伸手党/资源伸手党·成稿·04·安静内容一晚·20261117-1530.md",
+      "bodyChars": 1073,
+      "paragraphCount": 12,
+      "headingCount": 0,
+      "imageCount": 5,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "想和朋友临时玩点不用安装的小游戏？5个免费网页从猜国、猜城到知识问答接起来",
+      "guid": "资源伸手党:dd15585f16",
+      "source": "资源伸手党/资源伸手党·成稿·01·临时网页小游戏·20261117-1530.md",
+      "bodyChars": 1138,
+      "paragraphCount": 12,
+      "headingCount": 0,
+      "imageCount": 5,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "想开始学一门新语言，又不想先买课？5个免费入口从短练习到系统材料接起来",
+      "guid": "资源伸手党:c55a73a873",
+      "source": "资源伸手党/资源伸手党·成稿·05·新语言入门·20261117-1530.md",
+      "bodyChars": 1086,
+      "paragraphCount": 12,
+      "headingCount": 0,
+      "imageCount": 5,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "写东西前想把参考文献收好，Zotero先从浏览器抓下一条",
+      "guid": "资源伸手党:511db72e7a",
+      "source": "资源伸手党/资源伸手党·小功能·04·Zotero·20261117-1530.md",
+      "bodyChars": 788,
+      "paragraphCount": 6,
+      "headingCount": 2,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "只看一眼国家轮廓，Worldle每天几分钟把地理直觉练起来",
+      "guid": "资源伸手党:0005f7c630",
+      "source": "资源伸手党/资源伸手党·小功能·01·Worldle·20261117-1530.md",
+      "bodyChars": 732,
+      "paragraphCount": 6,
+      "headingCount": 2,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    }
+  ]
+}

@@ -1,0 +1,1073 @@
+{
+  "generatedAt": "2026-11-26T08:17:08.932Z",
+  "vertical": "案中案",
+  "itemCount": 65,
+  "errorCount": 0,
+  "warningCount": 1,
+  "p1ErrorCount": 0,
+  "p1WarningCount": 0,
+  "p2ErrorCount": 0,
+  "p2WarningCount": 1,
+  "deduplicatedTitleCount": 0,
+  "errors": [],
+  "warnings": [],
+  "p2Errors": [],
+  "p2Warnings": [
+    "发现 1 张主图被多个文章复用，需核对图片归属"
+  ],
+  "autoFixes": [],
+  "sharedParagraphs": [],
+  "droppedSharedParagraphs": [],
+  "duplicateParagraphItems": [],
+  "duplicateMainImages": [
+    {
+      "url": "https://q6.itc.cn/images01/20261106/73836afe42564c768936c3c97013924c.png",
+      "count": 65,
+      "owners": [
+        {
+          "title": "一分钟破案｜百货公司广播找孩子，探长守了一小时没见孩子，也没见两名接头人碰面",
+          "guid": "案中案:c9ad457296",
+          "source": "案中案/20261125_一分钟破案_30.md"
+        },
+        {
+          "title": "一分钟破案｜报案人说隔着起雾的窗户看见屋内尸体，警察到场后先查玻璃",
+          "guid": "案中案:43709fa7ba",
+          "source": "案中案/20261125_一分钟破案_31.md"
+        },
+        {
+          "title": "一分钟破案｜北海道农舍的门窗全从里面锁着，独居者却死在屋内",
+          "guid": "案中案:d44c21ef51",
+          "source": "案中案/20261125_一分钟破案_09.md"
+        },
+        {
+          "title": "一分钟破案｜别墅外的脚印走到一半突然断了，价值千万的古董也不见了",
+          "guid": "案中案:f0b7498022",
+          "source": "案中案/20261125_一分钟破案_06.md"
+        },
+        {
+          "title": "一分钟破案｜出纳员说十万元被人抢走，手提包还在，警察却先查她的说法",
+          "guid": "案中案:0e73493be0",
+          "source": "案中案/20261125_一分钟破案_26.md"
+        },
+        {
+          "title": "一分钟破案｜船长离舱五分钟钱就不见了，三副说自己在船尾整理国旗",
+          "guid": "案中案:982d377c7a",
+          "source": "案中案/20261125_一分钟破案_32.md"
+        },
+        {
+          "title": "一分钟破案｜盗墓者说25名手下分了100块壁画，警长听完人数反而把他扣下",
+          "guid": "案中案:aeb90d60af",
+          "source": "案中案/20261125_一分钟破案_33.md"
+        },
+        {
+          "title": "一分钟破案｜独居男子下班回家，整栋别墅的家具都被搬空，白天竟没人报警",
+          "guid": "案中案:098e24fb15",
+          "source": "案中案/20261125_一分钟破案_07.md"
+        },
+        {
+          "title": "一分钟破案｜法医说死了三四天，警察却从腕表判断尸体昨夜才到山谷",
+          "guid": "案中案:ba9fa6408e",
+          "source": "案中案/20261125_一分钟破案_11.md"
+        },
+        {
+          "title": "一分钟破案｜豪车停在咖啡馆门外，主人谈完生意发现车没了，路人却说没见人偷车",
+          "guid": "案中案:b5029f6bf3",
+          "source": "案中案/20261125_一分钟破案_18.md"
+        },
+        {
+          "title": "一分钟破案｜划船人说亲眼看见女孩从桥上跳河，警察却先问他当时怎样划船",
+          "guid": "案中案:07fc9d9820",
+          "source": "案中案/20261125_一分钟破案_29.md"
+        },
+        {
+          "title": "一分钟破案｜竞争对手偷拍董事会，影片没有声音，情报员却说仍能知道谈了什么",
+          "guid": "案中案:dfcf596c95",
+          "source": "案中案/20261125_一分钟破案_17.md"
+        },
+        {
+          "title": "一分钟破案｜狼和狐狸都说昨天是自己撒谎的日子，它们究竟在星期几相遇",
+          "guid": "案中案:753e596432",
+          "source": "案中案/20261125_一分钟破案_13.md"
+        },
+        {
+          "title": "一分钟破案｜老人中枪倒在家门前，两个路人都戴着手套，警长先叫住说得最细的那位",
+          "guid": "案中案:3941c47c42",
+          "source": "案中案/20261125_一分钟破案_03.md"
+        },
+        {
+          "title": "一分钟破案｜两个探险者被困涨水的谷底，软梯却只能承受一个人的重量",
+          "guid": "案中案:334049aaa8",
+          "source": "案中案/20261125_一分钟破案_24.md"
+        },
+        {
+          "title": "一分钟破案｜邻居说在对面窗上看见行凶者的影子，警察进屋后先看台灯",
+          "guid": "案中案:fd645887f8",
+          "source": "案中案/20261125_一分钟破案_22.md"
+        },
+        {
+          "title": "一分钟破案｜麦田连夜少了几垄，警察埋伏在空地里，偷麦的人却没发现他们",
+          "guid": "案中案:22ede9274c",
+          "source": "案中案/20261125_一分钟破案_01.md"
+        },
+        {
+          "title": "一分钟破案｜门窗反锁的房间里发现死者，唯一的钥匙却平放在桌上",
+          "guid": "案中案:0a417d4f42",
+          "source": "案中案/20261125_一分钟破案_02.md"
+        },
+        {
+          "title": "一分钟破案｜名画家留给侄女一只信封，里面是一张画着花草的信纸",
+          "guid": "案中案:41459ba4db",
+          "source": "案中案/20261125_一分钟破案_20.md"
+        },
+        {
+          "title": "一分钟破案｜男子称昨天才从沙漠归来，侦探看着他的脸，劝人别投那座金矿",
+          "guid": "案中案:9490c9004f",
+          "source": "案中案/20261125_一分钟破案_28.md"
+        },
+        {
+          "title": "一分钟破案｜男子死在门窗反锁的房里，半小时前来访的朋友却已走远",
+          "guid": "案中案:628bb87767",
+          "source": "案中案/20261125_一分钟破案_05.md"
+        },
+        {
+          "title": "一分钟破案｜女子说劫匪从街上冲进大楼逃生门，警察听完先去试那扇门",
+          "guid": "案中案:817cb617d3",
+          "source": "案中案/20261125_一分钟破案_14.md"
+        },
+        {
+          "title": "一分钟破案｜三人凑三十元买芒果，钱退了、护士也留了，账面为何还差一元",
+          "guid": "案中案:00389cac6f",
+          "source": "案中案/20261125_一分钟破案_16.md"
+        },
+        {
+          "title": "一分钟破案｜沙滩上有死者脚印，却没有凶手来去的半个脚印",
+          "guid": "案中案:ed2840214e",
+          "source": "案中案/20261125_一分钟破案_21.md"
+        },
+        {
+          "title": "一分钟破案｜圣彼得堡冬夜的舞厅打开窗透气，屋里反倒下起雪",
+          "guid": "案中案:0316209d7a",
+          "source": "案中案/20261125_一分钟破案_23.md"
+        },
+        {
+          "title": "一分钟破案｜说谎岛上两个部落一真一假，向导转述一句话后，游客知道了他的身份",
+          "guid": "案中案:602ad961d0",
+          "source": "案中案/20261125_一分钟破案_04.md"
+        },
+        {
+          "title": "一分钟破案｜台风后的公园里发现女子遗体，警察看完她身旁的帽子就换了调查地点",
+          "guid": "案中案:fcb8d65434",
+          "source": "案中案/20261125_一分钟破案_25.md"
+        },
+        {
+          "title": "一分钟破案｜嫌疑人整晚没离开市区，尸体却出现在二十公里外的铁道旁",
+          "guid": "案中案:b961de698e",
+          "source": "案中案/20261125_一分钟破案_10.md"
+        },
+        {
+          "title": "一分钟破案｜雪夜弯道撞伤一名醉汉，两辆车都有凹痕，警察却只看地上的车辙",
+          "guid": "案中案:8862c7bed1",
+          "source": "案中案/20261125_一分钟破案_08.md"
+        },
+        {
+          "title": "一分钟破案｜一幅画里的四名武士同时拔剑，收藏家只看一眼就说画不可能是真的",
+          "guid": "案中案:1612cd0fe2",
+          "source": "案中案/20261125_一分钟破案_34.md"
+        },
+        {
+          "title": "一分钟破案｜园艺家兜售一盆年年开花的珍稀植物，侦探听完劝朋友收起钱包",
+          "guid": "案中案:f65f02eea9",
+          "source": "案中案/20261125_一分钟破案_27.md"
+        },
+        {
+          "title": "一分钟破案｜展览馆一幅名画失窃，画框旁的几只苍蝇让警探盯上一位访客",
+          "guid": "案中案:6974e9e18b",
+          "source": "案中案/20261125_一分钟破案_19.md"
+        },
+        {
+          "title": "一分钟破案｜纸隔墙两边同时出现人影，屋里却只亮着一盏灯",
+          "guid": "案中案:d41b63310a",
+          "source": "案中案/20261125_一分钟破案_12.md"
+        },
+        {
+          "title": "一分钟破案｜中秋后半个月，佛塔上的佛珠丢了，徒弟说自己借月光看见了贼",
+          "guid": "案中案:f3727b25ac",
+          "source": "案中案/20261125_一分钟破案_35.md"
+        },
+        {
+          "title": "一分钟破案｜周六早上丢了一万元，两名嫌疑人都带着一万元，只有一人的来历对不上",
+          "guid": "案中案:95e465d01d",
+          "source": "案中案/20261125_一分钟破案_15.md"
+        },
+        {
+          "title": "一分钟破案｜白纸没有字，织针却留了话",
+          "guid": "案中案:d5830d2aee",
+          "source": "案中案/20261124_一分钟破案_21.md"
+        },
+        {
+          "title": "一分钟破案｜出差一个月，挂钟还在走",
+          "guid": "案中案:77cb8a5a3a",
+          "source": "案中案/20261124_一分钟破案_01.md"
+        },
+        {
+          "title": "一分钟破案｜船夫来催船，先喊了贾大嫂",
+          "guid": "案中案:acc34cab98",
+          "source": "案中案/20261124_一分钟破案_18.md"
+        },
+        {
+          "title": "一分钟破案｜第三个抽屉锁着，钱却没了",
+          "guid": "案中案:e5466c927a",
+          "source": "案中案/20261124_一分钟破案_16.md"
+        },
+        {
+          "title": "一分钟破案｜戈壁照片里，骆驼少了什么",
+          "guid": "案中案:42b58ac4f2",
+          "source": "案中案/20261124_一分钟破案_03.md"
+        },
+        {
+          "title": "一分钟破案｜箭从高窗来，伤口却朝上",
+          "guid": "案中案:5c39386f8e",
+          "source": "案中案/20261124_一分钟破案_19.md"
+        },
+        {
+          "title": "一分钟破案｜金杯失窃，玻璃为何碎满地",
+          "guid": "案中案:31ca787b9d",
+          "source": "案中案/20261124_一分钟破案_17.md"
+        },
+        {
+          "title": "一分钟破案｜金发女郎过关后，黄金还在机场",
+          "guid": "案中案:47570a1eae",
+          "source": "案中案/20261124_一分钟破案_14.md"
+        },
+        {
+          "title": "一分钟破案｜金库右边的半截蜡烛",
+          "guid": "案中案:20c9788552",
+          "source": "案中案/20261124_一分钟破案_11.md"
+        },
+        {
+          "title": "一分钟破案｜空别墅的烟囱，先开了口",
+          "guid": "案中案:fe882ea06f",
+          "source": "案中案/20261124_一分钟破案_08.md"
+        },
+        {
+          "title": "一分钟破案｜两年无人来，衣橱却还有樟脑丸",
+          "guid": "案中案:84ba5fe377",
+          "source": "案中案/20261124_一分钟破案_30.md"
+        },
+        {
+          "title": "一分钟破案｜两位牙医，谁的牙更糟",
+          "guid": "案中案:0c23e4359e",
+          "source": "案中案/20261124_一分钟破案_23.md"
+        },
+        {
+          "title": "一分钟破案｜六楼开着窗，凶器却不见了",
+          "guid": "案中案:9b118a8a78",
+          "source": "案中案/20261124_一分钟破案_13.md"
+        },
+        {
+          "title": "一分钟破案｜没人听见呼救，警察却赶到了",
+          "guid": "案中案:726d8ed245",
+          "source": "案中案/20261124_一分钟破案_25.md"
+        },
+        {
+          "title": "一分钟破案｜没有船桨，三人却渡过了河",
+          "guid": "案中案:ccb202841d",
+          "source": "案中案/20261124_一分钟破案_12.md"
+        },
+        {
+          "title": "一分钟破案｜泥地上只有离开的脚印",
+          "guid": "案中案:bdb854c5d8",
+          "source": "案中案/20261124_一分钟破案_15.md"
+        },
+        {
+          "title": "一分钟破案｜前轮锁住，自行车却骑走了",
+          "guid": "案中案:fa6f8369bf",
+          "source": "案中案/20261124_一分钟破案_05.md"
+        },
+        {
+          "title": "一分钟破案｜全场熄灯，枪口却没偏",
+          "guid": "案中案:9eebfe71a6",
+          "source": "案中案/20261124_一分钟破案_02.md"
+        },
+        {
+          "title": "一分钟破案｜人被抓住了，刀却没找到",
+          "guid": "案中案:38600d75e8",
+          "source": "案中案/20261124_一分钟破案_09.md"
+        },
+        {
+          "title": "一分钟破案｜赎金要寄往一条不存在的街",
+          "guid": "案中案:9da687175d",
+          "source": "案中案/20261124_一分钟破案_24.md"
+        },
+        {
+          "title": "一分钟破案｜死者留下的录音，谁按了倒带",
+          "guid": "案中案:d9be745ed2",
+          "source": "案中案/20261124_一分钟破案_06.md"
+        },
+        {
+          "title": "一分钟破案｜他报十点半，纽约已过十一点",
+          "guid": "案中案:3f48fe23db",
+          "source": "案中案/20261124_一分钟破案_22.md"
+        },
+        {
+          "title": "一分钟破案｜梯子脚印与尸体，站错了边",
+          "guid": "案中案:ea1bdc9809",
+          "source": "案中案/20261124_一分钟破案_10.md"
+        },
+        {
+          "title": "一分钟破案｜停电整夜，他却说读到深夜",
+          "guid": "案中案:61dee5f41f",
+          "source": "案中案/20261124_一分钟破案_20.md"
+        },
+        {
+          "title": "一分钟破案｜同一把刀削苹果，只有一人倒下",
+          "guid": "案中案:a5b3e0d76f",
+          "source": "案中案/20261124_一分钟破案_27.md"
+        },
+        {
+          "title": "一分钟破案｜屋顶开枪，弹道为何朝上",
+          "guid": "案中案:536a711f84",
+          "source": "案中案/20261124_一分钟破案_28.md"
+        },
+        {
+          "title": "一分钟破案｜雪夜来客，墨镜里藏着雾",
+          "guid": "案中案:70fe4ea4f4",
+          "source": "案中案/20261124_一分钟破案_07.md"
+        },
+        {
+          "title": "一分钟破案｜钥匙孔里看见人，一枪却落空",
+          "guid": "案中案:9a2eda9ee9",
+          "source": "案中案/20261124_一分钟破案_29.md"
+        },
+        {
+          "title": "一分钟破案｜一块豆腐，砸得人头破血流",
+          "guid": "案中案:871f9bb311",
+          "source": "案中案/20261124_一分钟破案_26.md"
+        },
+        {
+          "title": "一分钟破案｜一只足球，为何进了检查室",
+          "guid": "案中案:2664c1564f",
+          "source": "案中案/20261124_一分钟破案_04.md"
+        }
+      ]
+    }
+  ],
+  "noImageItems": [],
+  "items": [
+    {
+      "title": "一分钟破案｜百货公司广播找孩子，探长守了一小时没见孩子，也没见两名接头人碰面",
+      "guid": "案中案:c9ad457296",
+      "source": "案中案/20261125_一分钟破案_30.md",
+      "bodyChars": 625,
+      "paragraphCount": 8,
+      "headingCount": 0,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "一分钟破案｜报案人说隔着起雾的窗户看见屋内尸体，警察到场后先查玻璃",
+      "guid": "案中案:43709fa7ba",
+      "source": "案中案/20261125_一分钟破案_31.md",
+      "bodyChars": 596,
+      "paragraphCount": 8,
+      "headingCount": 0,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "一分钟破案｜北海道农舍的门窗全从里面锁着，独居者却死在屋内",
+      "guid": "案中案:d44c21ef51",
+      "source": "案中案/20261125_一分钟破案_09.md",
+      "bodyChars": 601,
+      "paragraphCount": 8,
+      "headingCount": 0,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "一分钟破案｜别墅外的脚印走到一半突然断了，价值千万的古董也不见了",
+      "guid": "案中案:f0b7498022",
+      "source": "案中案/20261125_一分钟破案_06.md",
+      "bodyChars": 592,
+      "paragraphCount": 8,
+      "headingCount": 0,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "一分钟破案｜出纳员说十万元被人抢走，手提包还在，警察却先查她的说法",
+      "guid": "案中案:0e73493be0",
+      "source": "案中案/20261125_一分钟破案_26.md",
+      "bodyChars": 603,
+      "paragraphCount": 8,
+      "headingCount": 0,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "一分钟破案｜船长离舱五分钟钱就不见了，三副说自己在船尾整理国旗",
+      "guid": "案中案:982d377c7a",
+      "source": "案中案/20261125_一分钟破案_32.md",
+      "bodyChars": 580,
+      "paragraphCount": 8,
+      "headingCount": 0,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "一分钟破案｜盗墓者说25名手下分了100块壁画，警长听完人数反而把他扣下",
+      "guid": "案中案:aeb90d60af",
+      "source": "案中案/20261125_一分钟破案_33.md",
+      "bodyChars": 597,
+      "paragraphCount": 8,
+      "headingCount": 0,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "一分钟破案｜独居男子下班回家，整栋别墅的家具都被搬空，白天竟没人报警",
+      "guid": "案中案:098e24fb15",
+      "source": "案中案/20261125_一分钟破案_07.md",
+      "bodyChars": 580,
+      "paragraphCount": 8,
+      "headingCount": 0,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "一分钟破案｜法医说死了三四天，警察却从腕表判断尸体昨夜才到山谷",
+      "guid": "案中案:ba9fa6408e",
+      "source": "案中案/20261125_一分钟破案_11.md",
+      "bodyChars": 603,
+      "paragraphCount": 8,
+      "headingCount": 0,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "一分钟破案｜豪车停在咖啡馆门外，主人谈完生意发现车没了，路人却说没见人偷车",
+      "guid": "案中案:b5029f6bf3",
+      "source": "案中案/20261125_一分钟破案_18.md",
+      "bodyChars": 573,
+      "paragraphCount": 8,
+      "headingCount": 0,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "一分钟破案｜划船人说亲眼看见女孩从桥上跳河，警察却先问他当时怎样划船",
+      "guid": "案中案:07fc9d9820",
+      "source": "案中案/20261125_一分钟破案_29.md",
+      "bodyChars": 578,
+      "paragraphCount": 8,
+      "headingCount": 0,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "一分钟破案｜竞争对手偷拍董事会，影片没有声音，情报员却说仍能知道谈了什么",
+      "guid": "案中案:dfcf596c95",
+      "source": "案中案/20261125_一分钟破案_17.md",
+      "bodyChars": 607,
+      "paragraphCount": 8,
+      "headingCount": 0,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "一分钟破案｜狼和狐狸都说昨天是自己撒谎的日子，它们究竟在星期几相遇",
+      "guid": "案中案:753e596432",
+      "source": "案中案/20261125_一分钟破案_13.md",
+      "bodyChars": 574,
+      "paragraphCount": 8,
+      "headingCount": 0,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "一分钟破案｜老人中枪倒在家门前，两个路人都戴着手套，警长先叫住说得最细的那位",
+      "guid": "案中案:3941c47c42",
+      "source": "案中案/20261125_一分钟破案_03.md",
+      "bodyChars": 603,
+      "paragraphCount": 8,
+      "headingCount": 0,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "一分钟破案｜两个探险者被困涨水的谷底，软梯却只能承受一个人的重量",
+      "guid": "案中案:334049aaa8",
+      "source": "案中案/20261125_一分钟破案_24.md",
+      "bodyChars": 584,
+      "paragraphCount": 8,
+      "headingCount": 0,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "一分钟破案｜邻居说在对面窗上看见行凶者的影子，警察进屋后先看台灯",
+      "guid": "案中案:fd645887f8",
+      "source": "案中案/20261125_一分钟破案_22.md",
+      "bodyChars": 607,
+      "paragraphCount": 8,
+      "headingCount": 0,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "一分钟破案｜麦田连夜少了几垄，警察埋伏在空地里，偷麦的人却没发现他们",
+      "guid": "案中案:22ede9274c",
+      "source": "案中案/20261125_一分钟破案_01.md",
+      "bodyChars": 640,
+      "paragraphCount": 8,
+      "headingCount": 0,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "一分钟破案｜门窗反锁的房间里发现死者，唯一的钥匙却平放在桌上",
+      "guid": "案中案:0a417d4f42",
+      "source": "案中案/20261125_一分钟破案_02.md",
+      "bodyChars": 640,
+      "paragraphCount": 8,
+      "headingCount": 0,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "一分钟破案｜名画家留给侄女一只信封，里面是一张画着花草的信纸",
+      "guid": "案中案:41459ba4db",
+      "source": "案中案/20261125_一分钟破案_20.md",
+      "bodyChars": 586,
+      "paragraphCount": 8,
+      "headingCount": 0,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "一分钟破案｜男子称昨天才从沙漠归来，侦探看着他的脸，劝人别投那座金矿",
+      "guid": "案中案:9490c9004f",
+      "source": "案中案/20261125_一分钟破案_28.md",
+      "bodyChars": 605,
+      "paragraphCount": 8,
+      "headingCount": 0,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "一分钟破案｜男子死在门窗反锁的房里，半小时前来访的朋友却已走远",
+      "guid": "案中案:628bb87767",
+      "source": "案中案/20261125_一分钟破案_05.md",
+      "bodyChars": 603,
+      "paragraphCount": 8,
+      "headingCount": 0,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "一分钟破案｜女子说劫匪从街上冲进大楼逃生门，警察听完先去试那扇门",
+      "guid": "案中案:817cb617d3",
+      "source": "案中案/20261125_一分钟破案_14.md",
+      "bodyChars": 599,
+      "paragraphCount": 8,
+      "headingCount": 0,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "一分钟破案｜三人凑三十元买芒果，钱退了、护士也留了，账面为何还差一元",
+      "guid": "案中案:00389cac6f",
+      "source": "案中案/20261125_一分钟破案_16.md",
+      "bodyChars": 598,
+      "paragraphCount": 8,
+      "headingCount": 0,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "一分钟破案｜沙滩上有死者脚印，却没有凶手来去的半个脚印",
+      "guid": "案中案:ed2840214e",
+      "source": "案中案/20261125_一分钟破案_21.md",
+      "bodyChars": 602,
+      "paragraphCount": 8,
+      "headingCount": 0,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "一分钟破案｜圣彼得堡冬夜的舞厅打开窗透气，屋里反倒下起雪",
+      "guid": "案中案:0316209d7a",
+      "source": "案中案/20261125_一分钟破案_23.md",
+      "bodyChars": 594,
+      "paragraphCount": 8,
+      "headingCount": 0,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "一分钟破案｜说谎岛上两个部落一真一假，向导转述一句话后，游客知道了他的身份",
+      "guid": "案中案:602ad961d0",
+      "source": "案中案/20261125_一分钟破案_04.md",
+      "bodyChars": 621,
+      "paragraphCount": 8,
+      "headingCount": 0,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "一分钟破案｜台风后的公园里发现女子遗体，警察看完她身旁的帽子就换了调查地点",
+      "guid": "案中案:fcb8d65434",
+      "source": "案中案/20261125_一分钟破案_25.md",
+      "bodyChars": 591,
+      "paragraphCount": 8,
+      "headingCount": 0,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "一分钟破案｜嫌疑人整晚没离开市区，尸体却出现在二十公里外的铁道旁",
+      "guid": "案中案:b961de698e",
+      "source": "案中案/20261125_一分钟破案_10.md",
+      "bodyChars": 588,
+      "paragraphCount": 8,
+      "headingCount": 0,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "一分钟破案｜雪夜弯道撞伤一名醉汉，两辆车都有凹痕，警察却只看地上的车辙",
+      "guid": "案中案:8862c7bed1",
+      "source": "案中案/20261125_一分钟破案_08.md",
+      "bodyChars": 581,
+      "paragraphCount": 8,
+      "headingCount": 0,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "一分钟破案｜一幅画里的四名武士同时拔剑，收藏家只看一眼就说画不可能是真的",
+      "guid": "案中案:1612cd0fe2",
+      "source": "案中案/20261125_一分钟破案_34.md",
+      "bodyChars": 603,
+      "paragraphCount": 8,
+      "headingCount": 0,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "一分钟破案｜园艺家兜售一盆年年开花的珍稀植物，侦探听完劝朋友收起钱包",
+      "guid": "案中案:f65f02eea9",
+      "source": "案中案/20261125_一分钟破案_27.md",
+      "bodyChars": 590,
+      "paragraphCount": 8,
+      "headingCount": 0,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "一分钟破案｜展览馆一幅名画失窃，画框旁的几只苍蝇让警探盯上一位访客",
+      "guid": "案中案:6974e9e18b",
+      "source": "案中案/20261125_一分钟破案_19.md",
+      "bodyChars": 600,
+      "paragraphCount": 8,
+      "headingCount": 0,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "一分钟破案｜纸隔墙两边同时出现人影，屋里却只亮着一盏灯",
+      "guid": "案中案:d41b63310a",
+      "source": "案中案/20261125_一分钟破案_12.md",
+      "bodyChars": 588,
+      "paragraphCount": 8,
+      "headingCount": 0,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "一分钟破案｜中秋后半个月，佛塔上的佛珠丢了，徒弟说自己借月光看见了贼",
+      "guid": "案中案:f3727b25ac",
+      "source": "案中案/20261125_一分钟破案_35.md",
+      "bodyChars": 595,
+      "paragraphCount": 8,
+      "headingCount": 0,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "一分钟破案｜周六早上丢了一万元，两名嫌疑人都带着一万元，只有一人的来历对不上",
+      "guid": "案中案:95e465d01d",
+      "source": "案中案/20261125_一分钟破案_15.md",
+      "bodyChars": 578,
+      "paragraphCount": 8,
+      "headingCount": 0,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "一分钟破案｜白纸没有字，织针却留了话",
+      "guid": "案中案:d5830d2aee",
+      "source": "案中案/20261124_一分钟破案_21.md",
+      "bodyChars": 623,
+      "paragraphCount": 8,
+      "headingCount": 0,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "一分钟破案｜出差一个月，挂钟还在走",
+      "guid": "案中案:77cb8a5a3a",
+      "source": "案中案/20261124_一分钟破案_01.md",
+      "bodyChars": 655,
+      "paragraphCount": 8,
+      "headingCount": 0,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "一分钟破案｜船夫来催船，先喊了贾大嫂",
+      "guid": "案中案:acc34cab98",
+      "source": "案中案/20261124_一分钟破案_18.md",
+      "bodyChars": 601,
+      "paragraphCount": 8,
+      "headingCount": 0,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "一分钟破案｜第三个抽屉锁着，钱却没了",
+      "guid": "案中案:e5466c927a",
+      "source": "案中案/20261124_一分钟破案_16.md",
+      "bodyChars": 608,
+      "paragraphCount": 8,
+      "headingCount": 0,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "一分钟破案｜戈壁照片里，骆驼少了什么",
+      "guid": "案中案:42b58ac4f2",
+      "source": "案中案/20261124_一分钟破案_03.md",
+      "bodyChars": 621,
+      "paragraphCount": 8,
+      "headingCount": 0,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "一分钟破案｜箭从高窗来，伤口却朝上",
+      "guid": "案中案:5c39386f8e",
+      "source": "案中案/20261124_一分钟破案_19.md",
+      "bodyChars": 596,
+      "paragraphCount": 8,
+      "headingCount": 0,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "一分钟破案｜金杯失窃，玻璃为何碎满地",
+      "guid": "案中案:31ca787b9d",
+      "source": "案中案/20261124_一分钟破案_17.md",
+      "bodyChars": 607,
+      "paragraphCount": 8,
+      "headingCount": 0,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "一分钟破案｜金发女郎过关后，黄金还在机场",
+      "guid": "案中案:47570a1eae",
+      "source": "案中案/20261124_一分钟破案_14.md",
+      "bodyChars": 627,
+      "paragraphCount": 8,
+      "headingCount": 0,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "一分钟破案｜金库右边的半截蜡烛",
+      "guid": "案中案:20c9788552",
+      "source": "案中案/20261124_一分钟破案_11.md",
+      "bodyChars": 614,
+      "paragraphCount": 8,
+      "headingCount": 0,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "一分钟破案｜空别墅的烟囱，先开了口",
+      "guid": "案中案:fe882ea06f",
+      "source": "案中案/20261124_一分钟破案_08.md",
+      "bodyChars": 608,
+      "paragraphCount": 8,
+      "headingCount": 0,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "一分钟破案｜两年无人来，衣橱却还有樟脑丸",
+      "guid": "案中案:84ba5fe377",
+      "source": "案中案/20261124_一分钟破案_30.md",
+      "bodyChars": 611,
+      "paragraphCount": 8,
+      "headingCount": 0,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "一分钟破案｜两位牙医，谁的牙更糟",
+      "guid": "案中案:0c23e4359e",
+      "source": "案中案/20261124_一分钟破案_23.md",
+      "bodyChars": 642,
+      "paragraphCount": 8,
+      "headingCount": 0,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "一分钟破案｜六楼开着窗，凶器却不见了",
+      "guid": "案中案:9b118a8a78",
+      "source": "案中案/20261124_一分钟破案_13.md",
+      "bodyChars": 589,
+      "paragraphCount": 8,
+      "headingCount": 0,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "一分钟破案｜没人听见呼救，警察却赶到了",
+      "guid": "案中案:726d8ed245",
+      "source": "案中案/20261124_一分钟破案_25.md",
+      "bodyChars": 589,
+      "paragraphCount": 8,
+      "headingCount": 0,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "一分钟破案｜没有船桨，三人却渡过了河",
+      "guid": "案中案:ccb202841d",
+      "source": "案中案/20261124_一分钟破案_12.md",
+      "bodyChars": 593,
+      "paragraphCount": 8,
+      "headingCount": 0,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "一分钟破案｜泥地上只有离开的脚印",
+      "guid": "案中案:bdb854c5d8",
+      "source": "案中案/20261124_一分钟破案_15.md",
+      "bodyChars": 598,
+      "paragraphCount": 8,
+      "headingCount": 0,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "一分钟破案｜前轮锁住，自行车却骑走了",
+      "guid": "案中案:fa6f8369bf",
+      "source": "案中案/20261124_一分钟破案_05.md",
+      "bodyChars": 599,
+      "paragraphCount": 8,
+      "headingCount": 0,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "一分钟破案｜全场熄灯，枪口却没偏",
+      "guid": "案中案:9eebfe71a6",
+      "source": "案中案/20261124_一分钟破案_02.md",
+      "bodyChars": 621,
+      "paragraphCount": 8,
+      "headingCount": 0,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "一分钟破案｜人被抓住了，刀却没找到",
+      "guid": "案中案:38600d75e8",
+      "source": "案中案/20261124_一分钟破案_09.md",
+      "bodyChars": 607,
+      "paragraphCount": 8,
+      "headingCount": 0,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "一分钟破案｜赎金要寄往一条不存在的街",
+      "guid": "案中案:9da687175d",
+      "source": "案中案/20261124_一分钟破案_24.md",
+      "bodyChars": 610,
+      "paragraphCount": 8,
+      "headingCount": 0,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "一分钟破案｜死者留下的录音，谁按了倒带",
+      "guid": "案中案:d9be745ed2",
+      "source": "案中案/20261124_一分钟破案_06.md",
+      "bodyChars": 640,
+      "paragraphCount": 8,
+      "headingCount": 0,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "一分钟破案｜他报十点半，纽约已过十一点",
+      "guid": "案中案:3f48fe23db",
+      "source": "案中案/20261124_一分钟破案_22.md",
+      "bodyChars": 617,
+      "paragraphCount": 8,
+      "headingCount": 0,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "一分钟破案｜梯子脚印与尸体，站错了边",
+      "guid": "案中案:ea1bdc9809",
+      "source": "案中案/20261124_一分钟破案_10.md",
+      "bodyChars": 619,
+      "paragraphCount": 8,
+      "headingCount": 0,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "一分钟破案｜停电整夜，他却说读到深夜",
+      "guid": "案中案:61dee5f41f",
+      "source": "案中案/20261124_一分钟破案_20.md",
+      "bodyChars": 606,
+      "paragraphCount": 8,
+      "headingCount": 0,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "一分钟破案｜同一把刀削苹果，只有一人倒下",
+      "guid": "案中案:a5b3e0d76f",
+      "source": "案中案/20261124_一分钟破案_27.md",
+      "bodyChars": 603,
+      "paragraphCount": 8,
+      "headingCount": 0,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "一分钟破案｜屋顶开枪，弹道为何朝上",
+      "guid": "案中案:536a711f84",
+      "source": "案中案/20261124_一分钟破案_28.md",
+      "bodyChars": 622,
+      "paragraphCount": 8,
+      "headingCount": 0,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "一分钟破案｜雪夜来客，墨镜里藏着雾",
+      "guid": "案中案:70fe4ea4f4",
+      "source": "案中案/20261124_一分钟破案_07.md",
+      "bodyChars": 604,
+      "paragraphCount": 8,
+      "headingCount": 0,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "一分钟破案｜钥匙孔里看见人，一枪却落空",
+      "guid": "案中案:9a2eda9ee9",
+      "source": "案中案/20261124_一分钟破案_29.md",
+      "bodyChars": 599,
+      "paragraphCount": 8,
+      "headingCount": 0,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "一分钟破案｜一块豆腐，砸得人头破血流",
+      "guid": "案中案:871f9bb311",
+      "source": "案中案/20261124_一分钟破案_26.md",
+      "bodyChars": 628,
+      "paragraphCount": 8,
+      "headingCount": 0,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "一分钟破案｜一只足球，为何进了检查室",
+      "guid": "案中案:2664c1564f",
+      "source": "案中案/20261124_一分钟破案_04.md",
+      "bodyChars": 628,
+      "paragraphCount": 8,
+      "headingCount": 0,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    }
+  ]
+}

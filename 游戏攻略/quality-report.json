@@ -1,0 +1,976 @@
+{
+  "generatedAt": "2026-11-26T08:17:38.344Z",
+  "vertical": "游戏攻略",
+  "itemCount": 71,
+  "errorCount": 0,
+  "warningCount": 1,
+  "p1ErrorCount": 0,
+  "p1WarningCount": 0,
+  "p2ErrorCount": 0,
+  "p2WarningCount": 1,
+  "deduplicatedTitleCount": 0,
+  "errors": [],
+  "warnings": [],
+  "p2Errors": [],
+  "p2Warnings": [
+    "发现 7 张主图被多个文章复用，需核对图片归属"
+  ],
+  "autoFixes": [
+    "已清理 12 篇文章内的重复段落"
+  ],
+  "sharedParagraphs": [],
+  "droppedSharedParagraphs": [],
+  "duplicateParagraphItems": [
+    {
+      "title": "《暗区突围》（Arena Breakout）带满装备不等于赚得多：出生点、搜索路线和撤离时机怎么决定一局收益",
+      "count": 1
+    },
+    {
+      "title": "《部落冲突》（Clash of Clans）升级顺序别被最长计时器牵着走：防御、兵种和实验室怎样排才不拖进攻",
+      "count": 2
+    },
+    {
+      "title": "《地铁跑酷》（Subway Surfers）想跑得远不能只盯着金币：障碍预判、道具衔接和三轨切换如何减少失误",
+      "count": 2
+    },
+    {
+      "title": "《巅峰极速》（Racing Master）调车不是把所有数值拉满：《巅峰极速》（Racing Master）如何按赛道弯道和出弯节奏改车",
+      "count": 1
+    },
+    {
+      "title": "《光·遇》（Sky: Children of the Light）跑图最容易漏的不是蜡烛，而是回程路线：怎样把每日收集和先祖回访排顺",
+      "count": 2
+    },
+    {
+      "title": "《和平精英》（Game for Peace）第一圈缩圈前别搜到最后一间房：载具、掩体和撤离路线该怎样取舍",
+      "count": 2
+    },
+    {
+      "title": "《金铲铲之战》（Teamfight Tactics）连胜和连败不是开局必须选的路线：血量、经济与转阵容时机这样判断",
+      "count": 2
+    },
+    {
+      "title": "《开心消消乐》（Happy Match）卡在最后几步时别急着重开：先看障碍层、连消顺序和目标格分布",
+      "count": 2
+    },
+    {
+      "title": "《使命召唤手游》（Call of Duty: Mobile）配件堆满不一定更稳：枪械后坐力、交火距离和地图路线要一起调",
+      "count": 1
+    },
+    {
+      "title": "《土豆兄弟》（Brotato）前几波买错一次就会越打越穷：武器数量、属性方向和商店刷新怎样取舍",
+      "count": 2
+    },
+    {
+      "title": "《王者荣耀》（Honor of Kings）排位总是前期顺、后期乱：从兵线、支援和第一座外塔重新安排节奏",
+      "count": 2
+    },
+    {
+      "title": "《无畏契约：源能行动》（Valorant Mobile）第一波交火别急着冲点：技能交换、角度控制和回防路线怎么排",
+      "count": 2
+    }
+  ],
+  "duplicateMainImages": [
+    {
+      "url": "https://anliangsa79-sleepybear.github.io/wenshi-rss/%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5/assets/053cdf2ec8.jpg",
+      "count": 2,
+      "owners": [
+        {
+          "title": "《蛋仔派对》（Eggy Party）机关图别只跟着人群跑：从观察节奏、保留跳跃和选择落点提高过关率",
+          "guid": "游戏攻略:6d38ef96c1",
+          "source": "游戏攻略/2026-11-26-蛋仔派对-机关图落点节奏.md"
+        },
+        {
+          "title": "蛋仔派对（Eggy Party）遇到机关图别只跟着人群跑：如何用落点、复位点和终点前路线少掉一次",
+          "guid": "游戏攻略:f3d65223b2",
+          "source": "游戏攻略/2026-11-24-Eggy-Party-蛋仔派对Eggy Party遇到机关图别只跟着人群跑如何用落.md"
+        }
+      ]
+    },
+    {
+      "url": "https://anliangsa79-sleepybear.github.io/wenshi-rss/%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5/assets/5ef1bfc0c1.jpg",
+      "count": 3,
+      "owners": [
+        {
+          "title": "《原神》（Genshin Impact）角色升到90级之前，先把天赋、武器和等级的资源顺序排清楚",
+          "guid": "游戏攻略:05c05ac8e1",
+          "source": "游戏攻略/2026-11-25-原神-角色等级天赋武器资源顺序.md"
+        },
+        {
+          "title": "回坑《原神》（Genshin Impact）后别急着把所有任务清空：先恢复角色、体力和地图权限的使用顺序",
+          "guid": "游戏攻略:932abb5849",
+          "source": "游戏攻略/2026-11-25-原神-回坑后角色地图资源顺序.md"
+        },
+        {
+          "title": "世界等级提升前先做一次检查：《原神》（Genshin Impact）哪些角色和武器必须先补到能稳定过日常战斗",
+          "guid": "游戏攻略:84d6782794",
+          "source": "游戏攻略/2026-11-25-原神-世界等级提升检查.md"
+        }
+      ]
+    },
+    {
+      "url": "https://anliangsa79-sleepybear.github.io/wenshi-rss/%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5/assets/af78501d21.jpg",
+      "count": 2,
+      "owners": [
+        {
+          "title": "《原神》（Genshin Impact）周本材料总是不够，问题往往不是体力少，而是角色培养顺序排错了",
+          "guid": "游戏攻略:c930f93be6",
+          "source": "游戏攻略/2026-11-25-原神-周本材料分配.md"
+        },
+        {
+          "title": "暴击、元素精通、充能到底先补哪一个？《原神》（Genshin Impact）用实际循环判断面板缺口",
+          "guid": "游戏攻略:7117afa521",
+          "source": "游戏攻略/2026-11-25-原神-暴击精通充能取舍.md"
+        }
+      ]
+    },
+    {
+      "url": "https://anliangsa79-sleepybear.github.io/wenshi-rss/%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5/assets/06c5bceab9.jpg",
+      "count": 2,
+      "owners": [
+        {
+          "title": "差分宇宙里总是前期成型、后期崩盘？《崩坏：星穹铁道》（Honkai: Star Rail）从命途、祝福和强化顺序重新排一次",
+          "guid": "游戏攻略:07f9a82207",
+          "source": "游戏攻略/2026-11-25-崩坏星穹铁道-差分宇宙祝福路线.md"
+        },
+        {
+          "title": "每天的开拓力怎么花才不拖慢整队？《崩坏：星穹铁道》（Honkai: Star Rail）从角色突破到光锥和行迹排一条养成线",
+          "guid": "游戏攻略:44b93b9fbd",
+          "source": "游戏攻略/2026-11-25-崩坏星穹铁道-开拓力每日安排.md"
+        }
+      ]
+    },
+    {
+      "url": "https://anliangsa79-sleepybear.github.io/wenshi-rss/%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5/assets/ea7f214d8b.jpg",
+      "count": 2,
+      "owners": [
+        {
+          "title": "幻想真境剧诗不是把最强角色全塞进去：《原神》（Genshin Impact）如何安排出场顺序和支援位",
+          "guid": "游戏攻略:e686ee0605",
+          "source": "游戏攻略/2026-11-25-原神-幻想真境剧诗编队.md"
+        },
+        {
+          "title": "突破材料别等缺了才找：《原神》（Genshin Impact）如何把角色采集、敌人掉落和合成路线排成一条线",
+          "guid": "游戏攻略:9e62d04ee2",
+          "source": "游戏攻略/2026-11-25-原神-突破材料采集路线.md"
+        }
+      ]
+    },
+    {
+      "url": "https://anliangsa79-sleepybear.github.io/wenshi-rss/%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5/assets/fd74cfc348.jpg",
+      "count": 2,
+      "owners": [
+        {
+          "title": "末日幻影打到第二阶段就失去节奏？《崩坏：星穹铁道》（Honkai: Star Rail）先看首领机制，再决定大招和破韧时机",
+          "guid": "游戏攻略:589ad94519",
+          "source": "游戏攻略/2026-11-25-崩坏星穹铁道-末日幻影首领阶段.md"
+        },
+        {
+          "title": "虚构叙事不是单纯追求单次伤害：《崩坏：星穹铁道》（Honkai: Star Rail）如何让负面效果和清场节奏接起来",
+          "guid": "游戏攻略:0859319d22",
+          "source": "游戏攻略/2026-11-25-崩坏星穹铁道-虚构叙事清场节奏.md"
+        }
+      ]
+    },
+    {
+      "url": "https://anliangsa79-sleepybear.github.io/wenshi-rss/%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5/assets/24bd5dc0a3.jpg",
+      "count": 2,
+      "owners": [
+        {
+          "title": "速度不是越高越好：《崩坏：星穹铁道》（Honkai: Star Rail）用三场实战检查角色到底该快还是该慢",
+          "guid": "游戏攻略:846afdd412",
+          "source": "游戏攻略/2026-11-25-崩坏星穹铁道-速度实战检查.md"
+        },
+        {
+          "title": "忘却之庭总差最后几轮，不一定要重刷遗器：《崩坏：星穹铁道》（Honkai: Star Rail）先从目标选择和技能点分配改起",
+          "guid": "游戏攻略:1d7769abd9",
+          "source": "游戏攻略/2026-11-25-崩坏星穹铁道-忘却之庭技能点目标.md"
+        }
+      ]
+    }
+  ],
+  "noImageItems": [],
+  "items": [
+    {
+      "title": "《暗区突围》（Arena Breakout）带满装备不等于赚得多：出生点、搜索路线和撤离时机怎么决定一局收益",
+      "guid": "游戏攻略:cc8c44de3f",
+      "source": "游戏攻略/2026-11-26-暗区突围-出生点搜索撤离收益.md",
+      "bodyChars": 2393,
+      "paragraphCount": 20,
+      "headingCount": 9,
+      "imageCount": 3,
+      "duplicateParagraphs": 1,
+      "hasMainImage": true
+    },
+    {
+      "title": "《部落冲突》（Clash of Clans）升级顺序别被最长计时器牵着走：防御、兵种和实验室怎样排才不拖进攻",
+      "guid": "游戏攻略:947f47004b",
+      "source": "游戏攻略/2026-11-26-部落冲突-升级顺序先攻后防.md",
+      "bodyChars": 2433,
+      "paragraphCount": 22,
+      "headingCount": 9,
+      "imageCount": 3,
+      "duplicateParagraphs": 2,
+      "hasMainImage": true
+    },
+    {
+      "title": "《蛋仔派对》（Eggy Party）机关图别只跟着人群跑：从观察节奏、保留跳跃和选择落点提高过关率",
+      "guid": "游戏攻略:6d38ef96c1",
+      "source": "游戏攻略/2026-11-26-蛋仔派对-机关图落点节奏.md",
+      "bodyChars": 2503,
+      "paragraphCount": 29,
+      "headingCount": 8,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《地铁跑酷》（Subway Surfers）想跑得远不能只盯着金币：障碍预判、道具衔接和三轨切换如何减少失误",
+      "guid": "游戏攻略:dce3cdaba3",
+      "source": "游戏攻略/2026-11-26-地铁跑酷-三轨切换道具衔接.md",
+      "bodyChars": 2341,
+      "paragraphCount": 21,
+      "headingCount": 9,
+      "imageCount": 3,
+      "duplicateParagraphs": 2,
+      "hasMainImage": true
+    },
+    {
+      "title": "《巅峰极速》（Racing Master）调车不是把所有数值拉满：《巅峰极速》（Racing Master）如何按赛道弯道和出弯节奏改车",
+      "guid": "游戏攻略:ffe4e2c436",
+      "source": "游戏攻略/2026-11-26-巅峰极速-赛道弯道调校.md",
+      "bodyChars": 2402,
+      "paragraphCount": 22,
+      "headingCount": 9,
+      "imageCount": 3,
+      "duplicateParagraphs": 1,
+      "hasMainImage": true
+    },
+    {
+      "title": "《光·遇》（Sky: Children of the Light）跑图最容易漏的不是蜡烛，而是回程路线：怎样把每日收集和先祖回访排顺",
+      "guid": "游戏攻略:e216d99e41",
+      "source": "游戏攻略/2026-11-26-光遇-每日跑图回程路线.md",
+      "bodyChars": 2466,
+      "paragraphCount": 21,
+      "headingCount": 9,
+      "imageCount": 3,
+      "duplicateParagraphs": 2,
+      "hasMainImage": true
+    },
+    {
+      "title": "《和平精英》（Game for Peace）第一圈缩圈前别搜到最后一间房：载具、掩体和撤离路线该怎样取舍",
+      "guid": "游戏攻略:773d29dda2",
+      "source": "游戏攻略/2026-11-26-和平精英-缩圈前搜房取舍.md",
+      "bodyChars": 2295,
+      "paragraphCount": 21,
+      "headingCount": 9,
+      "imageCount": 3,
+      "duplicateParagraphs": 2,
+      "hasMainImage": true
+    },
+    {
+      "title": "《金铲铲之战》（Teamfight Tactics）连胜和连败不是开局必须选的路线：血量、经济与转阵容时机这样判断",
+      "guid": "游戏攻略:0682789023",
+      "source": "游戏攻略/2026-11-26-金铲铲之战-连胜连败经济转阵容.md",
+      "bodyChars": 2478,
+      "paragraphCount": 22,
+      "headingCount": 9,
+      "imageCount": 3,
+      "duplicateParagraphs": 2,
+      "hasMainImage": true
+    },
+    {
+      "title": "《开心消消乐》（Happy Match）卡在最后几步时别急着重开：先看障碍层、连消顺序和目标格分布",
+      "guid": "游戏攻略:af9dfb0f05",
+      "source": "游戏攻略/2026-11-26-开心消消乐-障碍层连消顺序.md",
+      "bodyChars": 2459,
+      "paragraphCount": 22,
+      "headingCount": 9,
+      "imageCount": 3,
+      "duplicateParagraphs": 2,
+      "hasMainImage": true
+    },
+    {
+      "title": "《使命召唤手游》（Call of Duty: Mobile）配件堆满不一定更稳：枪械后坐力、交火距离和地图路线要一起调",
+      "guid": "游戏攻略:4ffb425d07",
+      "source": "游戏攻略/2026-11-26-使命召唤手游-配件后坐力交火距离.md",
+      "bodyChars": 2376,
+      "paragraphCount": 21,
+      "headingCount": 9,
+      "imageCount": 3,
+      "duplicateParagraphs": 1,
+      "hasMainImage": true
+    },
+    {
+      "title": "《土豆兄弟》（Brotato）前几波买错一次就会越打越穷：武器数量、属性方向和商店刷新怎样取舍",
+      "guid": "游戏攻略:39a97bd6bf",
+      "source": "游戏攻略/2026-11-26-土豆兄弟-武器数量商店刷新.md",
+      "bodyChars": 2546,
+      "paragraphCount": 22,
+      "headingCount": 9,
+      "imageCount": 3,
+      "duplicateParagraphs": 2,
+      "hasMainImage": true
+    },
+    {
+      "title": "《王者荣耀》（Honor of Kings）排位总是前期顺、后期乱：从兵线、支援和第一座外塔重新安排节奏",
+      "guid": "游戏攻略:fa00873ead",
+      "source": "游戏攻略/2026-11-26-王者荣耀-兵线支援外塔.md",
+      "bodyChars": 2362,
+      "paragraphCount": 21,
+      "headingCount": 9,
+      "imageCount": 3,
+      "duplicateParagraphs": 2,
+      "hasMainImage": true
+    },
+    {
+      "title": "《王者万象棋》（Honor of Kings Chess）第一轮别只抢高费棋子：从羁绊、升星和站位安排一套能活到后期的阵容",
+      "guid": "游戏攻略:d5c6547894",
+      "source": "游戏攻略/2026-11-26-王者万象棋-羁绊升星站位.md",
+      "bodyChars": 2436,
+      "paragraphCount": 28,
+      "headingCount": 9,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《我在古代有座城》（I Have a City in Ancient Times）开局别急着扩城：先把粮食、人口和第一条生产链接起来",
+      "guid": "游戏攻略:bbba9aab43",
+      "source": "游戏攻略/2026-11-26-我在古代有座城-粮食人口生产链.md",
+      "bodyChars": 2433,
+      "paragraphCount": 20,
+      "headingCount": 9,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《无畏契约：源能行动》（Valorant Mobile）第一波交火别急着冲点：技能交换、角度控制和回防路线怎么排",
+      "guid": "游戏攻略:50f33cdd96",
+      "source": "游戏攻略/2026-11-26-无畏契约源能行动-技能交换回防.md",
+      "bodyChars": 2359,
+      "paragraphCount": 21,
+      "headingCount": 9,
+      "imageCount": 3,
+      "duplicateParagraphs": 2,
+      "hasMainImage": true
+    },
+    {
+      "title": "《崩坏：星穹铁道》（Honkai: Star Rail）货币战争新赛季别只堆高费用：羁绊、前后台和投资要先跑通一套循环",
+      "guid": "游戏攻略:1bffe95b5a",
+      "source": "游戏攻略/2026-11-25-崩坏星穹铁道-货币战争新赛季循环.md",
+      "bodyChars": 1250,
+      "paragraphCount": 12,
+      "headingCount": 5,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《原神》（Genshin Impact）角色升到90级之前，先把天赋、武器和等级的资源顺序排清楚",
+      "guid": "游戏攻略:05c05ac8e1",
+      "source": "游戏攻略/2026-11-25-原神-角色等级天赋武器资源顺序.md",
+      "bodyChars": 1440,
+      "paragraphCount": 13,
+      "headingCount": 5,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《原神》（Genshin Impact）深境螺旋别开场就交完大招：第一波敌人的站位和能量应该这样处理",
+      "guid": "游戏攻略:54e3fe05cb",
+      "source": "游戏攻略/2026-11-25-原神-深境螺旋第一波循环.md",
+      "bodyChars": 991,
+      "paragraphCount": 10,
+      "headingCount": 4,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《原神》（Genshin Impact）周本材料总是不够，问题往往不是体力少，而是角色培养顺序排错了",
+      "guid": "游戏攻略:c930f93be6",
+      "source": "游戏攻略/2026-11-25-原神-周本材料分配.md",
+      "bodyChars": 625,
+      "paragraphCount": 8,
+      "headingCount": 3,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "暴击、元素精通、充能到底先补哪一个？《原神》（Genshin Impact）用实际循环判断面板缺口",
+      "guid": "游戏攻略:7117afa521",
+      "source": "游戏攻略/2026-11-25-原神-暴击精通充能取舍.md",
+      "bodyChars": 1074,
+      "paragraphCount": 11,
+      "headingCount": 4,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "差分宇宙里总是前期成型、后期崩盘？《崩坏：星穹铁道》（Honkai: Star Rail）从命途、祝福和强化顺序重新排一次",
+      "guid": "游戏攻略:07f9a82207",
+      "source": "游戏攻略/2026-11-25-崩坏星穹铁道-差分宇宙祝福路线.md",
+      "bodyChars": 1034,
+      "paragraphCount": 11,
+      "headingCount": 4,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "队伍明明不缺伤害，却总在技能点上断掉：《崩坏：星穹铁道》（Honkai: Star Rail）怎样安排普攻、战技和终结技",
+      "guid": "游戏攻略:4fc53b04ff",
+      "source": "游戏攻略/2026-11-25-崩坏星穹铁道-技能点经济.md",
+      "bodyChars": 1210,
+      "paragraphCount": 13,
+      "headingCount": 5,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "幻想真境剧诗不是把最强角色全塞进去：《原神》（Genshin Impact）如何安排出场顺序和支援位",
+      "guid": "游戏攻略:e686ee0605",
+      "source": "游戏攻略/2026-11-25-原神-幻想真境剧诗编队.md",
+      "bodyChars": 1056,
+      "paragraphCount": 11,
+      "headingCount": 4,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "回坑《原神》（Genshin Impact）后别急着把所有任务清空：先恢复角色、体力和地图权限的使用顺序",
+      "guid": "游戏攻略:932abb5849",
+      "source": "游戏攻略/2026-11-25-原神-回坑后角色地图资源顺序.md",
+      "bodyChars": 997,
+      "paragraphCount": 11,
+      "headingCount": 4,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "每天的开拓力怎么花才不拖慢整队？《崩坏：星穹铁道》（Honkai: Star Rail）从角色突破到光锥和行迹排一条养成线",
+      "guid": "游戏攻略:44b93b9fbd",
+      "source": "游戏攻略/2026-11-25-崩坏星穹铁道-开拓力每日安排.md",
+      "bodyChars": 699,
+      "paragraphCount": 9,
+      "headingCount": 4,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "每天只有一点时间怎么玩《原神》（Genshin Impact）？把树脂、委托、周本和角色材料排成短循环",
+      "guid": "游戏攻略:becd983246",
+      "source": "游戏攻略/2026-11-25-原神-低频玩家日常体力循环.md",
+      "bodyChars": 637,
+      "paragraphCount": 8,
+      "headingCount": 3,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "命途切换和队伍预设容易把人弄乱：《崩坏：星穹铁道》（Honkai: Star Rail）如何避免换完角色后整队节奏失效",
+      "guid": "游戏攻略:45a5fb574c",
+      "source": "游戏攻略/2026-11-25-崩坏星穹铁道-命途切换与队伍预设.md",
+      "bodyChars": 712,
+      "paragraphCount": 8,
+      "headingCount": 3,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "末日幻影打到第二阶段就失去节奏？《崩坏：星穹铁道》（Honkai: Star Rail）先看首领机制，再决定大招和破韧时机",
+      "guid": "游戏攻略:589ad94519",
+      "source": "游戏攻略/2026-11-25-崩坏星穹铁道-末日幻影首领阶段.md",
+      "bodyChars": 974,
+      "paragraphCount": 11,
+      "headingCount": 4,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "世界等级提升前先做一次检查：《原神》（Genshin Impact）哪些角色和武器必须先补到能稳定过日常战斗",
+      "guid": "游戏攻略:84d6782794",
+      "source": "游戏攻略/2026-11-25-原神-世界等级提升检查.md",
+      "bodyChars": 619,
+      "paragraphCount": 7,
+      "headingCount": 3,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "速度不是越高越好：《崩坏：星穹铁道》（Honkai: Star Rail）用三场实战检查角色到底该快还是该慢",
+      "guid": "游戏攻略:846afdd412",
+      "source": "游戏攻略/2026-11-25-崩坏星穹铁道-速度实战检查.md",
+      "bodyChars": 645,
+      "paragraphCount": 8,
+      "headingCount": 3,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "突破材料别等缺了才找：《原神》（Genshin Impact）如何把角色采集、敌人掉落和合成路线排成一条线",
+      "guid": "游戏攻略:9e62d04ee2",
+      "source": "游戏攻略/2026-11-25-原神-突破材料采集路线.md",
+      "bodyChars": 684,
+      "paragraphCount": 8,
+      "headingCount": 3,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "忘却之庭总差最后几轮，不一定要重刷遗器：《崩坏：星穹铁道》（Honkai: Star Rail）先从目标选择和技能点分配改起",
+      "guid": "游戏攻略:1d7769abd9",
+      "source": "游戏攻略/2026-11-25-崩坏星穹铁道-忘却之庭技能点目标.md",
+      "bodyChars": 987,
+      "paragraphCount": 11,
+      "headingCount": 4,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "先刷遗器还是先升行迹？《崩坏：星穹铁道》（Honkai: Star Rail）把角色从能用养到能稳定通关的资源顺序拆开",
+      "guid": "游戏攻略:2cfc090f97",
+      "source": "游戏攻略/2026-11-25-崩坏星穹铁道-先刷遗器还是先升行迹.md",
+      "bodyChars": 720,
+      "paragraphCount": 8,
+      "headingCount": 3,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "虚构叙事不是单纯追求单次伤害：《崩坏：星穹铁道》（Honkai: Star Rail）如何让负面效果和清场节奏接起来",
+      "guid": "游戏攻略:0859319d22",
+      "source": "游戏攻略/2026-11-25-崩坏星穹铁道-虚构叙事清场节奏.md",
+      "bodyChars": 990,
+      "paragraphCount": 11,
+      "headingCount": 4,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "元素反应队总差一轮，不一定是伤害低：《原神》（Genshin Impact）从产球、附着到爆发窗口逐段查漏",
+      "guid": "游戏攻略:b26f4b403e",
+      "source": "游戏攻略/2026-11-25-原神-元素反应队循环查漏.md",
+      "bodyChars": 1209,
+      "paragraphCount": 12,
+      "headingCount": 5,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《崩坏：星穹铁道（Honkai: Star Rail）》遗器刷到什么程度该停？把主词条、套装和队伍速度先后排一遍",
+      "guid": "游戏攻略:db3668ac03",
+      "source": "游戏攻略/2026-11-24-Honkai-Star-Rail-遗器刷到什么程度该停把主词条套装和队伍速度先后排一遍.md",
+      "bodyChars": 3619,
+      "paragraphCount": 17,
+      "headingCount": 5,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《初音未来：缤纷舞台（HATSUNE MIKU: COLORFUL STAGE!）》练歌时别只追Full Combo：难度选择、判定调整和谱面复盘怎么排",
+      "guid": "游戏攻略:c94767dcf4",
+      "source": "游戏攻略/2026-11-24-Hatsune-Miku-Colorful-Stage-练歌时别只追Full Combo难度选择判定调整和谱面复盘怎.md",
+      "bodyChars": 3786,
+      "paragraphCount": 17,
+      "headingCount": 5,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《第五人格（Identity V）》牵制位第一次交互后往哪跑，往往比第一块板更重要：从监管者视角反推安全区",
+      "guid": "游戏攻略:f36574a87e",
+      "source": "游戏攻略/2026-11-24-Identity-V-牵制位第一次交互后往哪跑往往比第一块板更重要从监管者视角反推.md",
+      "bodyChars": 3437,
+      "paragraphCount": 17,
+      "headingCount": 5,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《光·遇（Sky: Children of the Light）》跑图最容易漏的不是蜡烛，而是回程路线：从晨岛到霞谷怎样少绕路",
+      "guid": "游戏攻略:ea6d303e07",
+      "source": "游戏攻略/2026-11-24-Sky-跑图最容易漏的不是蜡烛而是回程路线从晨岛到霞谷怎样少绕路.md",
+      "bodyChars": 3825,
+      "paragraphCount": 17,
+      "headingCount": 5,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《绝区零（Zenless Zone Zero）》驱动盘不是分数越高越好：异常、失衡和暴击队到底先补哪一块",
+      "guid": "游戏攻略:3b307a89d6",
+      "source": "游戏攻略/2026-11-24-Zenless-Zone-Zero-驱动盘不是分数越高越好异常失衡和暴击队到底先补哪一块.md",
+      "bodyChars": 3607,
+      "paragraphCount": 17,
+      "headingCount": 5,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《迷你世界（Mini World）》冒险模式第一座基地怎么搭才不返工：床、储物、熔炉和防怪动线的先后",
+      "guid": "游戏攻略:72baf9dae9",
+      "source": "游戏攻略/2026-11-24-Mini-World-冒险模式第一座基地怎么搭才不返工床储物熔炉和防怪动线的先后.md",
+      "bodyChars": 3436,
+      "paragraphCount": 17,
+      "headingCount": 5,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《鸣潮（Wuthering Waves）》声骸总差一件不是运气差：先把主词条、套装和战斗循环对齐",
+      "guid": "游戏攻略:f36f1c0b5f",
+      "source": "游戏攻略/2026-11-24-Wuthering-Waves-声骸总差一件不是运气差先把主词条套装和战斗循环对齐.md",
+      "bodyChars": 3594,
+      "paragraphCount": 17,
+      "headingCount": 5,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《三国志战略版（Three Kingdoms Strategy）》攻城前别只看兵力：体力、器械和集结时间怎样排成一条线",
+      "guid": "游戏攻略:c1e8e790a6",
+      "source": "游戏攻略/2026-11-24-Three-Kingdoms-Strategy-攻城前别只看兵力体力器械和集结时间怎样排成一条线.md",
+      "bodyChars": 3671,
+      "paragraphCount": 17,
+      "headingCount": 5,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《泰拉瑞亚（Terraria）》肉山前别把矿洞挖成迷宫：从生命上限、饰品到Boss场地的准备顺序",
+      "guid": "游戏攻略:efbb294318",
+      "source": "游戏攻略/2026-11-24-Terraria-肉山前别把矿洞挖成迷宫从生命上限饰品到Boss场地的准备顺序.md",
+      "bodyChars": 3490,
+      "paragraphCount": 17,
+      "headingCount": 5,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《我的世界：移动版（Minecraft）》第一座基地别急着铺满：从出生点、食物到矿道入口把动线留出来",
+      "guid": "游戏攻略:5da6a333cc",
+      "source": "游戏攻略/2026-11-24-Minecraft-第一座基地别急着铺满从出生点食物到矿道入口把动线留出来.md",
+      "bodyChars": 3642,
+      "paragraphCount": 17,
+      "headingCount": 5,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《香肠派对（Sausage Man）》第一波交火之后别急着舔包：身份卡、载具和下一处掩体怎么一起看",
+      "guid": "游戏攻略:91c73f388b",
+      "source": "游戏攻略/2026-11-24-Sausage-Man-第一波交火之后别急着舔包身份卡载具和下一处掩体怎么一起看.md",
+      "bodyChars": 3445,
+      "paragraphCount": 17,
+      "headingCount": 5,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《异环（Neverness to Everness）》城市探索别只追主线：角色切换、委托接取和地图回收怎样排顺序",
+      "guid": "游戏攻略:8e7ad7cb07",
+      "source": "游戏攻略/2026-11-24-Neverness-to-Everness-城市探索别只追主线角色切换委托接取和地图回收怎样排顺序.md",
+      "bodyChars": 3703,
+      "paragraphCount": 17,
+      "headingCount": 5,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《元气骑士（Soul Knight）》吊炸天模式不是把武器升满就能过：房间清理、掩体和技能冷却的取舍",
+      "guid": "游戏攻略:e76a1b54ab",
+      "source": "游戏攻略/2026-11-24-Soul-Knight-吊炸天模式不是把武器升满就能过房间清理掩体和技能冷却的取舍.md",
+      "bodyChars": 3457,
+      "paragraphCount": 17,
+      "headingCount": 5,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "蛋仔派对（Eggy Party）遇到机关图别只跟着人群跑：如何用落点、复位点和终点前路线少掉一次",
+      "guid": "游戏攻略:f3d65223b2",
+      "source": "游戏攻略/2026-11-24-Eggy-Party-蛋仔派对Eggy Party遇到机关图别只跟着人群跑如何用落.md",
+      "bodyChars": 3618,
+      "paragraphCount": 17,
+      "headingCount": 5,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "总是差一点全连，不一定是手速问题：《Phigros（Phigros）》从判定线、节奏型和谱面密度重新找失误",
+      "guid": "游戏攻略:34832baeb8",
+      "source": "游戏攻略/2026-11-24-Phigros-从判定线节奏型和谱面密度重新找失误.md",
+      "bodyChars": 3498,
+      "paragraphCount": 17,
+      "headingCount": 5,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《三角洲行动》（Delta Force）带得越满，为什么越不敢进图？从负重、保险和撤离收益重新算一遍风险",
+      "guid": "游戏攻略:fb49ad6a05",
+      "source": "游戏攻略/2026-11-23-三角洲行动-负重与撤离收益.md",
+      "bodyChars": 2446,
+      "paragraphCount": 22,
+      "headingCount": 11,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《三角洲行动》（Delta Force）真正难处理的不是枪法，而是交火前的三秒：如何判断人数、方向和下一步动作",
+      "guid": "游戏攻略:3266229bf5",
+      "source": "游戏攻略/2026-11-23-三角洲行动-交火前三秒判断.md",
+      "bodyChars": 1656,
+      "paragraphCount": 18,
+      "headingCount": 9,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《心动小镇》（Heartopia）第一天别把体力花在满地图乱采：采集、钓鱼和建造的开局顺序怎么排",
+      "guid": "游戏攻略:94d784207f",
+      "source": "游戏攻略/2026-11-23-心动小镇-第一天体力路线.md",
+      "bodyChars": 1483,
+      "paragraphCount": 16,
+      "headingCount": 8,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "《心动小镇》（Heartopia）怎么钓鱼才不容易卡在最后一步？从天气、鱼影和工具反馈重新练一遍",
+      "guid": "游戏攻略:9ca87195b7",
+      "source": "游戏攻略/2026-11-23-心动小镇-钓鱼落点与反馈.md",
+      "bodyChars": 1560,
+      "paragraphCount": 18,
+      "headingCount": 9,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "不是所有怪都值得正面处理：《超自然行动组》（Supernatural Squad）按敌人行为决定绕行、诱导还是硬打",
+      "guid": "游戏攻略:984f5c26ba",
+      "source": "游戏攻略/2026-11-23-超自然行动组-怪物行为与处理.md",
+      "bodyChars": 1562,
+      "paragraphCount": 17,
+      "headingCount": 9,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "不想每天上线收一圈菜，也能把农场做稳：《心动小镇》（Heartopia）低频玩家的种植与收获路线",
+      "guid": "游戏攻略:5a0752e5d3",
+      "source": "游戏攻略/2026-11-23-心动小镇-低频玩家农场安排.md",
+      "bodyChars": 1491,
+      "paragraphCount": 17,
+      "headingCount": 9,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "材料为什么总是不够用？《心动小镇》（Heartopia）把木材、矿石、植物和订单放进同一条资源循环",
+      "guid": "游戏攻略:1ce38a7e9c",
+      "source": "游戏攻略/2026-11-23-心动小镇-材料资源循环.md",
+      "bodyChars": 1595,
+      "paragraphCount": 18,
+      "headingCount": 9,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "从邻居来访到共同活动，《心动小镇》（Heartopia）多人玩法怎样分工，才不会变成互相等",
+      "guid": "游戏攻略:c1381a728b",
+      "source": "游戏攻略/2026-11-23-心动小镇-多人活动分工.md",
+      "bodyChars": 1585,
+      "paragraphCount": 18,
+      "headingCount": 9,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "带满装备却总撤不出来：《超自然行动组》（Supernatural Squad）摸金路线里什么时候该装满背包，什么时候该回头",
+      "guid": "游戏攻略:35120c91ca",
+      "source": "游戏攻略/2026-11-23-超自然行动组-背包与撤离.md",
+      "bodyChars": 1758,
+      "paragraphCount": 18,
+      "headingCount": 9,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "第一次进墓室别急着开门：《超自然行动组》（Supernatural Squad）从声响、光源到队友站位的第一轮排错",
+      "guid": "游戏攻略:0defab7a21",
+      "source": "游戏攻略/2026-11-23-超自然行动组-第一次进墓室.md",
+      "bodyChars": 1554,
+      "paragraphCount": 17,
+      "headingCount": 9,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "第一套家具别只看好不好看：《心动小镇》（Heartopia）新手布置房间时哪些功能位置应该先留出来",
+      "guid": "游戏攻略:72667997be",
+      "source": "游戏攻略/2026-11-23-心动小镇-功能家具布局.md",
+      "bodyChars": 1545,
+      "paragraphCount": 17,
+      "headingCount": 9,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "队友倒地以后先救人还是先清怪？《超自然行动组》（Supernatural Squad）把时间、负重和撤离倒计时放在一起判断",
+      "guid": "游戏攻略:496a287c3d",
+      "source": "游戏攻略/2026-11-23-超自然行动组-倒地救援判断.md",
+      "bodyChars": 1451,
+      "paragraphCount": 15,
+      "headingCount": 8,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "房子越早扩建越好吗？《心动小镇》（Heartopia）从工作台、储物空间到家具摆放的资源取舍",
+      "guid": "游戏攻略:c242b0d899",
+      "source": "游戏攻略/2026-11-23-心动小镇-房屋扩建与储物.md",
+      "bodyChars": 1450,
+      "paragraphCount": 16,
+      "headingCount": 8,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "摸金队伍为什么总在最后一间房散掉：《超自然行动组》（Supernatural Squad）三人分组、照明和信息回传怎么安排",
+      "guid": "游戏攻略:3fd27b8799",
+      "source": "游戏攻略/2026-11-23-超自然行动组-三人分组与照明.md",
+      "bodyChars": 1466,
+      "paragraphCount": 15,
+      "headingCount": 8,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "三人队最怕的不是没人报点，而是三个人都在做同一件事：《三角洲行动》（Delta Force）接战后的重新分工",
+      "guid": "游戏攻略:902dfc6273",
+      "source": "游戏攻略/2026-11-23-三角洲行动-三人队重新集合.md",
+      "bodyChars": 1674,
+      "paragraphCount": 18,
+      "headingCount": 9,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "搜到贵重物以后，最容易犯的错不是贪，而是走错回程：《超自然行动组》（Supernatural Squad）如何给自己留第二出口",
+      "guid": "游戏攻略:18987decc6",
+      "source": "游戏攻略/2026-11-23-超自然行动组-回程第二出口.md",
+      "bodyChars": 1611,
+      "paragraphCount": 17,
+      "headingCount": 9,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "同一把枪换三套配件，结果可能完全相反：《三角洲行动》（Delta Force）近距离、长走廊和开阔地的改枪思路",
+      "guid": "游戏攻略:cc356d6be5",
+      "source": "游戏攻略/2026-11-23-三角洲行动-配件与交火距离.md",
+      "bodyChars": 1829,
+      "paragraphCount": 19,
+      "headingCount": 9,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "我以前总把高价值物当成终点，后来才发现它只是回程的起点：《三角洲行动》（Delta Force）拿到贵重物后怎么规划撤离",
+      "guid": "游戏攻略:5e041b344f",
+      "source": "游戏攻略/2026-11-23-三角洲行动-高价值物与回程.md",
+      "bodyChars": 1783,
+      "paragraphCount": 19,
+      "headingCount": 9,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "一波团灭后别急着补枪：《三角洲行动》（Delta Force）全面战场如何利用死亡间隔重组下一次推进",
+      "guid": "游戏攻略:2deeda2698",
+      "source": "游戏攻略/2026-11-23-三角洲行动-全面战场团灭后重组.md",
+      "bodyChars": 1791,
+      "paragraphCount": 19,
+      "headingCount": 9,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "一次失败撤离的完整复盘：《超自然行动组》（Supernatural Squad）把损失拆成路线错误、声音错误和贪心错误",
+      "guid": "游戏攻略:19cbe8702f",
+      "source": "游戏攻略/2026-11-23-超自然行动组-失败撤离复盘.md",
+      "bodyChars": 1385,
+      "paragraphCount": 15,
+      "headingCount": 8,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "长弓溪谷（Longbow Valley）高点不等于安全点：《三角洲行动》（Delta Force）山地地图里怎么处理交火、搜刮和回撤",
+      "guid": "游戏攻略:6087956557",
+      "source": "游戏攻略/2026-11-23-三角洲行动-长弓溪谷高点与回撤.md",
+      "bodyChars": 1846,
+      "paragraphCount": 19,
+      "headingCount": 9,
+      "imageCount": 3,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    }
+  ]
+}

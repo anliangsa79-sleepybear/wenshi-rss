@@ -1,0 +1,153 @@
+{
+  "generatedAt": "2026-11-26T08:17:55.827Z",
+  "vertical": "经典常读",
+  "itemCount": 10,
+  "errorCount": 0,
+  "warningCount": 1,
+  "p1ErrorCount": 0,
+  "p1WarningCount": 0,
+  "p2ErrorCount": 0,
+  "p2WarningCount": 1,
+  "deduplicatedTitleCount": 0,
+  "errors": [],
+  "warnings": [],
+  "p2Errors": [],
+  "p2Warnings": [
+    "发现 1 张主图被多个文章复用，需核对图片归属"
+  ],
+  "autoFixes": [],
+  "sharedParagraphs": [],
+  "droppedSharedParagraphs": [],
+  "duplicateParagraphItems": [],
+  "duplicateMainImages": [
+    {
+      "url": "https://anliangsa79-sleepybear.github.io/wenshi-rss/jingdianchangdu/assets/cc3587cc0b.jpg",
+      "count": 2,
+      "owners": [
+        {
+          "title": "佛说尸迦罗越六方礼经（长阿含善生经别译）（弘扬佛法·随喜分享）",
+          "guid": "经典常读:e0a3d0cf56",
+          "source": "经典常读/2026-11-26-03_06418.md"
+        },
+        {
+          "title": "佛说五无返复经（弘扬佛法·随喜分享）",
+          "guid": "经典常读:d7e79d3ec9",
+          "source": "经典常读/2026-11-26-10_04698.md"
+        }
+      ]
+    }
+  ],
+  "noImageItems": [],
+  "items": [
+    {
+      "title": "法句经卷上（弘扬佛法·随喜分享）",
+      "guid": "经典常读:2345968404",
+      "source": "经典常读/2026-11-26-07_07131.md",
+      "bodyChars": 8480,
+      "paragraphCount": 170,
+      "headingCount": 21,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "佛说八大人觉经（弘扬佛法·随喜分享）",
+      "guid": "经典常读:529191980c",
+      "source": "经典常读/2026-11-26-02_01101.md",
+      "bodyChars": 427,
+      "paragraphCount": 10,
+      "headingCount": 0,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "佛说譬喻经（弘扬佛法·随喜分享）",
+      "guid": "经典常读:b22673b182",
+      "source": "经典常读/2026-11-26-01_04691.md",
+      "bodyChars": 567,
+      "paragraphCount": 5,
+      "headingCount": 0,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "佛说尸迦罗越六方礼经（长阿含善生经别译）（弘扬佛法·随喜分享）",
+      "guid": "经典常读:e0a3d0cf56",
+      "source": "经典常读/2026-11-26-03_06418.md",
+      "bodyChars": 2167,
+      "paragraphCount": 20,
+      "headingCount": 0,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "佛说十善业道经（弘扬佛法·随喜分享）",
+      "guid": "经典常读:3299263899",
+      "source": "经典常读/2026-11-26-04_01574.md",
+      "bodyChars": 2668,
+      "paragraphCount": 4,
+      "headingCount": 0,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "佛说四十二章经（弘扬佛法·随喜分享）",
+      "guid": "经典常读:3b7a5cb9b5",
+      "source": "经典常读/2026-11-26-08_06567.md",
+      "bodyChars": 8096,
+      "paragraphCount": 140,
+      "headingCount": 1,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "佛说无常经(附临终方诀)（弘扬佛法·随喜分享）",
+      "guid": "经典常读:79cf9adc46",
+      "source": "经典常读/2026-11-26-09_04681.md",
+      "bodyChars": 2453,
+      "paragraphCount": 23,
+      "headingCount": 1,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "佛说五无返复经（弘扬佛法·随喜分享）",
+      "guid": "经典常读:d7e79d3ec9",
+      "source": "经典常读/2026-11-26-10_04698.md",
+      "bodyChars": 1109,
+      "paragraphCount": 2,
+      "headingCount": 0,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "佛说盂兰盆经（弘扬佛法·随喜分享）",
+      "guid": "经典常读:5cb1c65791",
+      "source": "经典常读/2026-11-26-06_00672.md",
+      "bodyChars": 901,
+      "paragraphCount": 9,
+      "headingCount": 0,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "金刚般若波罗蜜经（弘扬佛法·随喜分享）",
+      "guid": "经典常读:ded58253f9",
+      "source": "经典常读/2026-11-26-05_03016.md",
+      "bodyChars": 6551,
+      "paragraphCount": 80,
+      "headingCount": 1,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    }
+  ]
+}

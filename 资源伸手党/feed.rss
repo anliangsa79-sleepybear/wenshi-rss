@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>资源伸手党</title>
+    <link>https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A</link>
+    <atom:link href="https://anliangsa79-sleepybear.github.io/wenshi-rss/资源伸手党/RSS/feed.rss" rel="self" type="application/rss+xml" />
+    <description>资源伸手党 RSS：免费小工具与资源网站推荐，包含完整正文与配图。</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Fri, 20 Nov 2026 09:00:00 GMT</lastBuildDate>
+    <generator>垂类 RSS Builder</generator>
+    <item>
+      <title>不知道一座城市长什么样？City Guesser放一段街景视频让你来猜</title>
+      <link>https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/articles/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A_%E4%B8%8D%E7%9F%A5%E9%81%93%E4%B8%80%E5%BA%A7%E5%9F%8E%E5%B8%82%E9%95%BF%E4%BB%80%E4%B9%88%E6%A0%B7_City_Guesser%E6%94%BE%E4%B8%80%E6%AE%B5%E8%A1%97%E6%99%AF%E8%A7%86%E9%A2%91%E8%AE%A9%E4%BD%A0%E6%9D%A5%E7%8C%9C_6fe2c9f2ca.md</link>
+      <guid isPermaLink="false">资源伸手党:6fe2c9f2ca</guid>
+      <pubDate>Tue, 17 Nov 2026 09:00:00 GMT</pubDate>
+      <category>资源伸手党</category>
+      <dc:creator>资源伸手党</dc:creator>
+      <dc:subject>资源伸手党</dc:subject>
+      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/aa290c2b8b.jpg]]></poster>
+      <description><![CDATA[<p><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/aa290c2b8b.jpg" alt="" /></p><p>“下次旅行想去哪儿？”这个问题通常会被攻略和榜单接管，直到你在一段街景视频里听见电车经过、看见路边的招牌，才突然发现，自己真正想知道的是：如果我站在那里，周围会是什么声音和速度？City Guesser 把这个问题做成了一轮没有地图导航的猜城市。 🌆 先从声音里找线索 打开 https://cityguesser.eu/，先挑一个城市或地区入口，播放视频。第一轮不要立刻暂停找招牌，先听环境：是汽车密集的主干道，还是脚步很多的老城区？画面里的天气、路面材质、建筑高度，也会和声音一起缩小范围。 第二遍再看细节。路牌的颜色、公交车的形状、商店门头的语言，往往</p>]]></description>
+      <content:encoded><![CDATA[<p>“下次旅行想去哪儿？”这个问题通常会被攻略和榜单接管，直到你在一段街景视频里听见电车经过、看见路边的招牌，才突然发现，自己真正想知道的是：如果我站在那里，周围会是什么声音和速度？City Guesser 把这个问题做成了一轮没有地图导航的猜城市。</p>
+<h2>🌆 先从声音里找线索</h2>
+<p>打开 https://cityguesser.eu/，先挑一个城市或地区入口，播放视频。第一轮不要立刻暂停找招牌，先听环境：是汽车密集的主干道，还是脚步很多的老城区？画面里的天气、路面材质、建筑高度，也会和声音一起缩小范围。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/aa290c2b8b.jpg" alt="" /></figure>
+<p>第二遍再看细节。路牌的颜色、公交车的形状、商店门头的语言，往往比一栋“看起来像欧洲”的房子更可靠。如果视频里出现可读文字，先记下词根，不要急着把整句复制去搜索；猜测过程本身才是游戏。和 Google 地图不同，这里不会马上给你箭头和路线，城市要靠观察慢慢浮出来。</p>
+<p>还有一个很适合和朋友一起玩的办法：每个人只能说出一个线索，不能直接报城市名。有人负责听语言，有人看道路，有人看天气和建筑，最后再把线索拼在一起。这样即使没有人猜中，大家也会记住“为什么当时以为是那座城”，而不是只记住一个对错结果。</p>
+<h2>🎲 猜完再把答案放回现实</h2>
+<p>可以和朋友约定三次暂停：第一次只看自然环境，第二次看交通和建筑，第三次才允许查线索。每个人写下城市名再公布答案，通常比直接看视频更有戏。猜错了也别马上关掉，回看那一个让你误判的细节，下一次遇到相似街景就会多一层经验。</p>
+<p>City Guesser 适合旅行前找感觉，也适合晚上想“出去走走”却不想安排路线的人。页面里的视频和地区入口会随站点更新，播放是否顺畅取决于网络；它不是实时街景，也不保证每段视频都有完整地点说明。今天挑一座完全陌生的城市，先关掉搜索，听十秒再猜。</p>]]></content:encoded>
+      
+    </item>
+
+    <item>
+      <title>打开一页文档就能查多个开发库？DevDocs把常用文档收进一个搜索框</title>
+      <link>https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/articles/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A_%E6%89%93%E5%BC%80%E4%B8%80%E9%A1%B5%E6%96%87%E6%A1%A3%E5%B0%B1%E8%83%BD%E6%9F%A5%E5%A4%9A%E4%B8%AA%E5%BC%80%E5%8F%91%E5%BA%93_DevDocs%E6%8A%8A%E5%B8%B8%E7%94%A8%E6%96%87%E6%A1%A3%E6%94%B6%E8%BF%9B%E4%B8%80%E4%B8%AA%E6%90%9C%E7%B4%A2%E6%A1%86_1c8471fc0a.md</link>
+      <guid isPermaLink="false">资源伸手党:1c8471fc0a</guid>
+      <pubDate>Tue, 17 Nov 2026 09:00:00 GMT</pubDate>
+      <category>资源伸手党</category>
+      <dc:creator>资源伸手党</dc:creator>
+      <dc:subject>资源伸手党</dc:subject>
+      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/6e1d9b9033.jpg]]></poster>
+      <description><![CDATA[<p><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/6e1d9b9033.jpg" alt="" /></p><p>写一个很小的网页，最容易卡在一个不值得卡住的地方：这个方法的参数顺序是什么，属性名到底拼哪个字母。来回搜网页会把答案、广告和旧版本混在一起。DevDocs 的思路更直接，先把常用文档装进左侧，再在同一个搜索框里查。 🔎 先选要用的文档 打开 https://devdocs.io/，左侧会看到文档列表。先点“选择文档”或类似入口，勾选你当前要写的库，比如 HTML、CSS、JavaScript 或某个常见框架。不要一上来把所有库都选上，列表太长反而会让搜索结果变得难找。选好后，在搜索框输入关键词，页面会按文档标题和条目给出结果。 点开结果后，左侧目录和正</p>]]></description>
+      <content:encoded><![CDATA[<p>写一个很小的网页，最容易卡在一个不值得卡住的地方：这个方法的参数顺序是什么，属性名到底拼哪个字母。来回搜网页会把答案、广告和旧版本混在一起。DevDocs 的思路更直接，先把常用文档装进左侧，再在同一个搜索框里查。</p>
+<h2>🔎 先选要用的文档</h2>
+<p>打开 https://devdocs.io/，左侧会看到文档列表。先点“选择文档”或类似入口，勾选你当前要写的库，比如 HTML、CSS、JavaScript 或某个常见框架。不要一上来把所有库都选上，列表太长反而会让搜索结果变得难找。选好后，在搜索框输入关键词，页面会按文档标题和条目给出结果。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/6e1d9b9033.jpg" alt="" /></figure>
+<p>点开结果后，左侧目录和正文会一起出现。你可以先看条目定义，再看参数、示例或相关链接；如果只是忘了一个属性名，直接复制一段最小示例到自己的代码里，改一个变量，确认它是否解决问题。它比普通搜索的优势不是“答案永远最新”，而是把阅读范围收窄到文档结构里。</p>
+<p>查文档时最好把问题写得小一点，不要输入“怎么做一个网站”，而是输入“flex”“querySelector”或“数组排序”这样的词。搜索结果越具体，越容易顺着目录找到上下文，也不容易把别人的完整项目误当成自己的答案。看完一个条目后，回到自己的代码里验证一次，文档阅读才算结束。</p>
+<h2>🧰 把搜索变成自己的小工具</h2>
+<p>DevDocs 支持把文档下载到本地浏览，离线能力和具体文档有关，第一次使用时可以先试一个小库。它适合已经知道自己正在查 HTML、CSS 或 JavaScript 的人；如果你连问题属于哪个技术栈都不确定，先用普通搜索找到方向，再回 DevDocs 查细节。第三方文档的版本和更新时间要以页面显示为准，别把旧示例直接用于生产代码。</p>
+<p>下次又卡在一个拼写很短、解释很长的问题上，先打开 DevDocs，选中正在用的文档，再查一个关键词。网页不替你写代码，但能让你少在十个结果页之间来回跳。</p>]]></content:encoded>
+      
+    </item>
+
+    <item>
+      <title>想把脑子里的小想法讲给别人听？5个免费网站从草图、图标到一页图接起来</title>
+      <link>https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/articles/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A_%E6%83%B3%E6%8A%8A%E8%84%91%E5%AD%90%E9%87%8C%E7%9A%84%E5%B0%8F%E6%83%B3%E6%B3%95%E8%AE%B2%E7%BB%99%E5%88%AB%E4%BA%BA%E5%90%AC_5%E4%B8%AA%E5%85%8D%E8%B4%B9%E7%BD%91%E7%AB%99%E4%BB%8E%E8%8D%89%E5%9B%BE_%E5%9B%BE%E6%A0%87%E5%88%B0%E4%B8%80%E9%A1%B5%E5%9B%BE%E6%8E%A5%E8%B5%B7%E6%9D%A5_97c742be1e.md</link>
+      <guid isPermaLink="false">资源伸手党:97c742be1e</guid>
+      <pubDate>Tue, 17 Nov 2026 09:00:00 GMT</pubDate>
+      <category>资源伸手党</category>
+      <dc:creator>资源伸手党</dc:creator>
+      <dc:subject>资源伸手党</dc:subject>
+      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/e9aaeb6d50.jpg]]></poster>
+      <description><![CDATA[<p><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/e9aaeb6d50.jpg" alt="" /></p><p>开会时脑子里已经有一张图，嘴上却只能说“左边放这个，右边连到那个”。这时不需要先学设计，也不用做一套漂亮演示文稿。先把关系画出来，再补几个看得懂的图标和字体，五个入口刚好能接成一条轻量流程。 1. Excalidraw 网址：https://excalidraw.com/ 先用 Excalidraw 把脑中的关系画出来。打开后直接在画布上放矩形、箭头和文字，手绘风格会让草稿看起来没有那么“已经定稿”，反而方便大家继续改。它适合流程、网页结构和家庭分工表，优点是上手快、画布轻；如果需要多人同时编辑，再留意分享链接和权限设置。 2. AutoDraw 网址：</p>]]></description>
+      <content:encoded><![CDATA[<p>开会时脑子里已经有一张图，嘴上却只能说“左边放这个，右边连到那个”。这时不需要先学设计，也不用做一套漂亮演示文稿。先把关系画出来，再补几个看得懂的图标和字体，五个入口刚好能接成一条轻量流程。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/e9aaeb6d50.jpg" alt="" /></figure>
+<p><strong>1. Excalidraw</strong> 网址：https://excalidraw.com/</p>
+<p>先用 Excalidraw 把脑中的关系画出来。打开后直接在画布上放矩形、箭头和文字，手绘风格会让草稿看起来没有那么“已经定稿”，反而方便大家继续改。它适合流程、网页结构和家庭分工表，优点是上手快、画布轻；如果需要多人同时编辑，再留意分享链接和权限设置。</p>
+<p><strong>2. AutoDraw</strong> 网址：https://www.autodraw.com/</p>
+<p>画不出像样的图标时，把笔画得像一把椅子、一个灯泡或一台电脑，AutoDraw 会给出猜测。选择一个建议图形，就能把潦草线条替成可识别的图标。它和 Excalidraw 不同，不负责整张结构图，而是帮你把某个小元素画得更容易看懂，适合给流程图补一个“人”“文件”或“手机”。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/5cc6ab64df.jpg" alt="" /></figure>
+<p><strong>3. Iconfont</strong> 网址：https://www.iconfont.cn/</p>
+<p>如果需要一套风格一致的中文图标，可以在 Iconfont 搜索关键词，进入图标详情页再下载或加入项目。它比 AutoDraw 更适合已经知道自己要找什么的人，比如“搜索”“日历”“上传”。下载前看清项目授权和使用边界，尤其是要放进商业页面时，不要只看“免费”两个字。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/6d0fb772ac.jpg" alt="" /></figure>
+<p><strong>4. unDraw</strong> 网址：https://undraw.co/illustrations</p>
+<p>有些想法不是一个图标能讲明白，例如“远程协作”“等待审核”或“资料堆在桌上”。unDraw 的插画库可以按关键词找一张完整画面，还能调整主色。它的角色是给一页说明补气氛，不该替代流程本身；先在 Excalidraw 画清楚，再挑一张插画放在开头或结尾，会比堆满装饰更有效。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/11a2b61ac1.jpg" alt="" /></figure>
+<p><strong>5. Google Fonts</strong> 网址：https://fonts.google.com/</p>
+<p>最后用字体把信息层级整理好。打开后按语言或字形筛选，先看标题、正文和数字放在一起的效果，再下载或通过网页方式使用。它和图标、插画的区别在于不直接提供内容，而是让一页图读起来舒服。不同字体的许可与使用方式要看具体页面，中文字体也要确认覆盖范围。</p>
+<p>顺序很简单：先画关系，再补图标，最后才调颜色和字体。读者真正需要的是一张能把事情讲明白的图，而不是一张看起来很忙的图。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/a2209b030a.jpg" alt="" /></figure>]]></content:encoded>
+      
+    </item>
+
+    <item>
+      <title>想给一段家庭录音找个能用的处理办法？5个免费网站从剪辑、降噪到配乐排好</title>
+      <link>https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/articles/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A_%E6%83%B3%E7%BB%99%E4%B8%80%E6%AE%B5%E5%AE%B6%E5%BA%AD%E5%BD%95%E9%9F%B3%E6%89%BE%E4%B8%AA%E8%83%BD%E7%94%A8%E7%9A%84%E5%A4%84%E7%90%86%E5%8A%9E%E6%B3%95_5%E4%B8%AA%E5%85%8D%E8%B4%B9%E7%BD%91%E7%AB%99%E4%BB%8E%E5%89%AA%E8%BE%91_%E9%99%8D%E5%99%AA%E5%88%B0%E9%85%8D%E4%B9%90%E6%8E%92%E5%A5%BD_fe8eff058c.md</link>
+      <guid isPermaLink="false">资源伸手党:fe8eff058c</guid>
+      <pubDate>Tue, 17 Nov 2026 09:00:00 GMT</pubDate>
+      <category>资源伸手党</category>
+      <dc:creator>资源伸手党</dc:creator>
+      <dc:subject>资源伸手党</dc:subject>
+      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/f5fc79a306.jpg]]></poster>
+      <description><![CDATA[<p><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/f5fc79a306.jpg" alt="" /></p><p>孩子讲故事、家人唱歌、旅行时录下的一句方言，往往不是没有价值，而是回放时风声太大、开头太长、音量忽高忽低。别急着找“万能音频神器”，先按录入、剪辑、补声音、看授权的顺序走一遍，通常就能把一段杂乱录音变成可以分享的文件。 1. Audacity 网址：https://www.audacityteam.org/ Audacity 是从电脑端处理录音的稳妥入口。官网先下载对应系统的软件，打开后把录音导入，再拖动波形选出多余的开头和结尾。它适合剪辑、调音量和做基础降噪，优势是控制细，缺点是需要安装，第一次打开时按钮比手机录音机多。家里有一段长录音，想保留原文件、</p>]]></description>
+      <content:encoded><![CDATA[<p>孩子讲故事、家人唱歌、旅行时录下的一句方言，往往不是没有价值，而是回放时风声太大、开头太长、音量忽高忽低。别急着找“万能音频神器”，先按录入、剪辑、补声音、看授权的顺序走一遍，通常就能把一段杂乱录音变成可以分享的文件。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/f5fc79a306.jpg" alt="" /></figure>
+<p><strong>1. Audacity</strong> 网址：https://www.audacityteam.org/</p>
+<p>Audacity 是从电脑端处理录音的稳妥入口。官网先下载对应系统的软件，打开后把录音导入，再拖动波形选出多余的开头和结尾。它适合剪辑、调音量和做基础降噪，优势是控制细，缺点是需要安装，第一次打开时按钮比手机录音机多。家里有一段长录音，想保留原文件、慢慢修一版，先从它开始。</p>
+<p><strong>2. BandLab</strong> 网址：https://www.bandlab.com/</p>
+<p>不想安装软件，可以试 BandLab 的在线工作区。进入后先创建项目，再把录音放进轨道；剪切、叠加和加一条简单伴奏都在浏览器里完成。它比 Audacity 更像音乐工作台，适合把孩子的朗读和一段节奏合在一起，也适合几个人远程接力。登录状态、浏览器权限和网络都会影响上传，录音涉及家人声音时，先确认自己愿意把文件放到在线服务里。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/c5165cee51.jpg" alt="" /></figure>
+<p><strong>3. Freesound</strong> 网址：https://freesound.org/</p>
+<p>如果原录音太“干”，想加一点雨声、脚步声或房间环境，可以到 Freesound 搜索。打开后用关键词和标签筛选，试听后再看单个声音文件的许可条件。它和 BandLab 的区别是这里只提供声音素材，不替你剪辑；适合已经有明确画面、只缺一个背景声音的人。不同素材的 Creative Commons 条件不一样，下载前要按页面标注署名或其他要求使用。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/870c637481.jpg" alt="" /></figure>
+<p><strong>4. Pixabay Music</strong> 网址：https://pixabay.com/music/</p>
+<p>需要一段不抢人声的背景音乐时，Pixabay Music 可以先按氛围和时长浏览。打开后试听，再把音乐和录音的长度、节拍对一下；一段温柔的音乐不一定适合覆盖整段讲话，放在开头或结尾更安全。页面可能出现等待或地区加载差异，遇到打不开时不要把搜索结果截图当成素材证明。免费访问也不等于所有用途都无需看许可，实际下载页的条件要留存。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/da84e3f0fd.jpg" alt="" /></figure>
+<p><strong>5. YouTube 音频库</strong> 网址：https://www.youtube.com/audiolibrary</p>
+<p>这是给视频创作者找音乐和音效的入口，但未登录时会先跳到 Google 账号登录页。登录后再在 YouTube Studio 的音频库里按类型、时长和署名要求筛选。它的优点是授权提示通常和素材一起出现，适合准备发布到 YouTube 的视频；如果只是给家庭录音留档，则没必要为了它单独注册账号。</p>
+<p>处理一段录音，先用 Audacity 或 BandLab 把人声剪干净，再去 Freesound 或 Pixabay 找很轻的背景，最后检查授权。最重要的一步不是把声音做得很响，而是让说话的人听得清。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/403d00587c.jpg" alt="" /></figure>]]></content:encoded>
+      
+    </item>
+
+    <item>
+      <title>想给周末找点安静的内容，不想一直刷短视频？5个免费入口把电影、广播和自然声排成一晚</title>
+      <link>https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/articles/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A_%E6%83%B3%E7%BB%99%E5%91%A8%E6%9C%AB%E6%89%BE%E7%82%B9%E5%AE%89%E9%9D%99%E7%9A%84%E5%86%85%E5%AE%B9_%E4%B8%8D%E6%83%B3%E4%B8%80%E7%9B%B4%E5%88%B7%E7%9F%AD%E8%A7%86%E9%A2%91_5%E4%B8%AA%E5%85%8D%E8%B4%B9%E5%85%A5%E5%8F%A3%E6%8A%8A%E7%94%B5%E5%BD%B1_%E5%B9%BF%E6%92%AD%E5%92%8C%E8%87%AA%E7%84%B6%E5%A3%B0%E6%8E%92%E6%88%90%E4%B8%80%E6%99%9A_76f5150dfc.md</link>
+      <guid isPermaLink="false">资源伸手党:76f5150dfc</guid>
+      <pubDate>Tue, 17 Nov 2026 09:00:00 GMT</pubDate>
+      <category>资源伸手党</category>
+      <dc:creator>资源伸手党</dc:creator>
+      <dc:subject>资源伸手党</dc:subject>
+      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/16da1637a9.jpg]]></poster>
+      <description><![CDATA[<p><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/16da1637a9.jpg" alt="" /></p><p>周五晚上终于空下来，手却已经习惯性地往下划。真正想要的也许不是更多内容，而是一个不会不断提醒你“还有下一条”的晚上。可以先用档案馆找一部旧电影，再听一会儿广播，最后用自然声收尾；每一步都不用先做复杂计划。 1. Internet Archive 网址：https://archive.org/ 先从 Internet Archive 找一部旧电影、一段录音或一本书。首页搜索后，用左侧类型和日期等条件缩小范围，进入具体条目再看播放、借阅或下载方式。它像一座大型数字档案馆，优点是内容跨度大；缺点是不同条目的权利和可用方式不同，不能把“能看到”理解成“可以随意转</p>]]></description>
+      <content:encoded><![CDATA[<p>周五晚上终于空下来，手却已经习惯性地往下划。真正想要的也许不是更多内容，而是一个不会不断提醒你“还有下一条”的晚上。可以先用档案馆找一部旧电影，再听一会儿广播，最后用自然声收尾；每一步都不用先做复杂计划。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/16da1637a9.jpg" alt="" /></figure>
+<p><strong>1. Internet Archive</strong> 网址：https://archive.org/</p>
+<p>先从 Internet Archive 找一部旧电影、一段录音或一本书。首页搜索后，用左侧类型和日期等条件缩小范围，进入具体条目再看播放、借阅或下载方式。它像一座大型数字档案馆，优点是内容跨度大；缺点是不同条目的权利和可用方式不同，不能把“能看到”理解成“可以随意转载”。适合愿意花十分钟挑内容的人。</p>
+<p><strong>2. NHK WORLD-JAPAN</strong> 网址：https://www3.nhk.or.jp/nhkworld/</p>
+<p>想让晚上有一点“正在发生”的感觉，可以打开 NHK WORLD-JAPAN。先从节目或视频入口挑一段，不必从首页一路看完；新闻、纪录和文化节目之间的节奏不同，适合按主题选一集。它和档案馆的旧内容不同，更像一扇通向当下世界的窗口；部分内容会受地区、语言或播放条件影响。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/4fd6ed0c9f.jpg" alt="" /></figure>
+<p><strong>3. Radio Garden</strong> 网址：https://radio.garden/</p>
+<p>打开 Radio Garden，先转动地球，再点一座城市的绿色圆点，听当地正在播出的电台。它的乐趣不在于选出“最好”的节目，而在于从熟悉语言换到另一种节奏：深夜音乐、交通节目或一段听不懂却很有气氛的聊天。和 NHK 的专题节目相比，它更随机，适合把背景声交给一座城市。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/7f0d2b00be.jpg" alt="" /></figure>
+<p><strong>4. Earth.fm</strong> 网址：https://earth.fm/</p>
+<p>如果你已经不想再听人声，可以试 Earth.fm 的自然声音。按地点或声音挑一条，先低音量播放，再让它盖住键盘和家里的杂音。它不是音乐播放器，也不提供“高潮”，适合阅读、整理照片或准备睡觉的人。录音和页面内容有各自的使用条件，若要放进视频，仍需看具体许可。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/8f62410f06.jpg" alt="" /></figure>
+<p><strong>5. Public Domain Review</strong> 网址：https://publicdomainreview.org/</p>
+<p>最后可以逛一会儿 Public Domain Review。它从公版书、旧图像、奇特手稿和历史材料中挑选内容，适合把“刷东西”换成慢慢看一件不急着更新的旧物。页面提供的作品与版权状态要按条目说明判断，不是看到 Public Domain 就能把所有页面素材打包使用。</p>
+<p>一晚只选两三个入口就够了：一部旧片、一座陌生城市，或者一段自然声。把下一条视频的自动播放关掉，安静才真正开始。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/e7fd9be2d7.jpg" alt="" /></figure>]]></content:encoded>
+      
+    </item>
+
+    <item>
+      <title>想和朋友临时玩点不用安装的小游戏？5个免费网页从猜国、猜城到知识问答接起来</title>
+      <link>https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/articles/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A_%E6%83%B3%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%B8%B4%E6%97%B6%E7%8E%A9%E7%82%B9%E4%B8%8D%E7%94%A8%E5%AE%89%E8%A3%85%E7%9A%84%E5%B0%8F%E6%B8%B8%E6%88%8F_5%E4%B8%AA%E5%85%8D%E8%B4%B9%E7%BD%91%E9%A1%B5%E4%BB%8E%E7%8C%9C%E5%9B%BD_%E7%8C%9C%E5%9F%8E%E5%88%B0%E7%9F%A5%E8%AF%86%E9%97%AE%E7%AD%94%E6%8E%A5%E8%B5%B7%E6%9D%A5_dd15585f16.md</link>
+      <guid isPermaLink="false">资源伸手党:dd15585f16</guid>
+      <pubDate>Tue, 17 Nov 2026 09:00:00 GMT</pubDate>
+      <category>资源伸手党</category>
+      <dc:creator>资源伸手党</dc:creator>
+      <dc:subject>资源伸手党</dc:subject>
+      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/c1136032f7.jpg]]></poster>
+      <description><![CDATA[<p><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/c1136032f7.jpg" alt="" /></p><p>临时等人，群里又不想再转一条短视频，最容易冷场的往往不是没话题，而是大家都不想为了玩一局再下载 App、注册账号、研究规则。下面这条线从最轻的猜国开始，慢慢加上街景、棋局和地球漫游，手机或电脑打开网页就能接着玩。 1. Worldle 网址：https://worldle.teuteuf.fr/ 它把一个国家的轮廓变成每日猜题。打开后先看地图形状，再输入国家名，页面会用距离和方向提示你下一步往哪边想。它的好处是规则短，第一局不用解释太久；如果朋友里有人总说“我地理很差”，反而更容易把猜错变成聊天的入口。图形熟悉度比背首都更重要，适合通勤、排队时各玩几分钟</p>]]></description>
+      <content:encoded><![CDATA[<p>临时等人，群里又不想再转一条短视频，最容易冷场的往往不是没话题，而是大家都不想为了玩一局再下载 App、注册账号、研究规则。下面这条线从最轻的猜国开始，慢慢加上街景、棋局和地球漫游，手机或电脑打开网页就能接着玩。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/c1136032f7.jpg" alt="" /></figure>
+<p><strong>1. Worldle</strong> 网址：https://worldle.teuteuf.fr/</p>
+<p>它把一个国家的轮廓变成每日猜题。打开后先看地图形状，再输入国家名，页面会用距离和方向提示你下一步往哪边想。它的好处是规则短，第一局不用解释太久；如果朋友里有人总说“我地理很差”，反而更容易把猜错变成聊天的入口。图形熟悉度比背首都更重要，适合通勤、排队时各玩几分钟。</p>
+<p><strong>2. City Guesser</strong> 网址：https://cityguesser.eu/</p>
+<p>猜完轮廓，可以换成一段城市街景视频。打开后先选城市或地区，再看车辆、路牌、建筑和人声，猜这段画面发生在哪里。它不像地图测验那样只考记忆，更多是观察：一辆公交车的颜色、店铺招牌的语言，都可能是线索。适合朋友一起投票，也适合一个人睡前随便“走”一座城市。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/c6da006c6e.jpg" alt="" /></figure>
+<p><strong>3. Chess.com</strong> 网址：https://www.chess.com/play</p>
+<p>如果大家不想猜地理，就开一盘网页棋。这里的第一步不是研究所有模式，而是直接进入棋盘，先约一位朋友下几手。它和前两个网站的区别在于，结果不在“猜中”，而在对手下一步会怎么走；新手可以把目标定成不丢后、不漏将，而不是马上学会开局理论。游客访问和登录后能看到的功能可能不同，临时对局前先确认页面是否要求登录。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/e5e37705f5.jpg" alt="" /></figure>
+<p><strong>4. GeoGuessr</strong> 网址：https://www.geoguessr.com/</p>
+<p>它把街景猜地点做成了更完整的竞赛形式。打开后先看可用的地图或模式，再从道路、气候、车牌和建筑判断位置。和 City Guesser 相比，它更像正式的地理游戏，线索密度高，适合已经玩过几局、想和朋友比速度的人。部分地图和多人功能可能受登录、会员或地区影响，页面能玩的模式要以实际显示为准。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/876bca0160.jpg" alt="" /></figure>
+<p><strong>5. Google Earth Voyager</strong> 网址：https://earth.google.com/web/</p>
+<p>最后把“玩一局”换成“去一个地方看看”。进入地球网页后，可以旋转、缩放，再从探索内容里挑一个主题。它不一定有明确的输赢，却适合把前面猜到的国家、城市继续放回真实地理里：猜完摩洛哥，转去看看海岸线；遇到熟悉的城市，放大到街区。Google 地球的部分内容需要较好的网络和浏览器性能，老设备加载会慢。</p>
+<p>五个入口不必一次全玩。先把 Worldle 发到群里，猜完的人再选一座 City Guesser 的城市；如果气氛还在，接一盘棋或打开地球。这样不用安装，也不会把“找个小游戏”变成另一个准备工作。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/df56622cba.jpg" alt="" /></figure>]]></content:encoded>
+      
+    </item>
+
+    <item>
+      <title>想开始学一门新语言，又不想先买课？5个免费入口从短练习到系统材料接起来</title>
+      <link>https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/articles/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A_%E6%83%B3%E5%BC%80%E5%A7%8B%E5%AD%A6%E4%B8%80%E9%97%A8%E6%96%B0%E8%AF%AD%E8%A8%80_%E5%8F%88%E4%B8%8D%E6%83%B3%E5%85%88%E4%B9%B0%E8%AF%BE_5%E4%B8%AA%E5%85%8D%E8%B4%B9%E5%85%A5%E5%8F%A3%E4%BB%8E%E7%9F%AD%E7%BB%83%E4%B9%A0%E5%88%B0%E7%B3%BB%E7%BB%9F%E6%9D%90%E6%96%99%E6%8E%A5%E8%B5%B7%E6%9D%A5_c55a73a873.md</link>
+      <guid isPermaLink="false">资源伸手党:c55a73a873</guid>
+      <pubDate>Tue, 17 Nov 2026 09:00:00 GMT</pubDate>
+      <category>资源伸手党</category>
+      <dc:creator>资源伸手党</dc:creator>
+      <dc:subject>资源伸手党</dc:subject>
+      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/60c18a3270.jpg]]></poster>
+      <description><![CDATA[<p><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/60c18a3270.jpg" alt="" /></p><p>很多人不是没有兴趣，而是第一天就被“教材、课程、词表、计划”吓退了。更轻的办法是先用几分钟练习建立手感，再找一段能听懂的材料，最后用公版文字和有声书把学习拉长。下面的入口不要求一次全用，选两三个就能开工。 1. Duolingo 网址：https://www.duolingo.com/ 先用 Duolingo 做一小节，熟悉发音、拼写和最常见的句型。它把练习切得很短，适合每天在地铁或等外卖时完成；提醒和连续学习会推动你回来，但也不要把连续天数当成真正的水平证明。免费层能完成基础练习，具体课程、广告和次数限制会随语言与地区变化。 2. BBC Bitesi</p>]]></description>
+      <content:encoded><![CDATA[<p>很多人不是没有兴趣，而是第一天就被“教材、课程、词表、计划”吓退了。更轻的办法是先用几分钟练习建立手感，再找一段能听懂的材料，最后用公版文字和有声书把学习拉长。下面的入口不要求一次全用，选两三个就能开工。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/60c18a3270.jpg" alt="" /></figure>
+<p><strong>1. Duolingo</strong> 网址：https://www.duolingo.com/</p>
+<p>先用 Duolingo 做一小节，熟悉发音、拼写和最常见的句型。它把练习切得很短，适合每天在地铁或等外卖时完成；提醒和连续学习会推动你回来，但也不要把连续天数当成真正的水平证明。免费层能完成基础练习，具体课程、广告和次数限制会随语言与地区变化。</p>
+<p><strong>2. BBC Bitesize</strong> 网址：https://www.bbc.co.uk/bitesize</p>
+<p>当你不想只做选择题，可以进 BBC Bitesize 按主题找解释和练习。打开后先选学科或年龄段，再挑一页能读完的内容；它更像结构化的学习材料，不只是背词。对于刚入门的人，先把一篇短解释读完，再回到 Duolingo 练习，通常比同时打开十个课程更容易坚持。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/f204121296.jpg" alt="" /></figure>
+<p><strong>3. Open Culture</strong> 网址：https://www.openculture.com/freeonlinecourses</p>
+<p>Open Culture 更像一张免费课程和材料索引。搜索语言或相关主题时，先看课程指向的原始平台、是否需要注册和当前是否仍可打开，再决定收藏哪一个。它和 BBC Bitesize 的区别是不会替你把课程全部装在一个学习界面里，适合已经知道自己想学“听力”“语法”还是“文学”的人。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/2169dc532f.jpg" alt="" /></figure>
+<p><strong>4. Project Gutenberg</strong> 网址：https://www.gutenberg.org/</p>
+<p>等基础词汇多一点，可以把 Project Gutenberg 的公版书当作低压力阅读材料：先按语言或书名搜索，打开文本页，只读一小段，不必一上来啃长篇。今天主页可能遇到维护状态，恢复后再用更稳妥；如果你现在就要有声材料，可以先看下一项。不同国家的公版范围不完全一样，下载和再使用前要按所在地规则判断。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/fd01cb418a.jpg" alt="" /></figure>
+<p><strong>5. LibriVox</strong> 网址：https://librivox.org/</p>
+<p>LibriVox 把公版书做成有声读物。打开后先按语言或书名找一章，播放时不要追求每个词都听懂，只记下反复出现的短语，再回头查文本。它和 Gutenberg 的差别是让耳朵先适应节奏，适合散步、收拾房间时听。录音来自志愿者，音质和口音会有差异，正好可以当作不同听感练习。</p>
+<p>最轻的开始方式是今天只做一节短练习，再听 LibriVox 的一章开头。等你愿意回来第二次，学习计划才算真正开始。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/2a8545e5ce.jpg" alt="" /></figure>]]></content:encoded>
+      
+    </item>
+
+    <item>
+      <title>写东西前想把参考文献收好，Zotero先从浏览器抓下一条</title>
+      <link>https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/articles/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A_%E5%86%99%E4%B8%9C%E8%A5%BF%E5%89%8D%E6%83%B3%E6%8A%8A%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE%E6%94%B6%E5%A5%BD_Zotero%E5%85%88%E4%BB%8E%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8A%93%E4%B8%8B%E4%B8%80%E6%9D%A1_511db72e7a.md</link>
+      <guid isPermaLink="false">资源伸手党:511db72e7a</guid>
+      <pubDate>Tue, 17 Nov 2026 09:00:00 GMT</pubDate>
+      <category>资源伸手党</category>
+      <dc:creator>资源伸手党</dc:creator>
+      <dc:subject>资源伸手党</dc:subject>
+      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/3c91eb7660.jpg]]></poster>
+      <description><![CDATA[<p><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/3c91eb7660.jpg" alt="" /></p><p>真正让人放弃阅读的，常常不是材料太难，而是打开了十个网页以后，再也想不起哪条信息来自哪里。Zotero 的价值不在于替你读完论文，而是把“这条资料以后还找不找得到”这件事提前处理掉。 🔖 先把网页变成一条可回头的记录 打开 https://www.zotero.org/，先安装 Zotero 客户端和浏览器连接工具。进入一篇论文、书籍页面或图书馆目录时，浏览器工具栏会根据页面类型显示可保存的图标；点一下，选择收藏夹，标题、作者、出版信息和网页地址就会进入本地资料库。页面类型识别不准时，别急着手填，先检查原网页的书目信息是否完整。 保存之后，打开条目检查</p>]]></description>
+      <content:encoded><![CDATA[<p>真正让人放弃阅读的，常常不是材料太难，而是打开了十个网页以后，再也想不起哪条信息来自哪里。Zotero 的价值不在于替你读完论文，而是把“这条资料以后还找不找得到”这件事提前处理掉。</p>
+<h2>🔖 先把网页变成一条可回头的记录</h2>
+<p>打开 https://www.zotero.org/，先安装 Zotero 客户端和浏览器连接工具。进入一篇论文、书籍页面或图书馆目录时，浏览器工具栏会根据页面类型显示可保存的图标；点一下，选择收藏夹，标题、作者、出版信息和网页地址就会进入本地资料库。页面类型识别不准时，别急着手填，先检查原网页的书目信息是否完整。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/3c91eb7660.jpg" alt="" /></figure>
+<p>保存之后，打开条目检查一次作者、年份和标题。数据库里经常会有同名版本，自动抓取不是“永远正确”，但它把最麻烦的复制粘贴变成了一个可校对的起点。给条目加一个短标签，例如“城市史”“待读”或“引用”，以后回到同一个主题时，不用重新翻浏览器历史。</p>
+<p>如果网页上有 PDF，保存条目后再把文件拖到条目上；如果只是普通新闻页，也可以保留网页地址和访问日期。我的习惯是马上写一句“为什么留它”，哪怕只有十几个字。几天后回看时，标题相似的资料很多，这句短笔记比浏览器收藏夹里的一个冷冰冰链接更能帮你想起当时的判断。</p>
+<h2>🗂️ 让下一次搜索从资料库开始</h2>
+<p>我会把一个主题拆成三个收藏夹：已经读过、准备读、只留下线索。阅读时把 PDF 或网页附件放在对应条目下面，再用笔记记录页码和一句自己的话。这样做的好处是，写作时能从“我记得有篇文章说过”回到一条具体记录，而不是重新猜关键词。</p>
+<p>Zotero 有桌面端、浏览器连接工具和移动端方案，基础资料管理可以免费开始；同步容量、协作方式和不同平台的细节要看当前账户与版本。它适合写论文、做读书笔记、整理工作资料的人，不适合把每一个网页都无差别收藏。今天先保存一篇你确定以后还会用到的文章，再马上打开条目校对作者和日期。</p>]]></content:encoded>
+      
+    </item>
+
+    <item>
+      <title>只看一眼国家轮廓，Worldle每天几分钟把地理直觉练起来</title>
+      <link>https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/articles/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A_%E5%8F%AA%E7%9C%8B%E4%B8%80%E7%9C%BC%E5%9B%BD%E5%AE%B6%E8%BD%AE%E5%BB%93_Worldle%E6%AF%8F%E5%A4%A9%E5%87%A0%E5%88%86%E9%92%9F%E6%8A%8A%E5%9C%B0%E7%90%86%E7%9B%B4%E8%A7%89%E7%BB%83%E8%B5%B7%E6%9D%A5_0005f7c630.md</link>
+      <guid isPermaLink="false">资源伸手党:0005f7c630</guid>
+      <pubDate>Tue, 17 Nov 2026 09:00:00 GMT</pubDate>
+      <category>资源伸手党</category>
+      <dc:creator>资源伸手党</dc:creator>
+      <dc:subject>资源伸手党</dc:subject>
+      <poster><![CDATA[https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/aca0673b04.jpg]]></poster>
+      <description><![CDATA[<p><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/aca0673b04.jpg" alt="" /></p><p>朋友发来一张地图，你认出海岸线，却叫不出国家名；等你打开百科，答案已经被别人说出来了。Worldle 的好玩之处就在于，它把“我好像见过”留给你自己判断。每天只给一个国家轮廓，猜错以后再用距离和方向把思路往回拽。 🧭 先别急着输入答案 打开 https://worldle.teuteuf.fr/，先看中间的黑色轮廓。第一眼不要马上按键盘搜国家名，先问自己三个问题：它有没有明显的海岸线？形状像不像一个岛？旁边是不是可能还有很小的领土？这一步看似慢，却是在练“地图整体感”，而不是靠搜索提示蒙答案。 输入猜测后，页面会告诉你和目标国家相距多远，并给出大致方向</p>]]></description>
+      <content:encoded><![CDATA[<p>朋友发来一张地图，你认出海岸线，却叫不出国家名；等你打开百科，答案已经被别人说出来了。Worldle 的好玩之处就在于，它把“我好像见过”留给你自己判断。每天只给一个国家轮廓，猜错以后再用距离和方向把思路往回拽。</p>
+<h2>🧭 先别急着输入答案</h2>
+<p>打开 https://worldle.teuteuf.fr/，先看中间的黑色轮廓。第一眼不要马上按键盘搜国家名，先问自己三个问题：它有没有明显的海岸线？形状像不像一个岛？旁边是不是可能还有很小的领土？这一步看似慢，却是在练“地图整体感”，而不是靠搜索提示蒙答案。</p>
+<figure><img src="https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A/assets/aca0673b04.jpg" alt="" /></figure>
+<p>输入猜测后，页面会告诉你和目标国家相距多远，并给出大致方向。假如第一次猜了葡萄牙，结果提示目标在东边，就不要继续在欧洲西海岸乱撞；把方向和轮廓一起看，下一次猜测才有意义。它不像选择题那样只奖励记忆，错一次反而会给你一条新的地图线索。</p>
+<p>有时轮廓会故意把小岛、海外领地或细长海岸线放大成一道难题。遇到这种图，不要只盯着国土面积，先想它和哪些国家共享陆地边界，再看页面给出的方向。这个过程很像把一张模糊的照片逐渐调焦：你不是凭空想出答案，而是在每次猜测后删掉一批不可能。</p>
+<h2>🎯 把每天一题变成一个小动作</h2>
+<p>我会给自己设三个猜测规则：第一猜只凭轮廓，第二猜结合距离，第三猜才查首都或邻国。猜中之后再点地图看看它真实位于哪里，顺便记一个最容易混淆的邻国。这样五分钟结束时，留下的不是一个答案，而是一条从形状到位置的记忆。</p>
+<p>Worldle 可以直接在浏览器打开，核心玩法不要求下载软件；每日题和页面语言可能随站点更新变化，连续答题也不等于系统学习。它适合亲子一起猜、朋友在群里比谁先中，也适合把刷短视频前的三分钟换成一点真正的观察。今天打开页面，先别看搜索提示，凭轮廓猜一次。</p>]]></content:encoded>
+      
+    </item>
+  </channel>
+</rss>

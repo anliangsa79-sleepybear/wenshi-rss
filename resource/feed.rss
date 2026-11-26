@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>资源伸手党</title>
+    <link>https://anliangsa79-sleepybear.github.io/wenshi-rss/%E8%B5%84%E6%BA%90%E4%BC%B8%E6%89%8B%E5%85%9A</link>
+    <atom:link href="https://anliangsa79-sleepybear.github.io/wenshi-rss/resource/feed.rss" rel="self" type="application/rss+xml" />
+    <description>资源伸手党 RSS：免费小工具与资源网站推荐，包含完整正文与配图。</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Thu, 26 Nov 2026 08:00:00 GMT</lastBuildDate>
+    <generator>垂类 RSS Builder</generator>
+  </channel>
+</rss>
