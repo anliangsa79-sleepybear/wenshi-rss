@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-26T08:16:43.621Z",
+  "generatedAt": "2026-11-27T05:25:52.380Z",
   "vertical": "文史背景墙",
-  "itemCount": 387,
+  "itemCount": 405,
   "errorCount": 0,
   "warningCount": 1,
   "p1ErrorCount": 0,
@@ -16,11 +16,75 @@
   "p2Errors": [],
   "p2Warnings": [],
   "autoFixes": [
-    "已清理 9 篇文章内的重复段落"
+    "已清理 25 篇文章内的重复段落"
   ],
   "sharedParagraphs": [],
   "droppedSharedParagraphs": [],
   "duplicateParagraphItems": [
+    {
+      "title": "1852年11月27日阿达·洛芙莱斯逝世：一段写给机器的算法，为什么早于机器一个世纪？",
+      "count": 1
+    },
+    {
+      "title": "1895年11月27日，小仲马逝世：《茶花女》为什么先是争议，再成为经典？",
+      "count": 3
+    },
+    {
+      "title": "1940年11月27日李小龙出生：截拳道为什么拒绝一套固定招式？",
+      "count": 2
+    },
+    {
+      "title": "1942年11月27日吉米·亨德里克斯出生：电吉他为什么从乐器变成一堵声音的墙？",
+      "count": 1
+    },
+    {
+      "title": "1953年11月27日尤金·奥尼尔逝世：为什么一场家庭争吵能写成美国戏剧史？",
+      "count": 2
+    },
+    {
+      "title": "1989年11月27日，首例活体肝移植完成：母亲的一部分肝脏，怎样长回孩子体内？",
+      "count": 1
+    },
+    {
+      "title": "2005年11月27日，世界首例部分面部移植：一张脸怎样重新成为“自己的脸”？",
+      "count": 3
+    },
+    {
+      "title": "41岁詹姆斯为何还能连续砍分：运动员的“巅峰”是谁算出来的？",
+      "count": 3
+    },
+    {
+      "title": "抱石攀岩为什么没有绳子：一块保护垫，能不能接住一项城市运动？",
+      "count": 3
+    },
+    {
+      "title": "电池为什么都认80%这条线：一个百分比，怎样变成手机的共同习惯？",
+      "count": 1
+    },
+    {
+      "title": "三只松鼠员工都要姓“鼠”？企业为什么爱给员工起一套内部名字？",
+      "count": 1
+    },
+    {
+      "title": "显存扩到百万GB？英伟达和铠侠这次把什么搬进了内存？",
+      "count": 1
+    },
+    {
+      "title": "乙肝“功能性治愈”新药获批：治愈到底和“转阴”是一回事吗？",
+      "count": 1
+    },
+    {
+      "title": "中国男篮爆冷不敌沙特：一场比赛里的“爆冷”，到底是怎么发生的？",
+      "count": 1
+    },
+    {
+      "title": "AI把周深的歌改成“大肥鱼”：一首歌被机器改写后，谁还拥有它？",
+      "count": 3
+    },
+    {
+      "title": "DeepSeek上线“价格计算”功能：AI为什么开始按“用多少算多少”？",
+      "count": 2
+    },
     {
       "title": "洗衣机“15分钟快洗”洗不干净：这个按钮为什么还留在面板上？",
       "count": 1
@@ -99,6 +163,204 @@
     "中秋火车票开抢：这个\"团圆节\"，其实是宋人定型的"
   ],
   "items": [
+    {
+      "title": "1852年11月27日阿达·洛芙莱斯逝世：一段写给机器的算法，为什么早于机器一个世纪？",
+      "guid": "文史背景墙:876a502524",
+      "source": "文史背景墙/2026-11-27成稿/20261127_文史背景墙_17_1852年11月27日阿达_洛芙莱斯逝世_一段写给机器的算法_为什么早于机器一个世纪.md",
+      "bodyChars": 1867,
+      "paragraphCount": 15,
+      "headingCount": 3,
+      "imageCount": 1,
+      "duplicateParagraphs": 1,
+      "hasMainImage": true
+    },
+    {
+      "title": "1895年11月27日，小仲马逝世：《茶花女》为什么先是争议，再成为经典？",
+      "guid": "文史背景墙:ba1eec8e0f",
+      "source": "文史背景墙/2026-11-27成稿/20261127_文史背景墙_14_1895年11月27日_小仲马逝世_茶花女_为什么先是争议_再成为经典.md",
+      "bodyChars": 1561,
+      "paragraphCount": 11,
+      "headingCount": 3,
+      "imageCount": 1,
+      "duplicateParagraphs": 3,
+      "hasMainImage": true
+    },
+    {
+      "title": "1940年11月27日李小龙出生：截拳道为什么拒绝一套固定招式？",
+      "guid": "文史背景墙:a3e58403f6",
+      "source": "文史背景墙/2026-11-27成稿/20261127_文史背景墙_15_1940年11月27日李小龙出生_截拳道为什么拒绝一套固定招式.md",
+      "bodyChars": 1727,
+      "paragraphCount": 15,
+      "headingCount": 3,
+      "imageCount": 1,
+      "duplicateParagraphs": 2,
+      "hasMainImage": true
+    },
+    {
+      "title": "1942年11月27日吉米·亨德里克斯出生：电吉他为什么从乐器变成一堵声音的墙？",
+      "guid": "文史背景墙:1fc98501be",
+      "source": "文史背景墙/2026-11-27成稿/20261127_文史背景墙_16_1942年11月27日吉米_亨德里克斯出生_电吉他为什么从乐器变成一堵声音的墙.md",
+      "bodyChars": 1882,
+      "paragraphCount": 16,
+      "headingCount": 3,
+      "imageCount": 1,
+      "duplicateParagraphs": 1,
+      "hasMainImage": true
+    },
+    {
+      "title": "1953年11月27日尤金·奥尼尔逝世：为什么一场家庭争吵能写成美国戏剧史？",
+      "guid": "文史背景墙:271d09f850",
+      "source": "文史背景墙/2026-11-27成稿/20261127_文史背景墙_18_1953年11月27日尤金_奥尼尔逝世_为什么一场家庭争吵能写成美国戏剧史.md",
+      "bodyChars": 1698,
+      "paragraphCount": 13,
+      "headingCount": 3,
+      "imageCount": 1,
+      "duplicateParagraphs": 2,
+      "hasMainImage": true
+    },
+    {
+      "title": "1989年11月27日，首例活体肝移植完成：母亲的一部分肝脏，怎样长回孩子体内？",
+      "guid": "文史背景墙:2c16a5a816",
+      "source": "文史背景墙/2026-11-27成稿/20261127_文史背景墙_13_1989年11月27日_首例活体肝移植完成_母亲的一部分肝脏_怎样长回孩子体内.md",
+      "bodyChars": 1857,
+      "paragraphCount": 16,
+      "headingCount": 3,
+      "imageCount": 1,
+      "duplicateParagraphs": 1,
+      "hasMainImage": true
+    },
+    {
+      "title": "2005年11月27日，世界首例部分面部移植：一张脸怎样重新成为“自己的脸”？",
+      "guid": "文史背景墙:8740c6aacc",
+      "source": "文史背景墙/2026-11-27成稿/20261127_文史背景墙_12_2005年11月27日_世界首例部分面部移植_一张脸怎样重新成为_自己的脸.md",
+      "bodyChars": 1582,
+      "paragraphCount": 14,
+      "headingCount": 3,
+      "imageCount": 1,
+      "duplicateParagraphs": 3,
+      "hasMainImage": true
+    },
+    {
+      "title": "41岁詹姆斯为何还能连续砍分：运动员的“巅峰”是谁算出来的？",
+      "guid": "文史背景墙:4743321650",
+      "source": "文史背景墙/2026-11-27成稿/20261127_文史背景墙_08_41岁詹姆斯为何还能连续砍分_运动员的_巅峰_是谁算出来的.md",
+      "bodyChars": 1603,
+      "paragraphCount": 11,
+      "headingCount": 3,
+      "imageCount": 1,
+      "duplicateParagraphs": 3,
+      "hasMainImage": true
+    },
+    {
+      "title": "抱石攀岩为什么没有绳子：一块保护垫，能不能接住一项城市运动？",
+      "guid": "文史背景墙:3869c60a4c",
+      "source": "文史背景墙/2026-11-27成稿/20261127_文史背景墙_09_抱石攀岩为什么没有绳子_一块保护垫_能不能接住一项城市运动.md",
+      "bodyChars": 1634,
+      "paragraphCount": 13,
+      "headingCount": 3,
+      "imageCount": 1,
+      "duplicateParagraphs": 3,
+      "hasMainImage": true
+    },
+    {
+      "title": "电池为什么都认80%这条线：一个百分比，怎样变成手机的共同习惯？",
+      "guid": "文史背景墙:38b3a723bd",
+      "source": "文史背景墙/2026-11-27成稿/20261127_文史背景墙_05_电池为什么都认80_这条线_一个百分比_怎样变成手机的共同习惯.md",
+      "bodyChars": 1874,
+      "paragraphCount": 14,
+      "headingCount": 3,
+      "imageCount": 1,
+      "duplicateParagraphs": 1,
+      "hasMainImage": true
+    },
+    {
+      "title": "三只松鼠员工都要姓“鼠”？企业为什么爱给员工起一套内部名字？",
+      "guid": "文史背景墙:a3f9ab522a",
+      "source": "文史背景墙/2026-11-27成稿/20261127_文史背景墙_03_三只松鼠员工都要姓_鼠_企业为什么爱给员工起一套内部名字.md",
+      "bodyChars": 1890,
+      "paragraphCount": 13,
+      "headingCount": 3,
+      "imageCount": 1,
+      "duplicateParagraphs": 1,
+      "hasMainImage": true
+    },
+    {
+      "title": "水果腌肉突然火了：猕猴桃为什么能把牛肉腌成“国宴”或肉渣？",
+      "guid": "文史背景墙:329456e773",
+      "source": "文史背景墙/2026-11-27成稿/20261127_文史背景墙_06_水果腌肉突然火了_猕猴桃为什么能把牛肉腌成_国宴_或肉渣.md",
+      "bodyChars": 1979,
+      "paragraphCount": 14,
+      "headingCount": 3,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "显存扩到百万GB？英伟达和铠侠这次把什么搬进了内存？",
+      "guid": "文史背景墙:5cbf9ae478",
+      "source": "文史背景墙/2026-11-27成稿/20261127_文史背景墙_01_显存扩到百万GB_英伟达和铠侠这次把什么搬进了内存.md",
+      "bodyChars": 2204,
+      "paragraphCount": 13,
+      "headingCount": 3,
+      "imageCount": 1,
+      "duplicateParagraphs": 1,
+      "hasMainImage": true
+    },
+    {
+      "title": "乙肝“功能性治愈”新药获批：治愈到底和“转阴”是一回事吗？",
+      "guid": "文史背景墙:e593c8fcd6",
+      "source": "文史背景墙/2026-11-27成稿/20261127_文史背景墙_02_乙肝_功能性治愈_新药获批_治愈到底和_转阴_是一回事吗.md",
+      "bodyChars": 1970,
+      "paragraphCount": 13,
+      "headingCount": 3,
+      "imageCount": 1,
+      "duplicateParagraphs": 1,
+      "hasMainImage": true
+    },
+    {
+      "title": "中国男篮爆冷不敌沙特：一场比赛里的“爆冷”，到底是怎么发生的？",
+      "guid": "文史背景墙:d587bb5d8f",
+      "source": "文史背景墙/2026-11-27成稿/20261127_文史背景墙_11_中国男篮爆冷不敌沙特_一场比赛里的_爆冷_到底是怎么发生的.md",
+      "bodyChars": 1870,
+      "paragraphCount": 16,
+      "headingCount": 3,
+      "imageCount": 1,
+      "duplicateParagraphs": 1,
+      "hasMainImage": true
+    },
+    {
+      "title": "AI把周深的歌改成“大肥鱼”：一首歌被机器改写后，谁还拥有它？",
+      "guid": "文史背景墙:db992dba0f",
+      "source": "文史背景墙/2026-11-27成稿/20261127_文史背景墙_10_AI把周深的歌改成_大肥鱼_一首歌被机器改写后_谁还拥有它.md",
+      "bodyChars": 1620,
+      "paragraphCount": 11,
+      "headingCount": 3,
+      "imageCount": 1,
+      "duplicateParagraphs": 3,
+      "hasMainImage": true
+    },
+    {
+      "title": "DeepSeek上线“价格计算”功能：AI为什么开始按“用多少算多少”？",
+      "guid": "文史背景墙:6294d391a5",
+      "source": "文史背景墙/2026-11-27成稿/20261127_文史背景墙_07_DeepSeek上线_价格计算_功能_AI为什么开始按_用多少算多少.md",
+      "bodyChars": 1796,
+      "paragraphCount": 12,
+      "headingCount": 3,
+      "imageCount": 1,
+      "duplicateParagraphs": 2,
+      "hasMainImage": true
+    },
+    {
+      "title": "U17国足8比0斐济：青年足球的比分，为什么不能只看赢了几球？",
+      "guid": "文史背景墙:8812d83a1b",
+      "source": "文史背景墙/2026-11-27成稿/20261127_文史背景墙_04_U17国足8比0斐济_青年足球的比分_为什么不能只看赢了几球.md",
+      "bodyChars": 2011,
+      "paragraphCount": 16,
+      "headingCount": 3,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
     {
       "title": "“最佳睡眠时长”找到了？睡够几小时，为什么从来不是一道固定题？",
       "guid": "文史背景墙:9efc35a30c",

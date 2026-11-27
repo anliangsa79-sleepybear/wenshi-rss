@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-26T08:17:26.861Z",
+  "generatedAt": "2026-11-27T06:22:56.918Z",
   "vertical": "大预言家",
-  "itemCount": 300,
+  "itemCount": 310,
   "errorCount": 0,
   "warningCount": 0,
   "p1ErrorCount": 0,
@@ -22,6 +22,116 @@
   "duplicateMainImages": [],
   "noImageItems": [],
   "items": [
+    {
+      "title": "《普拉达2》和《饥饿游戏》，谁能先把金球奖的歌唱响？",
+      "guid": "大预言家:d92df3d3cc",
+      "source": "大预言家/文章/2026-11-27_07_金球奖歌曲/文章.md",
+      "bodyChars": 1494,
+      "paragraphCount": 13,
+      "headingCount": 2,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "安妮·海瑟薇和佩内洛普·克鲁兹，金球奖提名会给谁更多位置？",
+      "guid": "大预言家:771b179899",
+      "source": "大预言家/文章/2026-11-27_08_金球奖提名/文章.md",
+      "bodyChars": 1536,
+      "paragraphCount": 13,
+      "headingCount": 2,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "黄金涨了这么久，年底会不会突然跌回3500美元？",
+      "guid": "大预言家:d8c25d075b",
+      "source": "大预言家/文章/2026-11-27_04_黄金年底价格/文章.md",
+      "bodyChars": 1459,
+      "paragraphCount": 12,
+      "headingCount": 2,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "姆巴佩和亚马尔，2027年金球奖会不会提前变成二人转？",
+      "guid": "大预言家:a9354815ae",
+      "source": "大预言家/文章/2026-11-27_09_2027金球奖/文章.md",
+      "bodyChars": 1521,
+      "paragraphCount": 13,
+      "headingCount": 2,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "沙特和美国的核协议，年底前能不能从新闻变成现实？",
+      "guid": "大预言家:138e98e50a",
+      "source": "大预言家/文章/2026-11-27_03_美沙核协议/文章.md",
+      "bodyChars": 1497,
+      "paragraphCount": 12,
+      "headingCount": 2,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "特朗普之后，共和党会先把答案交给万斯，还是鲁比奥？",
+      "guid": "大预言家:815d482072",
+      "source": "大预言家/文章/2026-11-27_01_共和党接班人/文章.md",
+      "bodyChars": 1562,
+      "paragraphCount": 11,
+      "headingCount": 2,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "外星人会不会轮到美国官方开口？真正难的是“确认”两个字",
+      "guid": "大预言家:302467b04f",
+      "source": "大预言家/文章/2026-11-27_06_外星人确认/文章.md",
+      "bodyChars": 1504,
+      "paragraphCount": 13,
+      "headingCount": 2,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "文班亚马已经领跑MVP，东契奇还有没有翻盘窗口？",
+      "guid": "大预言家:95a6375d8b",
+      "source": "大预言家/文章/2026-11-27_10_NBA最有价值球员/文章.md",
+      "bodyChars": 1494,
+      "paragraphCount": 12,
+      "headingCount": 2,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "西班牙大选只剩三天，谁会接过桑切斯的首相办公室？",
+      "guid": "大预言家:2929b30c0f",
+      "source": "大预言家/文章/2026-11-27_02_西班牙大选/文章.md",
+      "bodyChars": 1494,
+      "paragraphCount": 12,
+      "headingCount": 2,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
+    {
+      "title": "一块英伟达B200的“租金”，为什么成了AI热度的温度计？",
+      "guid": "大预言家:21a2fbb388",
+      "source": "大预言家/文章/2026-11-27_05_B200租金/文章.md",
+      "bodyChars": 1496,
+      "paragraphCount": 12,
+      "headingCount": 2,
+      "imageCount": 1,
+      "duplicateParagraphs": 0,
+      "hasMainImage": true
+    },
     {
       "title": "2026年的年度词会是“LARP”吗？词典为什么比热搜更早看见互联网情绪",
       "guid": "大预言家:539b080566",
